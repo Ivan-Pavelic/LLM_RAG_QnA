@@ -41,7 +41,3 @@ Open and run the notebook:
 ## Reproducibility
 - Sampling uses a fixed seed.
 - All core hyperparameters (chunk size, overlap, top-k, decoding settings) are defined in one config cell in the notebook.
-
-## Notes for the paper (IMRaD)
-The notebook logs experiment metadata and produces tables + the required figures for your Results section.
-
