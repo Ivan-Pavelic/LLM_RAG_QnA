@@ -43,6 +43,7 @@ class DenseRetriever:
         model_name: str = "sentence-transformers/all-MiniLM-L6-v2",
         batch_size: int = 64,
         normalize: bool = True,
+        show_progress_bar: bool = False,
     ):
         self.chunks = list(chunks)
         self.model = SentenceTransformer(model_name)
@@ -50,7 +51,7 @@ class DenseRetriever:
         self.embeddings = self.model.encode(
             [c.text for c in self.chunks],
             batch_size=batch_size,
-            show_progress_bar=True,
+            show_progress_bar=show_progress_bar,
             convert_to_numpy=True,
             normalize_embeddings=normalize,
         )
