@@ -1,0 +1,193 @@
+﻿task;id;system;prediction;reference;rougeL_f1;exact_match_norm;manual_label
+qa;572851ba4b864d190016493e;llm;Laser rot;black spots that looked like mold or burned plastic which cause the disc to skip and the movie to exhibit excessive speckling noise;0;0;correct
+qa;572851ba4b864d190016493e;rag_bm25;"Virgin""";black spots that looked like mold or burned plastic which cause the disc to skip and the movie to exhibit excessive speckling noise;0;0;incorrect_or_hallucinated
+qa;572851ba4b864d190016493e;rag_dense;LDs;black spots that looked like mold or burned plastic which cause the disc to skip and the movie to exhibit excessive speckling noise;0;0;partially_correct
+qa;5725f37fec44d21400f3d782;llm;New York City;Bahrain;0;0;incorrect_or_hallucinated
+qa;5725f37fec44d21400f3d782;rag_bm25;France was very much interested in colonial expansion and was willing to exploit the vulnerability of Hanover in war against Great Britain;Bahrain;0;0;partially_correct
+qa;5725f37fec44d21400f3d782;rag_dense;I don't know;Bahrain;0;0;partially_correct
+qa;57267762708984140094c71e;llm;New York City;Centum City, Busan;3,33333E+15;0;incorrect_or_hallucinated
+qa;57267762708984140094c71e;rag_bm25;I don't know;Centum City, Busan;0;0;partially_correct
+qa;57267762708984140094c71e;rag_dense;Africa;Centum City, Busan;0;0;incorrect_or_hallucinated
+qa;56e962d799e8941900975f79;llm;59.8;39.2%;0;0;incorrect_or_hallucinated
+qa;56e962d799e8941900975f79;rag_bm25;Plymouth's early history extends to the Bronze Age, when a first settlement emerged at Mount Batten.;39.2%;0;0;incorrect_or_hallucinated
+qa;56e962d799e8941900975f79;rag_dense;about 50,418 or (39.2%);39.2%;5;0;correct
+qa;56d28d3d59d6e4140014609c;llm;ten;487 million;0;0;incorrect_or_hallucinated
+qa;56d28d3d59d6e4140014609c;rag_bm25;Bangladesh;487 million;0;0;partially_correct
+qa;56d28d3d59d6e4140014609c;rag_dense;Buddhism;487 million;0;0;correct
+qa;572c101b2babe914003c298b;llm;I don't know;Pascal;0;0;partially_correct
+qa;572c101b2babe914003c298b;rag_bm25;[3];Pascal;0;0;incorrect_or_hallucinated
+qa;572c101b2babe914003c298b;rag_dense;cultural phenomena or cultural texts;Pascal;0;0;correct
+qa;572838743acd2414000df741;llm;I don't know;Ukrainian Greek Catholic Church;0;0;partially_correct
+qa;572838743acd2414000df741;rag_bm25;[2];Ukrainian Greek Catholic Church;0;0;incorrect_or_hallucinated
+qa;572838743acd2414000df741;rag_dense;3;Ukrainian Greek Catholic Church;0;0;incorrect_or_hallucinated
+qa;57267cb7dd62a815002e86ed;llm;Victoria;General Gordon;0;0;partially_correct
+qa;57267cb7dd62a815002e86ed;rag_bm25;Apple did not develop the iPod software entirely in-house, instead using PortalPlayer's reference platform based on two ARM cores.;General Gordon;0;0;incorrect_or_hallucinated
+qa;57267cb7dd62a815002e86ed;rag_dense;Queen Victoria;General Gordon;0;0;correct
+qa;56de679e4396321400ee2895;llm;2;240;0;0;incorrect_or_hallucinated
+qa;56de679e4396321400ee2895;rag_bm25;Paris was the capital of French literature until the 17th century;240;0;0;incorrect_or_hallucinated
+qa;56de679e4396321400ee2895;rag_dense;[3];240;0;0;incorrect_or_hallucinated
+qa;572b6d5934ae481900deadfb;llm;Czech;Slovak;0;0;partially_correct
+qa;572b6d5934ae481900deadfb;rag_bm25;Christianity;Slovak;0;0;correct
+qa;572b6d5934ae481900deadfb;rag_dense;Russia;Slovak;0;0;incorrect_or_hallucinated
+qa;57270c73f1498d1400e8f29d;llm;a capacitor;excess electric fields;0;0;correct
+qa;57270c73f1498d1400e8f29d;rag_bm25;Plymouth was built.;excess electric fields;0;0;incorrect_or_hallucinated
+qa;57270c73f1498d1400e8f29d;rag_dense;[3];excess electric fields;0;0;incorrect_or_hallucinated
+qa;570d94dfb3d812140066da6c;llm;ten;3;0;0;incorrect_or_hallucinated
+qa;570d94dfb3d812140066da6c;rag_bm25;paper;3;0;0;incorrect_or_hallucinated
+qa;570d94dfb3d812140066da6c;rag_dense;The first overseas deployment of Canadian military forces occurred during the Second Boer War, when several units were raised to serve under British command.;3;0;0;incorrect_or_hallucinated
+qa;5728f7636aef0514001548f9;llm;English;Latin;0;0;correct
+qa;5728f7636aef0514001548f9;rag_bm25;Plymouth;Latin;0;0;incorrect_or_hallucinated
+qa;5728f7636aef0514001548f9;rag_dense;China;Latin;0;0;incorrect_or_hallucinated
+qa;56de65324396321400ee2882;llm;1830;1646;0;0;incorrect_or_hallucinated
+qa;56de65324396321400ee2882;rag_bm25;Plymouth Colony;1646;0;0;partially_correct
+qa;56de65324396321400ee2882;rag_dense;British;1646;0;0;partially_correct
+qa;56cc655c6d243a140015ef92;llm;acoustic;Bass;0;0;partially_correct
+qa;56cc655c6d243a140015ef92;rag_bm25;[4];Bass;0;0;incorrect_or_hallucinated
+qa;56cc655c6d243a140015ef92;rag_dense;"LDs were not manufactured properly; sometimes a substandard adhesive was used to sandwich together the two sides of the disc";Bass;0;0;incorrect_or_hallucinated
+qa;56cc36926d243a140015eecf;llm;I don't know.;The Yarlung rulers of Tibet;0;0;partially_correct
+qa;56cc36926d243a140015eecf;rag_bm25;Israel;The Yarlung rulers of Tibet;0;0;incorrect_or_hallucinated
+qa;56cc36926d243a140015eecf;rag_dense;[3];The Yarlung rulers of Tibet;0;0;incorrect_or_hallucinated
+qa;570ce29dfed7b91900d45a74;llm;Luke;1:34;0;0;correct
+qa;570ce29dfed7b91900d45a74;rag_bm25;Royal Collection of furniture and art, both restoring and adding to it.;1:34;0;0;partially_correct
+qa;570ce29dfed7b91900d45a74;rag_dense;[3];1:34;0;0;incorrect_or_hallucinated
+qa;572684db5951b619008f7553;llm;I don't know.;Bill Nicholson;0;0;partially_correct
+qa;572684db5951b619008f7553;rag_bm25;[1];Bill Nicholson;0;0;incorrect_or_hallucinated
+qa;572684db5951b619008f7553;rag_dense;[3];Bill Nicholson;0;0;incorrect_or_hallucinated
+qa;572fcaa9947a6a140053ccc0;llm;2;four phases;0;0;incorrect_or_hallucinated
+qa;572fcaa9947a6a140053ccc0;rag_bm25;Pakistan, Buddhism has grown from 138 million adherents in 1910, of which 137 million were in Asia, to 495 million in 2010, of which 487 million were in Asia;four phases;0;0;partially_correct
+qa;572fcaa9947a6a140053ccc0;rag_dense;[3];four phases;0;0;incorrect_or_hallucinated
+qa;56df5a4d8bc80c19004e4af0;llm;ranked 3rd;42nd;0;0;correct
+qa;56df5a4d8bc80c19004e4af0;rag_bm25;Plymouth Colony;42nd;0;0;incorrect_or_hallucinated
+qa;56df5a4d8bc80c19004e4af0;rag_dense;[2];42nd;0;0;incorrect_or_hallucinated
+qa;5727a4f1ff5b5019007d91cc;llm;I don't know.;political obstacles;0;0;partially_correct
+qa;5727a4f1ff5b5019007d91cc;rag_bm25;Jews are a Christian;political obstacles;0;0;incorrect_or_hallucinated
+qa;5727a4f1ff5b5019007d91cc;rag_dense;I don't know;political obstacles;0;0;partially_correct
+qa;56e427248c00841900fbaf02;llm;Japan;the northeastern coast of Estonia;0;0;incorrect_or_hallucinated
+qa;56e427248c00841900fbaf02;rag_bm25;sands;the northeastern coast of Estonia;0;0;incorrect_or_hallucinated
+qa;56e427248c00841900fbaf02;rag_dense;Greek;the northeastern coast of Estonia;0;0;incorrect_or_hallucinated
+qa;570b212d6b8089140040f761;llm;Xbox Live;EA Sports games;0;0;correct
+qa;570b212d6b8089140040f761;rag_bm25;[3];EA Sports games;0;0;incorrect_or_hallucinated
+qa;570b212d6b8089140040f761;rag_dense;Arsenal shareholder announced that it would sell the shares of the company to Arsenal Holdings plc;EA Sports games;0;0;partially_correct
+qa;5728110f4b864d1900164387;llm;1872;23 November 1944;0;0;incorrect_or_hallucinated
+qa;5728110f4b864d1900164387;rag_bm25;I don't know;23 November 1944;0;0;partially_correct
+qa;5728110f4b864d1900164387;rag_dense;international relations;23 November 1944;0;0;correct
+qa;572bff5edfb02c14005c6b2d;llm;They agree on the physics of the universe.;God is omnipotent, omniscient, and benevolent,;0;0;incorrect_or_hallucinated
+qa;572bff5edfb02c14005c6b2d;rag_bm25;adverbial;God is omnipotent, omniscient, and benevolent,;0;0;correct
+qa;572bff5edfb02c14005c6b2d;rag_dense;adverbial;God is omnipotent, omniscient, and benevolent,;0;0;correct
+qa;572ea842dfa6aa1500f8d26f;llm;It is a genus of fungi.;higher internal heating;0;0;incorrect_or_hallucinated
+qa;572ea842dfa6aa1500f8d26f;rag_bm25;Neptune);higher internal heating;0;0;incorrect_or_hallucinated
+qa;572ea842dfa6aa1500f8d26f;rag_dense;[3];higher internal heating;0;0;incorrect_or_hallucinated
+qa;57070b1490286e26004fc83e;llm;adolescent;socio-political constructs;0;0;incorrect_or_hallucinated
+qa;57070b1490286e26004fc83e;rag_bm25;entomologist;socio-political constructs;0;0;partially_correct
+qa;57070b1490286e26004fc83e;rag_dense;I don't know;socio-political constructs;0;0;partially_correct
+qa;572a35beaf94a219006aa8a5;llm;a landslide;the detriment of local Ottoman interests;0;0;incorrect_or_hallucinated
+qa;572a35beaf94a219006aa8a5;rag_bm25;Britain moved to pre-empt this by invading Afghanistan;the detriment of local Ottoman interests;0;0;incorrect_or_hallucinated
+qa;572a35beaf94a219006aa8a5;rag_dense;I don't know).;the detriment of local Ottoman interests;0;0;partially_correct
+qa;5731cb92e99e3014001e628c;llm;I don't know.;governmentally composed prayers for religious services;0;0;partially_correct
+qa;5731cb92e99e3014001e628c;rag_bm25;[3];governmentally composed prayers for religious services;0;0;incorrect_or_hallucinated
+qa;5731cb92e99e3014001e628c;rag_dense;Plymouth Colony;governmentally composed prayers for religious services;0;0;partially_correct
+qa;5726a91c5951b619008f7962;llm;festival;Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton;1,17647E+16;0;correct
+qa;5726a91c5951b619008f7962;rag_bm25;Jesus' conception;Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton;0;0;incorrect_or_hallucinated
+qa;5726a91c5951b619008f7962;rag_dense;George V;Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton;0;0;incorrect_or_hallucinated
+sum;611;llm;South Africa's Freedom Day is celebrated in South Africa on April 27.;"South Africa marks 21 years since the first free election .
+Nation celebrates amid recent violent attack on immigrants .";2,58065E+15;0;correct
+sum;611;rag_bm25;[1] iconic South African freedom fighter Nelson Mandela.;"South Africa marks 21 years since the first free election .
+Nation celebrates amid recent violent attack on immigrants .";7,69231E+15;0;correct
+sum;611;rag_dense;[1] iconic South African freedom fighter Nelson Mandela.;"South Africa marks 21 years since the first free election .
+Nation celebrates amid recent violent attack on immigrants .";7,69231E+15;0;correct
+sum;2384;llm;Nico Rosberg's team-mate. Hamilton was a 'strange' driver in the first round of the Chinese Grand Prix. Rosberg was a 'strange' driver.;"Nico Rosberg was the last driver out of the pit-lane and was forced to turn in a quicker out-lap than he would have liked ahead of his final shot at pole .
+The German narrowly lost out  to his team-mate Lewis Hamilton .
+Rosberg was just 0.042secs slower than his Mercedes rival .
+Rosberg also said: 'Oh, come on, guys', over the team radio after he was informed he'd missed out on pole for Sunday's Chinese Grand Prix .";1,90476E+15;0;correct
+sum;2384;rag_bm25;Hamilton's fastest lap in the first round of the race. Hamilton will start from the front of the pack with Jenson Button 17th and Fernando Alonso 18th. Hamilton will start from the front of the pack with Jenson Button 17th and Fernando Alonso 18th.;"Nico Rosberg was the last driver out of the pit-lane and was forced to turn in a quicker out-lap than he would have liked ahead of his final shot at pole .
+The German narrowly lost out  to his team-mate Lewis Hamilton .
+Rosberg was just 0.042secs slower than his Mercedes rival .
+Rosberg also said: 'Oh, come on, guys', over the team radio after he was informed he'd missed out on pole for Sunday's Chinese Grand Prix .";1,11111E+15;0;incorrect_or_hallucinated
+sum;2384;rag_dense;Hamilton will start from the front of the pack as he bids to win his fourth grand prix in China. Hamilton will start from the front of the pack as he bids to win his fourth grand prix in China. Hamilton will start from the front of the pack as he bids to win his fourth grand prix in China. The German has now been out-qualified by Hamilton at each of the three races this season. Hamilton, who is customarily gracious in defeat, fell slightly short of Hamilton’s mark and was grumpy afterwards. He said: ’It was not ideal to put me;"Nico Rosberg was the last driver out of the pit-lane and was forced to turn in a quicker out-lap than he would have liked ahead of his final shot at pole .
+The German narrowly lost out  to his team-mate Lewis Hamilton .
+Rosberg was just 0.042secs slower than his Mercedes rival .
+Rosberg also said: 'Oh, come on, guys', over the team radio after he was informed he'd missed out on pole for Sunday's Chinese Grand Prix .";1,62162E+16;0;incorrect_or_hallucinated
+sum;8241;llm;A hate preacher who was invited to speak at the Oxford Union has been refused a passport.;"Preacher Trevor Brooks has been refused a passport by the Home Office .
+Brooks, 39, is an associate of Islamist firebrand preacher Anjem Choudary .
+A Home Office letter said he is linked to banned group Al Muhajiroun .
+It added he was assessed as being likely to travel to Syria to fight for ISIS .";1,73913E+15;0;partially_correct
+sum;8241;rag_bm25;A radical Muslim preacher has been refused a passport after the Home Office accused him of planning to join Islamic State.;"Preacher Trevor Brooks has been refused a passport by the Home Office .
+Brooks, 39, is an associate of Islamist firebrand preacher Anjem Choudary .
+A Home Office letter said he is linked to banned group Al Muhajiroun .
+It added he was assessed as being likely to travel to Syria to fight for ISIS .";3,0137E+15;0;incorrect_or_hallucinated
+sum;8241;rag_dense;A radical Muslim preacher has been refused a passport after the Home Office accused him of planning to join Islamic State.;"Preacher Trevor Brooks has been refused a passport by the Home Office .
+Brooks, 39, is an associate of Islamist firebrand preacher Anjem Choudary .
+A Home Office letter said he is linked to banned group Al Muhajiroun .
+It added he was assessed as being likely to travel to Syria to fight for ISIS .";3,0137E+15;0;incorrect_or_hallucinated
+sum;1850;llm;Derby want Sean Dyche to replace Steve McClaren. Dyche has been linked with a move to Newcastle. Derby want McClaren to replace Steve McClaren.;"Steve McClaren has been linked with a number of jobs including Newcastle .
+Derby are chasing a play-off place and are sixth in the Championship .
+The rams have been impressed with Sean Dyche in the Premier League .
+Derby want the Burnley boss to replace McClaren if he leaves this summer .";3,51351E+16;0;correct
+sum;1850;rag_bm25;Derby County want Sean Dyche to replace Steve McClaren. Derby want Sean Dyche to replace Steve McClaren. Dyche has been linked with a move to Newcastle at the end of the season. McClaren has been heavily backed to replace Alan Pardew at Newcastle earlier this season.;"Steve McClaren has been linked with a number of jobs including Newcastle .
+Derby are chasing a play-off place and are sixth in the Championship .
+The rams have been impressed with Sean Dyche in the Premier League .
+Derby want the Burnley boss to replace McClaren if he leaves this summer .";2,91667E+15;0;partially_correct
+sum;1850;rag_dense;Derby County want Sean Dyche to replace Steve McClaren. Derby want Sean Dyche to replace Steve McClaren.;"Steve McClaren has been linked with a number of jobs including Newcastle .
+Derby are chasing a play-off place and are sixth in the Championship .
+The rams have been impressed with Sean Dyche in the Premier League .
+Derby want the Burnley boss to replace McClaren if he leaves this summer .";2,38806E+16;0;incorrect_or_hallucinated
+sum;2303;llm;Ricky Hatton's former trainer has been charged with sexual assault on a girl under the age of 16. The former two-weight world champion has been charged with a sexual assault on a girl under the age of 16. Shannon trained Hatton for just one fight, against Vyacheslav Senchenko.;"Boxing trainer Bob Shannon has been charged with sexual assault .
+Shannon is best known for training Ricky Hatton in 2012 .
+Hatton lost their only fight together against Vyacheslav Senchenko in 2012 .
+Shannon will appear before magistrates in Manchester next week .";3,11111E+15;0;incorrect_or_hallucinated
+sum;2303;rag_bm25;Ricky Hatton’s former trainer has been charged with sexually assaulting a girl under the age of 16.;"Boxing trainer Bob Shannon has been charged with sexual assault .
+Shannon is best known for training Ricky Hatton in 2012 .
+Hatton lost their only fight together against Vyacheslav Senchenko in 2012 .
+Shannon will appear before magistrates in Manchester next week .";2,41379E+16;0;correct
+sum;2303;rag_dense;[1] win the welterweight world title, under the tutelage of long-term trainer Billy Graham. Hatton’s weight fluctuations between fights eventually caught up with him and he lost super-fights against Floyd Mayweather in 2007 and Manny Pacquiao two years later, before retiring for the first time. He turned to Shannon to guide his comeback in 2012 but the Senchenko defeat was their only fight together.;"Boxing trainer Bob Shannon has been charged with sexual assault .
+Shannon is best known for training Ricky Hatton in 2012 .
+Hatton lost their only fight together against Vyacheslav Senchenko in 2012 .
+Shannon will appear before magistrates in Manchester next week .";1,68224E+16;0;incorrect_or_hallucinated
+sum;1842;llm;Nabil Fekir's father says he would not go to Manchester City to sit on the bench. The Lyon star has been attracting interest from Premier League clubs but his family are disappointed with his insistence on pursuing a deal with City. Fekir has been attracting interest from Premier League clubs but his family are reportedly disappointed with their insistence on pursuing a deal with City.;"Lyon star Nabil Fekir has attracted interest from Premier League clubs .
+Frontman's father believes Fekir would progress and develop at Arsenal .
+However, Fekir Snr thinks his son would be stuck on bench at Man City .";2,54902E+15;0;partially_correct
+sum;1842;rag_bm25;Nabil Fekir's father said: 'Nabil would like to finish 1st or 2nd and play Champions League football with Lyon. If he leaves, it'll be for Arsenal. It's the only club that can enable him to progress, with Arsene Wenger. He will not go to Manchester City to sit on the bench.;"Lyon star Nabil Fekir has attracted interest from Premier League clubs .
+Frontman's father believes Fekir would progress and develop at Arsenal .
+However, Fekir Snr thinks his son would be stuck on bench at Man City .";2;0;incorrect_or_hallucinated
+sum;1842;rag_dense;Nabil Fekir's father insists Arsenal would be the ideal destination for his son, rather than a move to Manchester City. Fekir recently split with his agents after his family were disappointed with their insistence on pursuing a deal with City. Fekir recently split with his agents after his family were reportedly disappointed with their insistence on pursuing a deal with City. Fekir recently split with his agents after his family were reportedly disappointed with their insistence on pursuing a deal with City.;"Lyon star Nabil Fekir has attracted interest from Premier League clubs .
+Frontman's father believes Fekir would progress and develop at Arsenal .
+However, Fekir Snr thinks his son would be stuck on bench at Man City .";1,51261E+16;0;incorrect_or_hallucinated
+sum;8185;llm;Study found that just one extra meal out a week raises the odds of having high blood pressure by six per cent. Eating out is associated with higher calorie, saturated fat and salt intake.;"Those who often dine out are more likely to have elevated blood pressure .
+Eating out is associated with higher calorie, saturated fat and salt intake .
+Researchers found 27.4% of Singapore's population had pre-hypertension .
+Of these, more than a third ate more than 12 meals out every week .";3,80952E+16;0;incorrect_or_hallucinated
+sum;8185;rag_bm25;Study found that just one extra meal out a week raised the odds of having high blood pressure by six per cent. The study found that even eating one extra meal out raised the odds of having high blood pressure by six per cent.;"Those who often dine out are more likely to have elevated blood pressure .
+Eating out is associated with higher calorie, saturated fat and salt intake .
+Researchers found 27.4% of Singapore's population had pre-hypertension .
+Of these, more than a third ate more than 12 meals out every week .";1,48936E+16;0;correct
+sum;8185;rag_dense;Researchers in Singapore found that pre-hypertension and hypertension were more likely to eat more meals away from home than in men.;"Those who often dine out are more likely to have elevated blood pressure .
+Eating out is associated with higher calorie, saturated fat and salt intake .
+Researchers found 27.4% of Singapore's population had pre-hypertension .
+Of these, more than a third ate more than 12 meals out every week .";1,94444E+16;0;incorrect_or_hallucinated
+sum;1462;llm;Smartphones are the most popular item, with an average of 1.7 per household. Smartphones are the most popular item, with an average of 1.7 per household.;"Smartphones are the most common web devices, at 1.7 per home .
+Laptops and tablets are just behind, a YouGov poll has found .
+Meanwhile, digital advertising has hit a record high of £7.2billion .";3,22581E+15;0;partially_correct
+sum;1462;rag_bm25;The survey found the average Briton who is online is willing to pay a maximum of £1.53 a month for their email service, £1.33 to use search engines, £1.10 for video content, 92p for news websites, 88p.;"Smartphones are the most common web devices, at 1.7 per home .
+Laptops and tablets are just behind, a YouGov poll has found .
+Meanwhile, digital advertising has hit a record high of £7.2billion .";1,08108E+15;0;incorrect_or_hallucinated
+sum;1462;rag_dense;The survey found the average Briton who is online is willing to pay a maximum of £1.53 a month for their email service, £1.33 to use search engines, £1.10 for video content, 92p for news websites, 88p.;"Smartphones are the most common web devices, at 1.7 per home .
+Laptops and tablets are just behind, a YouGov poll has found .
+Meanwhile, digital advertising has hit a record high of £7.2billion .";1,08108E+15;0;incorrect_or_hallucinated
+sum;138;llm;The driver of a Lamborghini was killed in a crash at Walt Disney World Speedway in Orlando, Florida, on Sunday.;"The crash occurred at the Exotic Driving Experience at Walt Disney World Speedway .
+Officials say the driver, 24-year-old Tavon Watson, lost control of a Lamborghini .
+Passenger Gary Terry, 36, died at the scene .";2,54545E+15;0;incorrect_or_hallucinated
+sum;138;rag_bm25;What was supposed to be a fantasy sports car ride at Walt Disney World Speedway turned deadly when a Lamborghini crashed into a guardrail.;"The crash occurred at the Exotic Driving Experience at Walt Disney World Speedway .
+Officials say the driver, 24-year-old Tavon Watson, lost control of a Lamborghini .
+Passenger Gary Terry, 36, died at the scene .";2,37288E+16;0;correct
+sum;138;rag_dense;What was supposed to be a fantasy sports car ride at Walt Disney World Speedway turned deadly when a Lamborghini crashed into a guardrail.;"The crash occurred at the Exotic Driving Experience at Walt Disney World Speedway .
+Officials say the driver, 24-year-old Tavon Watson, lost control of a Lamborghini .
+Passenger Gary Terry, 36, died at the scene .";2,37288E+16;0;incorrect_or_hallucinated
+sum;2820;llm;Manchester United boss says he is keen on staying at Atletico Madrid. The 30-year-old has admitted he is 'proud' to be linked with a move to Manchester United.;"Miranda has been linked with a summer move to Manchester United .
+However the Brazilian centre back is keen on staying at Atletico Madrid .
+Miranda has said he is 'proud' to be on Louis van Gaal's radar .";4,47761E+15;0;partially_correct
+sum;2820;rag_bm25;Manchester United target Miranda has revealed his delight at being linked with a move to Louis van Gaal's side. The 30-year-old has revealed his delight at being linked with a move to Manchester United. The Brazilian centre back is said to be on Van Gaal's summer wishlist as the Dutchman is keen on strengthening his defensive options ahead of the 2015-16 campaign.;"Miranda has been linked with a summer move to Manchester United .
+However the Brazilian centre back is keen on staying at Atletico Madrid .
+Miranda has said he is 'proud' to be on Louis van Gaal's radar .";4,03846E+16;0;incorrect_or_hallucinated
+sum;2820;rag_dense;Manchester United boss says he is keen on staying at Atletico Madrid. The 30-year-old has revealed he is keen on staying at Atletico Madrid. The Brazilian centre back has revealed he is keen on staying at Atletico Madrid.;"Miranda has been linked with a summer move to Manchester United .
+However the Brazilian centre back is keen on staying at Atletico Madrid .
+Miranda has said he is 'proud' to be on Louis van Gaal's radar .";3,63636E+16;0;partially_correct

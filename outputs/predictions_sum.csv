@@ -1,0 +1,277 @@
+task,id,system,prediction,reference
+sum,611,llm,South Africa's Freedom Day is celebrated in South Africa on April 27.,"South Africa marks 21 years since the first free election .
+Nation celebrates amid recent violent attack on immigrants ."
+sum,611,rag_bm25,[1] iconic South African freedom fighter Nelson Mandela.,"South Africa marks 21 years since the first free election .
+Nation celebrates amid recent violent attack on immigrants ."
+sum,611,rag_dense,[1] iconic South African freedom fighter Nelson Mandela.,"South Africa marks 21 years since the first free election .
+Nation celebrates amid recent violent attack on immigrants ."
+sum,2384,llm,Nico Rosberg's team-mate. Hamilton was a 'strange' driver in the first round of the Chinese Grand Prix. Rosberg was a 'strange' driver.,"Nico Rosberg was the last driver out of the pit-lane and was forced to turn in a quicker out-lap than he would have liked ahead of his final shot at pole .
+The German narrowly lost out  to his team-mate Lewis Hamilton .
+Rosberg was just 0.042secs slower than his Mercedes rival .
+Rosberg also said: 'Oh, come on, guys', over the team radio after he was informed he'd missed out on pole for Sunday's Chinese Grand Prix ."
+sum,2384,rag_bm25,Hamilton's fastest lap in the first round of the race. Hamilton will start from the front of the pack with Jenson Button 17th and Fernando Alonso 18th. Hamilton will start from the front of the pack with Jenson Button 17th and Fernando Alonso 18th.,"Nico Rosberg was the last driver out of the pit-lane and was forced to turn in a quicker out-lap than he would have liked ahead of his final shot at pole .
+The German narrowly lost out  to his team-mate Lewis Hamilton .
+Rosberg was just 0.042secs slower than his Mercedes rival .
+Rosberg also said: 'Oh, come on, guys', over the team radio after he was informed he'd missed out on pole for Sunday's Chinese Grand Prix ."
+sum,2384,rag_dense,"Hamilton will start from the front of the pack as he bids to win his fourth grand prix in China. Hamilton will start from the front of the pack as he bids to win his fourth grand prix in China. Hamilton will start from the front of the pack as he bids to win his fourth grand prix in China. The German has now been out-qualified by Hamilton at each of the three races this season. Hamilton, who is customarily gracious in defeat, fell slightly short of Hamilton’s mark and was grumpy afterwards. He said: ’It was not ideal to put me","Nico Rosberg was the last driver out of the pit-lane and was forced to turn in a quicker out-lap than he would have liked ahead of his final shot at pole .
+The German narrowly lost out  to his team-mate Lewis Hamilton .
+Rosberg was just 0.042secs slower than his Mercedes rival .
+Rosberg also said: 'Oh, come on, guys', over the team radio after he was informed he'd missed out on pole for Sunday's Chinese Grand Prix ."
+sum,2311,llm,Newcastle United fans have been able to spot the disgraceful move. The pictures were thrown in a skip outside St James' Park. The pictures were thrown in a skip outside the stadium.,"Newcastle fans angered after club dump pictures of Sir Bobby Robson .
+Sir Bobby's side finished fourth and qualified for the Champions League back in 2001-2002 in what was one of their most successful seasons .
+Supporters are upset over a lack of respect to their former manager .
+Alan Shearer, Nolberto Solano and Gary Speed are included in the photos .
+CLICK HERE for all the latest Newcastle United news ."
+sum,2311,rag_bm25,"Sir Bobby, who died in 2011, was a key figure in the title challenge. The former club captain was instrumental in qualifying for Europe. Gary Speed, who died in 2011, was also seen as a key figure in Newcastle's title challenge.","Newcastle fans angered after club dump pictures of Sir Bobby Robson .
+Sir Bobby's side finished fourth and qualified for the Champions League back in 2001-2002 in what was one of their most successful seasons .
+Supporters are upset over a lack of respect to their former manager .
+Alan Shearer, Nolberto Solano and Gary Speed are included in the photos .
+CLICK HERE for all the latest Newcastle United news ."
+sum,2311,rag_dense,"Sir Bobby Robson's team finished fourth in 2002 and qualified for the Champions League. Alan Shearer, Gary Speed and Nolberto Solano are among the legends.","Newcastle fans angered after club dump pictures of Sir Bobby Robson .
+Sir Bobby's side finished fourth and qualified for the Champions League back in 2001-2002 in what was one of their most successful seasons .
+Supporters are upset over a lack of respect to their former manager .
+Alan Shearer, Nolberto Solano and Gary Speed are included in the photos .
+CLICK HERE for all the latest Newcastle United news ."
+sum,6874,llm,"Cindy Santamaria-Williams, of Stroudsburg, Pennsylvania, was beaten by three teenagers. She told them to quiet down during a movie. She said she shushed three girls in the dark theater during Fast and Furious 7. She said they were cursing loudly.","Cindy Santamaria-Williams is covered in bruises and has a broken eye socket following the alleged attack on Easter Sunday .
+Santamaria-Williams claims three teenage girl beat her outside the theater after she shushed the girls because they were loud .
+Santamaria-Williams' sister-in-law was also hurt .
+Police are searching for the teens and say they will face assault charges ."
+sum,6874,rag_bm25,"Cindy Santamaria-Williams, of Stroudsburg, Pennsylvania, is covered in bruises and has a broken eye socket following the alleged attack on Easter Sunday.","Cindy Santamaria-Williams is covered in bruises and has a broken eye socket following the alleged attack on Easter Sunday .
+Santamaria-Williams claims three teenage girl beat her outside the theater after she shushed the girls because they were loud .
+Santamaria-Williams' sister-in-law was also hurt .
+Police are searching for the teens and say they will face assault charges ."
+sum,6874,rag_dense,Santamaria-Williams said she was knocked down to the ground outside a movie theater on Easter Sunday. She said she was beaten by three teenagers all because she told them to quiet down during a movie.,"Cindy Santamaria-Williams is covered in bruises and has a broken eye socket following the alleged attack on Easter Sunday .
+Santamaria-Williams claims three teenage girl beat her outside the theater after she shushed the girls because they were loud .
+Santamaria-Williams' sister-in-law was also hurt .
+Police are searching for the teens and say they will face assault charges ."
+sum,8241,llm,A hate preacher who was invited to speak at the Oxford Union has been refused a passport.,"Preacher Trevor Brooks has been refused a passport by the Home Office .
+Brooks, 39, is an associate of Islamist firebrand preacher Anjem Choudary .
+A Home Office letter said he is linked to banned group Al Muhajiroun .
+It added he was assessed as being likely to travel to Syria to fight for ISIS ."
+sum,8241,rag_bm25,A radical Muslim preacher has been refused a passport after the Home Office accused him of planning to join Islamic State.,"Preacher Trevor Brooks has been refused a passport by the Home Office .
+Brooks, 39, is an associate of Islamist firebrand preacher Anjem Choudary .
+A Home Office letter said he is linked to banned group Al Muhajiroun .
+It added he was assessed as being likely to travel to Syria to fight for ISIS ."
+sum,8241,rag_dense,A radical Muslim preacher has been refused a passport after the Home Office accused him of planning to join Islamic State.,"Preacher Trevor Brooks has been refused a passport by the Home Office .
+Brooks, 39, is an associate of Islamist firebrand preacher Anjem Choudary .
+A Home Office letter said he is linked to banned group Al Muhajiroun .
+It added he was assessed as being likely to travel to Syria to fight for ISIS ."
+sum,3959,llm,UEFA's second Serie A side have won the Europa League semi-finals.,"Europa League semi-final draw: Napoli vs Dnipro, Sevilla vs Fiorentina .
+Last-four ties to be played on May 7 and May 14 .
+Final takes place at National Stadium in Warsaw on May 27 ."
+sum,3959,rag_bm25,UEFA's second club competition has thrown up an interesting mix in the last four.,"Europa League semi-final draw: Napoli vs Dnipro, Sevilla vs Fiorentina .
+Last-four ties to be played on May 7 and May 14 .
+Final takes place at National Stadium in Warsaw on May 27 ."
+sum,3959,rag_dense,"Sevilla, Napoli, Fiorentina and Dnipro will all learn who they face in the semi-finals of the Europa League.","Europa League semi-final draw: Napoli vs Dnipro, Sevilla vs Fiorentina .
+Last-four ties to be played on May 7 and May 14 .
+Final takes place at National Stadium in Warsaw on May 27 ."
+sum,1850,llm,Derby want Sean Dyche to replace Steve McClaren. Dyche has been linked with a move to Newcastle. Derby want McClaren to replace Steve McClaren.,"Steve McClaren has been linked with a number of jobs including Newcastle .
+Derby are chasing a play-off place and are sixth in the Championship .
+The rams have been impressed with Sean Dyche in the Premier League .
+Derby want the Burnley boss to replace McClaren if he leaves this summer ."
+sum,1850,rag_bm25,Derby County want Sean Dyche to replace Steve McClaren. Derby want Sean Dyche to replace Steve McClaren. Dyche has been linked with a move to Newcastle at the end of the season. McClaren has been heavily backed to replace Alan Pardew at Newcastle earlier this season.,"Steve McClaren has been linked with a number of jobs including Newcastle .
+Derby are chasing a play-off place and are sixth in the Championship .
+The rams have been impressed with Sean Dyche in the Premier League .
+Derby want the Burnley boss to replace McClaren if he leaves this summer ."
+sum,1850,rag_dense,Derby County want Sean Dyche to replace Steve McClaren. Derby want Sean Dyche to replace Steve McClaren.,"Steve McClaren has been linked with a number of jobs including Newcastle .
+Derby are chasing a play-off place and are sixth in the Championship .
+The rams have been impressed with Sean Dyche in the Premier League .
+Derby want the Burnley boss to replace McClaren if he leaves this summer ."
+sum,3466,llm,"The 20,000 square foot mansion is opulent and private. It sits by two lakes in eight acres of manicured gardens. The lavish mansion is a 'smart' and a 'smart' backdrop to the hit show.","The giant mansion used to film the hit show Empire is on the market for $13 million following a price drop .
+The 20,000 square feet French Country-style estate took five years to build .
+The five bedroom, nine bathroom house features waterfront views, custom woodwork and lots of space for entertaining .
+Fit for a mogul, the house is  owned by strip club owner Sam Cecola ."
+sum,3466,rag_bm25,"The 20,000 square foot mansion serves as the backdrop to the hit show Empire. It took five years to build the enormous mansion, with construction finally coming to a halt in 2008.","The giant mansion used to film the hit show Empire is on the market for $13 million following a price drop .
+The 20,000 square feet French Country-style estate took five years to build .
+The five bedroom, nine bathroom house features waterfront views, custom woodwork and lots of space for entertaining .
+Fit for a mogul, the house is  owned by strip club owner Sam Cecola ."
+sum,3466,rag_dense,The house is as opulent in real life as it is in the show and has a lot of room for entertaining.,"The giant mansion used to film the hit show Empire is on the market for $13 million following a price drop .
+The 20,000 square feet French Country-style estate took five years to build .
+The five bedroom, nine bathroom house features waterfront views, custom woodwork and lots of space for entertaining .
+Fit for a mogul, the house is  owned by strip club owner Sam Cecola ."
+sum,559,llm,"A police officer was arrested at a woman's residence in Washington. A police officer went to a woman's residence about 12:24 a.m. after receiving a call about a burglary in progress. The officer found the front door with broken hinges, boot prints and two broken windows.","Off-duty member of the Uniformed Division of Secret Service arrested Friday .
+Police said he was charged with trying to break into a woman's residence ."
+sum,559,rag_bm25,"A police officer went to a woman's residence about 12:24 a.m. after receiving a call about a burglary in progress, police documents say.","Off-duty member of the Uniformed Division of Secret Service arrested Friday .
+Police said he was charged with trying to break into a woman's residence ."
+sum,559,rag_dense,"D.C. Metropolitan Police officer, who was at the scene, said he was a police officer and asked to speak with the woman.","Off-duty member of the Uniformed Division of Secret Service arrested Friday .
+Police said he was charged with trying to break into a woman's residence ."
+sum,10362,llm,"Carrie Reichert, 43, has written a book about the night. She says she felt 'overdressed' when she saw him playing strip billiards. She says she was 'so excited' to see him playing naked billiards.","Dominatrix claims she shared a 'hot, deep kiss' with Prince Harry in Vegas .
+Carrie Reichert said she felt overdressed after seeing his 'cute naked a**'
+The 43-year-old made the claim in an excerpt from her upcoming book .
+Kensington Palace has previously denied she was invited to the hotel suite ."
+sum,10362,rag_bm25,"Carrie Reichert, 43, has released a teaser from her upcoming book In the Eye of the Royal Story.","Dominatrix claims she shared a 'hot, deep kiss' with Prince Harry in Vegas .
+Carrie Reichert said she felt overdressed after seeing his 'cute naked a**'
+The 43-year-old made the claim in an excerpt from her upcoming book .
+Kensington Palace has previously denied she was invited to the hotel suite ."
+sum,10362,rag_dense,"Carrie Reichert, 43, has released a teaser from her upcoming book In the Eye of the Royal Story. She claims she was 'overdressed' when she saw him playing strip billiards. She wrote: 'I'm only in my bathing suit and feeling overdressed, wondering if I too should strip down and join him in his royal buff'","Dominatrix claims she shared a 'hot, deep kiss' with Prince Harry in Vegas .
+Carrie Reichert said she felt overdressed after seeing his 'cute naked a**'
+The 43-year-old made the claim in an excerpt from her upcoming book .
+Kensington Palace has previously denied she was invited to the hotel suite ."
+sum,1375,llm,Spectators were seen smiling as they watched the team of animals in action. Spectators were seen smiling as they watched the team of animals in action.,"The critters were filmed in action after getting a makeshift backboard and hoop installed in their pen .
+The zoo put on a range of Final Four activities over the weekend for visitors including a basketball-theme scavenger hunt .
+March Madness is set to come to a close tonight as the Wisconsin Badgers and Duke Blue Devils go head-to-head at the Lucas Oil Stadium ."
+sum,1375,rag_bm25,[2],"The critters were filmed in action after getting a makeshift backboard and hoop installed in their pen .
+The zoo put on a range of Final Four activities over the weekend for visitors including a basketball-theme scavenger hunt .
+March Madness is set to come to a close tonight as the Wisconsin Badgers and Duke Blue Devils go head-to-head at the Lucas Oil Stadium ."
+sum,1375,rag_dense,[2],"The critters were filmed in action after getting a makeshift backboard and hoop installed in their pen .
+The zoo put on a range of Final Four activities over the weekend for visitors including a basketball-theme scavenger hunt .
+March Madness is set to come to a close tonight as the Wisconsin Badgers and Duke Blue Devils go head-to-head at the Lucas Oil Stadium ."
+sum,2303,llm,"Ricky Hatton's former trainer has been charged with sexual assault on a girl under the age of 16. The former two-weight world champion has been charged with a sexual assault on a girl under the age of 16. Shannon trained Hatton for just one fight, against Vyacheslav Senchenko.","Boxing trainer Bob Shannon has been charged with sexual assault .
+Shannon is best known for training Ricky Hatton in 2012 .
+Hatton lost their only fight together against Vyacheslav Senchenko in 2012 .
+Shannon will appear before magistrates in Manchester next week ."
+sum,2303,rag_bm25,Ricky Hatton’s former trainer has been charged with sexually assaulting a girl under the age of 16.,"Boxing trainer Bob Shannon has been charged with sexual assault .
+Shannon is best known for training Ricky Hatton in 2012 .
+Hatton lost their only fight together against Vyacheslav Senchenko in 2012 .
+Shannon will appear before magistrates in Manchester next week ."
+sum,2303,rag_dense,"[1] win the welterweight world title, under the tutelage of long-term trainer Billy Graham. Hatton’s weight fluctuations between fights eventually caught up with him and he lost super-fights against Floyd Mayweather in 2007 and Manny Pacquiao two years later, before retiring for the first time. He turned to Shannon to guide his comeback in 2012 but the Senchenko defeat was their only fight together.","Boxing trainer Bob Shannon has been charged with sexual assault .
+Shannon is best known for training Ricky Hatton in 2012 .
+Hatton lost their only fight together against Vyacheslav Senchenko in 2012 .
+Shannon will appear before magistrates in Manchester next week ."
+sum,1664,llm,Leeds United are subject of a takeover bid from Red Bull. The soft drink giant has already owned three clubs - RB Leipzig and Red Bull Salzburg. Red Bull has been linked with a bid in November.,"Red Bull have launched a bid to buy Leeds, Massimo Cellino says .
+Cellino says majority shareholder Eleonora Sport are considering offer .
+Leeds chairman Andrew Umbers later said he was unaware of offer .
+Cellino currently serving a Football League disqualification ."
+sum,1664,rag_bm25,"Leeds United are the subject of a takeover bid from Red Bull. The soft drink giant already own three clubs - RB Leipzig in Germany, Red Bull Salzburg in Austria and MLS side New York Red Bulls in Formula One. After being linked with a bid in November, Red Bull issued a statement saying: 'Red Bull has no plans to take over Leeds Utd nor take a stake in the club.'","Red Bull have launched a bid to buy Leeds, Massimo Cellino says .
+Cellino says majority shareholder Eleonora Sport are considering offer .
+Leeds chairman Andrew Umbers later said he was unaware of offer .
+Cellino currently serving a Football League disqualification ."
+sum,1664,rag_dense,Leeds United are subject of a takeover bid from Red Bull. Cellino said that Leeds' majority shareholder Eleonora Sport was considering the offer. But Leeds chairman Andrew Umbers said he was not aware of an offer from Red Bull.,"Red Bull have launched a bid to buy Leeds, Massimo Cellino says .
+Cellino says majority shareholder Eleonora Sport are considering offer .
+Leeds chairman Andrew Umbers later said he was unaware of offer .
+Cellino currently serving a Football League disqualification ."
+sum,1842,llm,Nabil Fekir's father says he would not go to Manchester City to sit on the bench. The Lyon star has been attracting interest from Premier League clubs but his family are disappointed with his insistence on pursuing a deal with City. Fekir has been attracting interest from Premier League clubs but his family are reportedly disappointed with their insistence on pursuing a deal with City.,"Lyon star Nabil Fekir has attracted interest from Premier League clubs .
+Frontman's father believes Fekir would progress and develop at Arsenal .
+However, Fekir Snr thinks his son would be stuck on bench at Man City ."
+sum,1842,rag_bm25,"Nabil Fekir's father said: 'Nabil would like to finish 1st or 2nd and play Champions League football with Lyon. If he leaves, it'll be for Arsenal. It's the only club that can enable him to progress, with Arsene Wenger. He will not go to Manchester City to sit on the bench.","Lyon star Nabil Fekir has attracted interest from Premier League clubs .
+Frontman's father believes Fekir would progress and develop at Arsenal .
+However, Fekir Snr thinks his son would be stuck on bench at Man City ."
+sum,1842,rag_dense,"Nabil Fekir's father insists Arsenal would be the ideal destination for his son, rather than a move to Manchester City. Fekir recently split with his agents after his family were disappointed with their insistence on pursuing a deal with City. Fekir recently split with his agents after his family were reportedly disappointed with their insistence on pursuing a deal with City. Fekir recently split with his agents after his family were reportedly disappointed with their insistence on pursuing a deal with City.","Lyon star Nabil Fekir has attracted interest from Premier League clubs .
+Frontman's father believes Fekir would progress and develop at Arsenal .
+However, Fekir Snr thinks his son would be stuck on bench at Man City ."
+sum,10295,llm,"Philip Garrod, 43, was caught speeding at 105mph on his Suzuki motorbike. He was fined £650 with six points for speeding. He was caught by a speed camera doing the eye-watering speed in a 60mph zone on his motorbike. He pleaded guilty and was fined £650 with six points.","Philip Garrod caught while on way to work with Welsh Ambulance Service .
+Pleaded guilty to offence but asked for special consideration to avoid ban .
+Claimed he was rushing to see injured cyclist after message from colleague .
+Falsified patient document for fake cyclist injury on the A470 at Dolgellau .
+Rumbled after bosses checked 999 calls and found none matching the claim ."
+sum,10295,rag_bm25,"Philip Garrod, 43, was caught speeding at 105mph on his Suzuki motorbike in north Wales.","Philip Garrod caught while on way to work with Welsh Ambulance Service .
+Pleaded guilty to offence but asked for special consideration to avoid ban .
+Claimed he was rushing to see injured cyclist after message from colleague .
+Falsified patient document for fake cyclist injury on the A470 at Dolgellau .
+Rumbled after bosses checked 999 calls and found none matching the claim ."
+sum,10295,rag_dense,"Philip Garrod, 43, was caught by a speed camera doing 105mph on his Suzuki motorbike. He pleaded guilty and was fined £650 with six points for speeding. He pleaded guilty and was fined £650 with six points for speeding.","Philip Garrod caught while on way to work with Welsh Ambulance Service .
+Pleaded guilty to offence but asked for special consideration to avoid ban .
+Claimed he was rushing to see injured cyclist after message from colleague .
+Falsified patient document for fake cyclist injury on the A470 at Dolgellau .
+Rumbled after bosses checked 999 calls and found none matching the claim ."
+sum,8185,llm,"Study found that just one extra meal out a week raises the odds of having high blood pressure by six per cent. Eating out is associated with higher calorie, saturated fat and salt intake.","Those who often dine out are more likely to have elevated blood pressure .
+Eating out is associated with higher calorie, saturated fat and salt intake .
+Researchers found 27.4% of Singapore's population had pre-hypertension .
+Of these, more than a third ate more than 12 meals out every week ."
+sum,8185,rag_bm25,Study found that just one extra meal out a week raised the odds of having high blood pressure by six per cent. The study found that even eating one extra meal out raised the odds of having high blood pressure by six per cent.,"Those who often dine out are more likely to have elevated blood pressure .
+Eating out is associated with higher calorie, saturated fat and salt intake .
+Researchers found 27.4% of Singapore's population had pre-hypertension .
+Of these, more than a third ate more than 12 meals out every week ."
+sum,8185,rag_dense,Researchers in Singapore found that pre-hypertension and hypertension were more likely to eat more meals away from home than in men.,"Those who often dine out are more likely to have elevated blood pressure .
+Eating out is associated with higher calorie, saturated fat and salt intake .
+Researchers found 27.4% of Singapore's population had pre-hypertension .
+Of these, more than a third ate more than 12 meals out every week ."
+sum,8759,llm,"Christopher Furniss-Roe, from Pontypool, South Wales, was found hanging in his bedroom by his father.","Christopher Furniss-Roe, 8, found hanged in his bedroom in South Wales .
+He had been sent to bed early for breaking younger sister's beach bucket .
+His father tried to save his life, but he died in hospital the following day .
+Coroner ruled it was a 'tragic accident' and recorded the cause as hanging .
+For confidential support on suicide matters in the UK, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here."
+sum,8759,rag_bm25,"Christopher Furniss-Roe, who hanged himself in a 'tragic accident', died the next day in hospital.","Christopher Furniss-Roe, 8, found hanged in his bedroom in South Wales .
+He had been sent to bed early for breaking younger sister's beach bucket .
+His father tried to save his life, but he died in hospital the following day .
+Coroner ruled it was a 'tragic accident' and recorded the cause as hanging .
+For confidential support on suicide matters in the UK, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here."
+sum,8759,rag_dense,Christopher's life support machine switched off.,"Christopher Furniss-Roe, 8, found hanged in his bedroom in South Wales .
+He had been sent to bed early for breaking younger sister's beach bucket .
+His father tried to save his life, but he died in hospital the following day .
+Coroner ruled it was a 'tragic accident' and recorded the cause as hanging .
+For confidential support on suicide matters in the UK, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here."
+sum,1599,llm,"The 1,500 migrants were rescued by Italian coast guard ships and one navy ship in five separate operations. The migrants were transboarded onto the Italian ships and were taken to either the island of Lampedusa or ports.","Some 1,500 migrants were rescued by coast guards in 24 hours .
+The migrants were picked up from five boats in the Mediterranean .
+Arrivals are up 43 per cent this year versus same period in 2014 ."
+sum,1599,rag_bm25,"The 1,500 migrants were rescued by Italian coast guard ships and one navy ship in five separate operations.","Some 1,500 migrants were rescued by coast guards in 24 hours .
+The migrants were picked up from five boats in the Mediterranean .
+Arrivals are up 43 per cent this year versus same period in 2014 ."
+sum,1599,rag_dense,"Italian navy and coast guard ships in the southern Mediterranean. The 1,500 migrants were rescued by Italian navy and coast guard ships in less than 24 hours.","Some 1,500 migrants were rescued by coast guards in 24 hours .
+The migrants were picked up from five boats in the Mediterranean .
+Arrivals are up 43 per cent this year versus same period in 2014 ."
+sum,5262,llm,Jordan Waddingham stumbled across the world's largest European wasp nest. He stumbled across the giant nest near a creek bank. The nest is currently on display at the Queen Victoria Museum and Art Gallery in Launceston.,"A 12-year-old boy found the world's largest European wasp nest ever found .
+Jordan Waddingham made $20 from his mum for his startling discovery .
+It measures at one metre tall and a circumference of three metres .
+The nest was destroyed overnight when the wasps were dormant .
+It took two days to remove the 90-kilogram nest from the ground .
+The nest is being displayed at the Queen Victoria Museum and Art Gallery ."
+sum,5262,rag_bm25,"Jordan Waddingham scoured through bushland at Karoola, north east of Launceston in Tasmania. He stumbled across the gigantic 90-kilogram nest. The nest is measured at one metre tall and a circumference of three metres. Experts believe it's the largest subterranean European wasp nest ever discovered with up to 100,000 wasps could have been living inside. Experts believe it's the largest subterranean European wasp nest ever discovered with up to 100,000 wasps could have been living inside. Experts believe it's","A 12-year-old boy found the world's largest European wasp nest ever found .
+Jordan Waddingham made $20 from his mum for his startling discovery .
+It measures at one metre tall and a circumference of three metres .
+The nest was destroyed overnight when the wasps were dormant .
+It took two days to remove the 90-kilogram nest from the ground .
+The nest is being displayed at the Queen Victoria Museum and Art Gallery ."
+sum,5262,rag_dense,"Jordan Waddingham scoured through bushland at Karoola, north east of Launceston in Tasmania to unravel the plague of wasps. Experts believe it's the largest subterranean European wasp nest ever discovered with up to 100,000 wasps could have been living inside.","A 12-year-old boy found the world's largest European wasp nest ever found .
+Jordan Waddingham made $20 from his mum for his startling discovery .
+It measures at one metre tall and a circumference of three metres .
+The nest was destroyed overnight when the wasps were dormant .
+It took two days to remove the 90-kilogram nest from the ground .
+The nest is being displayed at the Queen Victoria Museum and Art Gallery ."
+sum,1462,llm,"Smartphones are the most popular item, with an average of 1.7 per household. Smartphones are the most popular item, with an average of 1.7 per household.","Smartphones are the most common web devices, at 1.7 per home .
+Laptops and tablets are just behind, a YouGov poll has found .
+Meanwhile, digital advertising has hit a record high of £7.2billion ."
+sum,1462,rag_bm25,"The survey found the average Briton who is online is willing to pay a maximum of £1.53 a month for their email service, £1.33 to use search engines, £1.10 for video content, 92p for news websites, 88p.","Smartphones are the most common web devices, at 1.7 per home .
+Laptops and tablets are just behind, a YouGov poll has found .
+Meanwhile, digital advertising has hit a record high of £7.2billion ."
+sum,1462,rag_dense,"The survey found the average Briton who is online is willing to pay a maximum of £1.53 a month for their email service, £1.33 to use search engines, £1.10 for video content, 92p for news websites, 88p.","Smartphones are the most common web devices, at 1.7 per home .
+Laptops and tablets are just behind, a YouGov poll has found .
+Meanwhile, digital advertising has hit a record high of £7.2billion ."
+sum,138,llm,"The driver of a Lamborghini was killed in a crash at Walt Disney World Speedway in Orlando, Florida, on Sunday.","The crash occurred at the Exotic Driving Experience at Walt Disney World Speedway .
+Officials say the driver, 24-year-old Tavon Watson, lost control of a Lamborghini .
+Passenger Gary Terry, 36, died at the scene ."
+sum,138,rag_bm25,What was supposed to be a fantasy sports car ride at Walt Disney World Speedway turned deadly when a Lamborghini crashed into a guardrail.,"The crash occurred at the Exotic Driving Experience at Walt Disney World Speedway .
+Officials say the driver, 24-year-old Tavon Watson, lost control of a Lamborghini .
+Passenger Gary Terry, 36, died at the scene ."
+sum,138,rag_dense,What was supposed to be a fantasy sports car ride at Walt Disney World Speedway turned deadly when a Lamborghini crashed into a guardrail.,"The crash occurred at the Exotic Driving Experience at Walt Disney World Speedway .
+Officials say the driver, 24-year-old Tavon Watson, lost control of a Lamborghini .
+Passenger Gary Terry, 36, died at the scene ."
+sum,8500,llm,Cheesy slogans such as ‘reach for the stars’ on posters in schools could be detrimental to pupils.,"Cheesy slogans could be detrimental to pupils, a researcher claimed .
+Carl Hendrick said glossy notices are often 'reductively misinterpreted'"
+sum,8500,rag_bm25,"Carl Hendrick, head of learning and research at Wellington College, Berkshire, has attacked the ‘tidal wave of guff’ in classrooms. These ‘missives in mediocrity’ often tell pupils to ‘live your dream’ and ‘you can do it’ and ‘be all that you can be’.","Cheesy slogans could be detrimental to pupils, a researcher claimed .
+Carl Hendrick said glossy notices are often 'reductively misinterpreted'"
+sum,8500,rag_dense,"[1] ‘society’s intense focus on physical appearance’. [2] Cheesy slogans such as ‘reach for the stars’ on posters in schools could be detrimental to pupils, it has been claimed.","Cheesy slogans could be detrimental to pupils, a researcher claimed .
+Carl Hendrick said glossy notices are often 'reductively misinterpreted'"
+sum,2820,llm,Manchester United boss says he is keen on staying at Atletico Madrid. The 30-year-old has admitted he is 'proud' to be linked with a move to Manchester United.,"Miranda has been linked with a summer move to Manchester United .
+However the Brazilian centre back is keen on staying at Atletico Madrid .
+Miranda has said he is 'proud' to be on Louis van Gaal's radar ."
+sum,2820,rag_bm25,Manchester United target Miranda has revealed his delight at being linked with a move to Louis van Gaal's side. The 30-year-old has revealed his delight at being linked with a move to Manchester United. The Brazilian centre back is said to be on Van Gaal's summer wishlist as the Dutchman is keen on strengthening his defensive options ahead of the 2015-16 campaign.,"Miranda has been linked with a summer move to Manchester United .
+However the Brazilian centre back is keen on staying at Atletico Madrid .
+Miranda has said he is 'proud' to be on Louis van Gaal's radar ."
+sum,2820,rag_dense,Manchester United boss says he is keen on staying at Atletico Madrid. The 30-year-old has revealed he is keen on staying at Atletico Madrid. The Brazilian centre back has revealed he is keen on staying at Atletico Madrid.,"Miranda has been linked with a summer move to Manchester United .
+However the Brazilian centre back is keen on staying at Atletico Madrid .
+Miranda has said he is 'proud' to be on Louis van Gaal's radar ."
+sum,3762,llm,Chelsea are interested in signing Chelsea midfielder Oscar. The Brazilian has been criticised by Jose Mourinho in recent weeks. Juventus and Liverpool are interested in signing Chelsea midfielder Oscar. Oscar has been criticised by Jose Mourinho in recent weeks.,"Chelsea could consider selling Brazilian midfielder Oscar this summer .
+Both Juventus and Liverpool are keeping tracking of developments .
+Oscar has struggled to maintain a first team place this season ."
+sum,3762,rag_bm25,Chelsea midfielder has struggled to make an impact for Chelsea this season. Brazil coach Dunga revealed the Chelsea midfielder reminds him of Roberto Baggio. The Brazilian midfielder has struggled to make an impact for Chelsea this season.,"Chelsea could consider selling Brazilian midfielder Oscar this summer .
+Both Juventus and Liverpool are keeping tracking of developments .
+Oscar has struggled to maintain a first team place this season ."
+sum,3762,rag_dense,Chelsea midfielder has struggled to make an impact for Chelsea this season. Brazil coach Dunga revealed the Chelsea midfielder reminds him of Roberto Baggio. The Brazilian midfielder has struggled to make an impact for Chelsea this season.,"Chelsea could consider selling Brazilian midfielder Oscar this summer .
+Both Juventus and Liverpool are keeping tracking of developments .
+Oscar has struggled to maintain a first team place this season ."
+sum,3744,llm,Arsenal midfielder has reportedly told the Sun he is open to a move to the Emirates. Wanyama has reportedly told the Sun he is open to a move to the Emirates.,"Victor Wanyama has starred in the heart of Southampton's midfield .
+Reports claim he has spoken to Arsene Wenger over a summer transfer .
+Team-mate Morgan Schneiderlin has also been linked with the Gunners .
+READ: Bacary Sagna insists he does not regret leaving Arsenal .
+READ: Arsenal fans should give Cesc Fabregas a good welcome ."
+sum,3744,rag_bm25,Arsenal midfielder reportedly told the Sun that he is [2] former Celtic powerhouse. The Kenya international reportedly told The Sun that he is open to a move that would see him playing Champions League football next season.,"Victor Wanyama has starred in the heart of Southampton's midfield .
+Reports claim he has spoken to Arsene Wenger over a summer transfer .
+Team-mate Morgan Schneiderlin has also been linked with the Gunners .
+READ: Bacary Sagna insists he does not regret leaving Arsenal .
+READ: Arsenal fans should give Cesc Fabregas a good welcome ."
+sum,3744,rag_dense,"Southampton are expected to lose more players in the summer, including Morgan Schneiderlin. Wanyama has reportedly not ruled out a reunion with former Saints boss Mauricio Pochettino at Tottenham. The tough-tackling midfielder has also been linked with a reunion with former Saints boss Mauricio Pochettino at Tottenham. The Kenya international reportedly told the Sun that he is open to a move that would see him playing Champions League football next season after Wenger expressed interest in signing him.","Victor Wanyama has starred in the heart of Southampton's midfield .
+Reports claim he has spoken to Arsene Wenger over a summer transfer .
+Team-mate Morgan Schneiderlin has also been linked with the Gunners .
+READ: Bacary Sagna insists he does not regret leaving Arsenal .
+READ: Arsenal fans should give Cesc Fabregas a good welcome ."

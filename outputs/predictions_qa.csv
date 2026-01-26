@@ -1,0 +1,241 @@
+task,id,system,prediction,reference
+qa,572851ba4b864d190016493e,llm,Laser rot,black spots that looked like mold or burned plastic which cause the disc to skip and the movie to exhibit excessive speckling noise
+qa,572851ba4b864d190016493e,rag_bm25,"Virgin""",black spots that looked like mold or burned plastic which cause the disc to skip and the movie to exhibit excessive speckling noise
+qa,572851ba4b864d190016493e,rag_dense,LDs,black spots that looked like mold or burned plastic which cause the disc to skip and the movie to exhibit excessive speckling noise
+qa,56d63b901c8504140094703c,llm,a sandstone,bronze dog figurines.
+qa,56d63b901c8504140094703c,rag_bm25,incarnate of the Holy Spirit and the Virgin Mary,bronze dog figurines.
+qa,56d63b901c8504140094703c,rag_dense,[4],bronze dog figurines.
+qa,572f2607947a6a140053c7de,llm,Because it is a low voltage.,safety reasons
+qa,572f2607947a6a140053c7de,rag_bm25,"a lack of electrical insulation, the capacitor is unable to handle the maximum amount of reversal that a system will experience.",safety reasons
+qa,572f2607947a6a140053c7de,rag_dense,World War II,safety reasons
+qa,5725f37fec44d21400f3d782,llm,New York City,Bahrain
+qa,5725f37fec44d21400f3d782,rag_bm25,France was very much interested in colonial expansion and was willing to exploit the vulnerability of Hanover in war against Great Britain,Bahrain
+qa,5725f37fec44d21400f3d782,rag_dense,I don't know,Bahrain
+qa,57267762708984140094c71e,llm,New York City,"Centum City, Busan"
+qa,57267762708984140094c71e,rag_bm25,I don't know,"Centum City, Busan"
+qa,57267762708984140094c71e,rag_dense,Africa,"Centum City, Busan"
+qa,572b4f0b111d821400f38e4f,llm,a Japanese film,as an occupied enemy
+qa,572b4f0b111d821400f38e4f,rag_bm25,"Guam""",as an occupied enemy
+qa,572b4f0b111d821400f38e4f,rag_dense,[3],as an occupied enemy
+qa,56e962d799e8941900975f79,llm,59.8,39.2%
+qa,56e962d799e8941900975f79,rag_bm25,"Plymouth's early history extends to the Bronze Age, when a first settlement emerged at Mount Batten.",39.2%
+qa,56e962d799e8941900975f79,rag_dense,"about 50,418 or (39.2%)",39.2%
+qa,56f87d46aef23719006260fe,llm,a few days,the late Cretaceous Period
+qa,56f87d46aef23719006260fe,rag_bm25,[3],the late Cretaceous Period
+qa,56f87d46aef23719006260fe,rag_dense,"Byzantine Empire was divided between the Greek Despotate of Epirus (a Byzantine successor state) and Frankish rule (known as the Frankokratia), while some islands came under Venetian rule.",the late Cretaceous Period
+qa,57280c92ff5b5019007d9bc6,llm,Science and technology,"matters of ideology, nationality, ethnicity, social class, and/or gender"
+qa,57280c92ff5b5019007d9bc6,rag_bm25,Bill Nicholson barely missed the scoreboard when he launched a home run ball onto Sheffield Avenue,"matters of ideology, nationality, ethnicity, social class, and/or gender"
+qa,57280c92ff5b5019007d9bc6,rag_dense,Barbados,"matters of ideology, nationality, ethnicity, social class, and/or gender"
+qa,56d28d3d59d6e4140014609c,llm,ten,487 million
+qa,56d28d3d59d6e4140014609c,rag_bm25,Bangladesh,487 million
+qa,56d28d3d59d6e4140014609c,rag_dense,Buddhism,487 million
+qa,572c101b2babe914003c298b,llm,I don't know,Pascal
+qa,572c101b2babe914003c298b,rag_bm25,[3],Pascal
+qa,572c101b2babe914003c298b,rag_dense,cultural phenomena or cultural texts,Pascal
+qa,56dcd9ef9a695914005b944c,llm,I don't know.,Gabon
+qa,56dcd9ef9a695914005b944c,rag_bm25,"Buddhism has grown from 138 million adherents in 1910, of which 137 million were in Asia, to 495 million in 2010, of which 487 million are in 2010.",Gabon
+qa,56dcd9ef9a695914005b944c,rag_dense,Gabon,Gabon
+qa,5728e43b2ca10214002daa4f,llm,3,29
+qa,5728e43b2ca10214002daa4f,rag_bm25,I don't know,29
+qa,5728e43b2ca10214002daa4f,rag_dense,[2],29
+qa,56cc60186d243a140015ef5b,llm,I don't know.,Chicago
+qa,56cc60186d243a140015ef5b,rag_bm25,[1],Chicago
+qa,56cc60186d243a140015ef5b,rag_dense,[4],Chicago
+qa,573251210fdd8d15006c697b,llm,a british economist,Arno Tausch
+qa,573251210fdd8d15006c697b,rag_bm25,Ann Arbor's reliance on the development rights of agricultural parcels of land adjacent to Ann Arbor,Arno Tausch
+qa,573251210fdd8d15006c697b,rag_dense,I don't know,Arno Tausch
+qa,572838743acd2414000df741,llm,I don't know,Ukrainian Greek Catholic Church
+qa,572838743acd2414000df741,rag_bm25,[2],Ukrainian Greek Catholic Church
+qa,572838743acd2414000df741,rag_dense,3,Ukrainian Greek Catholic Church
+qa,572e7f0adfa6aa1500f8d04a,llm,aristocrats and aristocrats,Aphrodite and Adonis
+qa,572e7f0adfa6aa1500f8d04a,rag_bm25,Greek Despotate of Epirus (a Byzantine successor state) and Frankish rule,Aphrodite and Adonis
+qa,572e7f0adfa6aa1500f8d04a,rag_dense,I don't know,Aphrodite and Adonis
+qa,572676425951b619008f735c,llm,dynasty of opium,Qing
+qa,572676425951b619008f735c,rag_bm25,[3],Qing
+qa,572676425951b619008f735c,rag_dense,Qing,Qing
+qa,5726e613dd62a815002e9453,llm,1.2 billion,11%
+qa,5726e613dd62a815002e9453,rag_bm25,Nigeria was ranked 30th in the world in terms of GDP (PPP) in 2012.,11%
+qa,5726e613dd62a815002e9453,rag_dense,1%,11%
+qa,572fbb69a23a5019007fc901,llm,"June 1, 1876",7 July 1937
+qa,572fbb69a23a5019007fc901,rag_bm25,[5],7 July 1937
+qa,572fbb69a23a5019007fc901,rag_dense,U.S. raids destroyed 17 of 25 submarines out of Ozawa's screening force,7 July 1937
+qa,57267cb7dd62a815002e86ed,llm,Victoria,General Gordon
+qa,57267cb7dd62a815002e86ed,rag_bm25,"Apple did not develop the iPod software entirely in-house, instead using PortalPlayer's reference platform based on two ARM cores.",General Gordon
+qa,57267cb7dd62a815002e86ed,rag_dense,Queen Victoria,General Gordon
+qa,57283d0e2ca10214002da157,llm,a letter,New Union Treaty
+qa,57283d0e2ca10214002da157,rag_bm25,"France, the French government had a strong influence on the country.",New Union Treaty
+qa,57283d0e2ca10214002da157,rag_dense,Dr. T.R.M. Howard,New Union Treaty
+qa,56e0a85e7aa994140058e69b,llm,the United States,the Council of People's Commissars
+qa,56e0a85e7aa994140058e69b,rag_bm25,"United States of Venezuela were incorporated under a ""Federation of Sovereign States"" upon principles borrowed from the articles borrowed from the articles borrowed from the articles borrowed from the articles of Confederation of the United States of America.",the Council of People's Commissars
+qa,56e0a85e7aa994140058e69b,rag_dense,Council of Ministers,the Council of People's Commissars
+qa,56db36f7e7c41114004b4f5a,llm,0,20
+qa,56db36f7e7c41114004b4f5a,rag_bm25,[3],20
+qa,56db36f7e7c41114004b4f5a,rag_dense,20,20
+qa,573256c6e17f3d14004228b6,llm,They were imprisoned for a long time.,doctrine of political neutrality and their refusal to serve in the military
+qa,573256c6e17f3d14004228b6,rag_bm25,God's omniscience,doctrine of political neutrality and their refusal to serve in the military
+qa,573256c6e17f3d14004228b6,rag_dense,Canada,doctrine of political neutrality and their refusal to serve in the military
+qa,56df6c5a56340a1900b29af6,llm,3.3,26.2%
+qa,56df6c5a56340a1900b29af6,rag_bm25,I don't know,26.2%
+qa,56df6c5a56340a1900b29af6,rag_dense,GDP,26.2%
+qa,5726213938643c19005ad068,llm,The Queen Mary collection,Royal Collection of furniture and art
+qa,5726213938643c19005ad068,rag_bm25,[1],Royal Collection of furniture and art
+qa,5726213938643c19005ad068,rag_dense,Edward VII,Royal Collection of furniture and art
+qa,56de679e4396321400ee2895,llm,2,240
+qa,56de679e4396321400ee2895,rag_bm25,Paris was the capital of French literature until the 17th century,240
+qa,56de679e4396321400ee2895,rag_dense,[3],240
+qa,5730cac5f6cb411900e244bc,llm,The Travels of Fanny Vandegrift Stevenson,The Cruise of the Janet Nichol
+qa,5730cac5f6cb411900e244bc,rag_bm25,French literature was largely dominated by the French publishing industry.,The Cruise of the Janet Nichol
+qa,5730cac5f6cb411900e244bc,rag_dense,I don't know,The Cruise of the Janet Nichol
+qa,5728d0114b864d1900164ea5,llm,Soviet Union,Germans and Jewish minorities
+qa,5728d0114b864d1900164ea5,rag_bm25,The Estonian dialects are divided,Germans and Jewish minorities
+qa,5728d0114b864d1900164ea5,rag_dense,Russia was the first Patriarchate of the Russian Orthodox Church.,Germans and Jewish minorities
+qa,56cfe88d234ae51400d9c075,llm,River X,Nile River
+qa,56cfe88d234ae51400d9c075,rag_bm25,Plymouth,Nile River
+qa,56cfe88d234ae51400d9c075,rag_dense,[3],Nile River
+qa,570d999c16d0071400510bc2,llm,NADGE,NATO Air Defence Ground Environment
+qa,570d999c16d0071400510bc2,rag_bm25,"I don't know.""",NATO Air Defence Ground Environment
+qa,570d999c16d0071400510bc2,rag_dense,Glastonbury,NATO Air Defence Ground Environment
+qa,5728e3113acd2414000e0121,llm,I don't know.,"improvements in civil liberties and political rights, the release of political prisoners, and a loosening of restrictions."
+qa,5728e3113acd2414000e0121,rag_bm25,"Plymouth was surpassed by Plymouth Colony, the town was besieged between 1642 and 1646.","improvements in civil liberties and political rights, the release of political prisoners, and a loosening of restrictions."
+qa,5728e3113acd2414000e0121,rag_dense,Myanmar's human rights record has been improving,"improvements in civil liberties and political rights, the release of political prisoners, and a loosening of restrictions."
+qa,57322a65b9d445190005e88c,llm,United States,combat information centers
+qa,57322a65b9d445190005e88c,rag_bm25,Free French Forces,combat information centers
+qa,57322a65b9d445190005e88c,rag_dense,Skysweeper,combat information centers
+qa,572b6d5934ae481900deadfb,llm,Czech,Slovak
+qa,572b6d5934ae481900deadfb,rag_bm25,Christianity,Slovak
+qa,572b6d5934ae481900deadfb,rag_dense,Russia,Slovak
+qa,57269b01dd62a815002e8ae0,llm,I don't know.,Western Samoa
+qa,57269b01dd62a815002e8ae0,rag_bm25,I don't know,Western Samoa
+qa,57269b01dd62a815002e8ae0,rag_dense,"The Independent State of Samoa (Samoan: Malo Sa 'oloto Tuto 'atasi o Smoa, IPA: [samoa]), commonly known as Samoa (Samoan: Smoa) and formerly known as Western Samoa, is a Unitary Parliamentary Republic with eleven administrative divisions. The two main islands are Savai'i and Upolu with four smaller islands surrounding the landmasses. The capital city is Apia.",Western Samoa
+qa,573012e9947a6a140053d048,llm,The Baptists,Catholics
+qa,573012e9947a6a140053d048,rag_bm25,The Greeks were not allowed to settle in South Carolina until after the American Revolution.,Catholics
+qa,573012e9947a6a140053d048,rag_dense,I don't know,Catholics
+qa,572833d43acd2414000df6df,llm,a monopoly,"""Federation of Sovereign States"" upon principles borrowed from the Articles of Confederation of the United States of America"
+qa,572833d43acd2414000df6df,rag_bm25,I don't know.,"""Federation of Sovereign States"" upon principles borrowed from the Articles of Confederation of the United States of America"
+qa,572833d43acd2414000df6df,rag_dense,"How many years after the signing of the Treaty of Coche did the United States of Venezuela become incorporated under a ""Federation of Sovereign States""?","""Federation of Sovereign States"" upon principles borrowed from the Articles of Confederation of the United States of America"
+qa,57270c73f1498d1400e8f29d,llm,a capacitor,excess electric fields
+qa,57270c73f1498d1400e8f29d,rag_bm25,Plymouth was built.,excess electric fields
+qa,57270c73f1498d1400e8f29d,rag_dense,[3],excess electric fields
+qa,570d94dfb3d812140066da6c,llm,ten,3
+qa,570d94dfb3d812140066da6c,rag_bm25,paper,3
+qa,570d94dfb3d812140066da6c,rag_dense,"The first overseas deployment of Canadian military forces occurred during the Second Boer War, when several units were raised to serve under British command.",3
+qa,5725b679ec44d21400f3d433,llm,"May 1, 1897",1266
+qa,5725b679ec44d21400f3d433,rag_bm25,"The first overseas deployment of Canadian military forces occurred during the Second Boer War, when several units were raised to serve under British command",1266
+qa,5725b679ec44d21400f3d433,rag_dense,Cyprus occupies an important role,1266
+qa,57260b6a271a42140099d3e4,llm,0,"62,217"
+qa,57260b6a271a42140099d3e4,rag_bm25,[3],"62,217"
+qa,57260b6a271a42140099d3e4,rag_dense,[3],"62,217"
+qa,56f966c39b226e1400dd1405,llm,Wake Island,Enen-kio
+qa,56f966c39b226e1400dd1405,rag_bm25,[3],Enen-kio
+qa,56f966c39b226e1400dd1405,rag_dense,[3],Enen-kio
+qa,5728f7636aef0514001548f9,llm,English,Latin
+qa,5728f7636aef0514001548f9,rag_bm25,Plymouth,Latin
+qa,5728f7636aef0514001548f9,rag_dense,China,Latin
+qa,56de65324396321400ee2882,llm,1830,1646
+qa,56de65324396321400ee2882,rag_bm25,Plymouth Colony,1646
+qa,56de65324396321400ee2882,rag_dense,British,1646
+qa,56cc655c6d243a140015ef92,llm,acoustic,Bass
+qa,56cc655c6d243a140015ef92,rag_bm25,[4],Bass
+qa,56cc655c6d243a140015ef92,rag_dense,LDs were not manufactured properly; sometimes a substandard adhesive was used to sandwich together the two sides of the disc,Bass
+qa,56cc36926d243a140015eecf,llm,I don't know.,The Yarlung rulers of Tibet
+qa,56cc36926d243a140015eecf,rag_bm25,Israel,The Yarlung rulers of Tibet
+qa,56cc36926d243a140015eecf,rag_dense,[3],The Yarlung rulers of Tibet
+qa,56dec6913277331400b4d726,llm,Benzol,marijuana
+qa,56dec6913277331400b4d726,rag_bm25,[3],marijuana
+qa,56dec6913277331400b4d726,rag_dense,[3],marijuana
+qa,570ce29dfed7b91900d45a74,llm,Luke,1:34
+qa,570ce29dfed7b91900d45a74,rag_bm25,"Royal Collection of furniture and art, both restoring and adding to it.",1:34
+qa,570ce29dfed7b91900d45a74,rag_dense,[3],1:34
+qa,572e8e84dfa6aa1500f8d120,llm,I don't know.,his commitments in Germany were counterbalanced by the demands of the British colonies overseas
+qa,572e8e84dfa6aa1500f8d120,rag_bm25,"George V, and Queen Mary",his commitments in Germany were counterbalanced by the demands of the British colonies overseas
+qa,572e8e84dfa6aa1500f8d120,rag_dense,British Empire invaded Afghanistan,his commitments in Germany were counterbalanced by the demands of the British colonies overseas
+qa,572684db5951b619008f7553,llm,I don't know.,Bill Nicholson
+qa,572684db5951b619008f7553,rag_bm25,[1],Bill Nicholson
+qa,572684db5951b619008f7553,rag_dense,[3],Bill Nicholson
+qa,572fcaa9947a6a140053ccc0,llm,2,four phases
+qa,572fcaa9947a6a140053ccc0,rag_bm25,"Pakistan, Buddhism has grown from 138 million adherents in 1910, of which 137 million were in Asia, to 495 million in 2010, of which 487 million were in Asia",four phases
+qa,572fcaa9947a6a140053ccc0,rag_dense,[3],four phases
+qa,5706b0e42eaba6190074ac46,llm,"June 1, 1932",during the 1980s and 1990s
+qa,5706b0e42eaba6190074ac46,rag_bm25,[3],during the 1980s and 1990s
+qa,5706b0e42eaba6190074ac46,rag_dense,Nearchus was the first of Alexander's commanders to visit these islands.,during the 1980s and 1990s
+qa,56df5a4d8bc80c19004e4af0,llm,ranked 3rd,42nd
+qa,56df5a4d8bc80c19004e4af0,rag_bm25,Plymouth Colony,42nd
+qa,56df5a4d8bc80c19004e4af0,rag_dense,[2],42nd
+qa,57274262dd62a815002e9a37,llm,a sluggish economy,sharply rising land values
+qa,57274262dd62a815002e9a37,rag_bm25,Plymouth,sharply rising land values
+qa,57274262dd62a815002e9a37,rag_dense,Apple's ARM cores,sharply rising land values
+qa,5727a4f1ff5b5019007d91cc,llm,I don't know.,political obstacles
+qa,5727a4f1ff5b5019007d91cc,rag_bm25,Jews are a Christian,political obstacles
+qa,5727a4f1ff5b5019007d91cc,rag_dense,I don't know,political obstacles
+qa,56e427248c00841900fbaf02,llm,Japan,the northeastern coast of Estonia
+qa,56e427248c00841900fbaf02,rag_bm25,sands,the northeastern coast of Estonia
+qa,56e427248c00841900fbaf02,rag_dense,Greek,the northeastern coast of Estonia
+qa,56f8d2919e9bad19000a059c,llm,Tokyo,"Garmisch-Partenkirchen, Germany"
+qa,56f8d2919e9bad19000a059c,rag_bm25,I don't know,"Garmisch-Partenkirchen, Germany"
+qa,56f8d2919e9bad19000a059c,rag_dense,[4],"Garmisch-Partenkirchen, Germany"
+qa,570b212d6b8089140040f761,llm,Xbox Live,EA Sports games
+qa,570b212d6b8089140040f761,rag_bm25,[3],EA Sports games
+qa,570b212d6b8089140040f761,rag_dense,Arsenal shareholder announced that it would sell the shares of the company to Arsenal Holdings plc,EA Sports games
+qa,57324e7a0fdd8d15006c694b,llm,Because the Bible condemns the mixing of religions.,can only be one truth from God
+qa,57324e7a0fdd8d15006c694b,rag_bm25,a definite rule,can only be one truth from God
+qa,57324e7a0fdd8d15006c694b,rag_dense,"China"".",can only be one truth from God
+qa,5728110f4b864d1900164387,llm,1872,23 November 1944
+qa,5728110f4b864d1900164387,rag_bm25,I don't know,23 November 1944
+qa,5728110f4b864d1900164387,rag_dense,international relations,23 November 1944
+qa,572bff5edfb02c14005c6b2d,llm,They agree on the physics of the universe.,"God is omnipotent, omniscient, and benevolent,"
+qa,572bff5edfb02c14005c6b2d,rag_bm25,adverbial,"God is omnipotent, omniscient, and benevolent,"
+qa,572bff5edfb02c14005c6b2d,rag_dense,adverbial,"God is omnipotent, omniscient, and benevolent,"
+qa,57299ef46aef05140015503e,llm,fungi,mosquitoes
+qa,57299ef46aef05140015503e,rag_bm25,Plymouth,mosquitoes
+qa,57299ef46aef05140015503e,rag_dense,"are very low voltage ratings, they are very low voltage ratings.",mosquitoes
+qa,56dde7259a695914005b9696,llm,"June 1, 1865",Second Boer War
+qa,56dde7259a695914005b9696,rag_bm25,Polish AA defences,Second Boer War
+qa,56dde7259a695914005b9696,rag_dense,How many more AA defences were there than AA defences?,Second Boer War
+qa,571d0e925efbb31900334e91,llm,0.8,>95%
+qa,571d0e925efbb31900334e91,rag_bm25,Strasbourg,>95%
+qa,571d0e925efbb31900334e91,rag_dense,DC voltages,>95%
+qa,572ea842dfa6aa1500f8d26f,llm,It is a genus of fungi.,higher internal heating
+qa,572ea842dfa6aa1500f8d26f,rag_bm25,Neptune),higher internal heating
+qa,572ea842dfa6aa1500f8d26f,rag_dense,[3],higher internal heating
+qa,573350a0d058e614000b5840,llm,genocide,legal aspect of the term
+qa,573350a0d058e614000b5840,rag_bm25,I don't know,legal aspect of the term
+qa,573350a0d058e614000b5840,rag_dense,The study of genocide has mainly been focused towards the legal aspect of the term,legal aspect of the term
+qa,57070b1490286e26004fc83e,llm,adolescent,socio-political constructs
+qa,57070b1490286e26004fc83e,rag_bm25,entomologist,socio-political constructs
+qa,57070b1490286e26004fc83e,rag_dense,I don't know,socio-political constructs
+qa,572a35beaf94a219006aa8a5,llm,a landslide,the detriment of local Ottoman interests
+qa,572a35beaf94a219006aa8a5,rag_bm25,Britain moved to pre-empt this by invading Afghanistan,the detriment of local Ottoman interests
+qa,572a35beaf94a219006aa8a5,rag_dense,I don't know).,the detriment of local Ottoman interests
+qa,57267fbcdd62a815002e874a,llm,China,Brunei
+qa,57267fbcdd62a815002e874a,rag_bm25,Southern Christian Leadership Conference,Brunei
+qa,57267fbcdd62a815002e874a,rag_dense,China,Brunei
+qa,57320c0ee17f3d1400422618,llm,3%,.38%
+qa,57320c0ee17f3d1400422618,rag_bm25,"Greece, the re-establishment of the Byzantine imperial capital in Constantinople in 1261 was accompanied by the Empire's recovery of much of the Greek peninsula, although the Frankish Principality of Achaea in the Peloponnese and the rival Greek Despotate of Epirus in the north both remained important regional powers into the 14th century, while the islands remained largely under Genoese and Venetian control.",.38%
+qa,57320c0ee17f3d1400422618,rag_dense,Nigeria,.38%
+qa,57262de2ec44d21400f3dbb8,llm,1898,1261
+qa,57262de2ec44d21400f3dbb8,rag_bm25,Apple Mini,1261
+qa,57262de2ec44d21400f3dbb8,rag_dense,Constantinople was divided between the Greek Despotate of Epirus and Frankish rule,1261
+qa,57270064f1498d1400e8f204,llm,a spectral change,colour
+qa,57270064f1498d1400e8f204,rag_bm25,Sun's thermal properties,colour
+qa,57270064f1498d1400e8f204,rag_dense,Sun's thermal properties,colour
+qa,5731cb92e99e3014001e628c,llm,I don't know.,governmentally composed prayers for religious services
+qa,5731cb92e99e3014001e628c,rag_bm25,[3],governmentally composed prayers for religious services
+qa,5731cb92e99e3014001e628c,rag_dense,Plymouth Colony,governmentally composed prayers for religious services
+qa,57094ba9efce8f15003a7dcf,llm,a syringe,a rock salt
+qa,57094ba9efce8f15003a7dcf,rag_bm25,a population to die,a rock salt
+qa,57094ba9efce8f15003a7dcf,rag_dense,a rotted disc,a rock salt
+qa,5725e0fb89a1e219009ac01c,llm,1897,1830
+qa,5725e0fb89a1e219009ac01c,rag_bm25,Plymouth Colony,1830
+qa,5725e0fb89a1e219009ac01c,rag_dense,[3],1830
+qa,570c27686b8089140040fb9b,llm,civil rights,communist ties
+qa,570c27686b8089140040fb9b,rag_bm25,Christianity,communist ties
+qa,570c27686b8089140040fb9b,rag_dense,Council of Ministers–Government (1978–1991),communist ties
+qa,5726a91c5951b619008f7962,llm,festival,Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton
+qa,5726a91c5951b619008f7962,rag_bm25,Jesus' conception,Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton
+qa,5726a91c5951b619008f7962,rag_dense,George V,Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton
+qa,572ee58003f9891900756ad4,llm,China was not isolated,the early Ming dynasty
+qa,572ee58003f9891900756ad4,rag_bm25,China,the early Ming dynasty
+qa,572ee58003f9891900756ad4,rag_dense,China),the early Ming dynasty
+qa,5726776df1498d1400e8e0a6,llm,Russia,Persia and Turkey
+qa,5726776df1498d1400e8e0a6,rag_bm25,"China, urbanization increased as the population grew and as the division of labor grew more complex.",Persia and Turkey
+qa,5726776df1498d1400e8e0a6,rag_dense,Russian SFSR,Persia and Turkey

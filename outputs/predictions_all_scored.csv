@@ -1,0 +1,517 @@
+task,id,system,prediction,reference,rougeL_f1,exact_match_norm
+qa,572851ba4b864d190016493e,llm,Laser rot,black spots that looked like mold or burned plastic which cause the disc to skip and the movie to exhibit excessive speckling noise,0.0,0.0
+qa,572851ba4b864d190016493e,rag_bm25,"Virgin""",black spots that looked like mold or burned plastic which cause the disc to skip and the movie to exhibit excessive speckling noise,0.0,0.0
+qa,572851ba4b864d190016493e,rag_dense,LDs,black spots that looked like mold or burned plastic which cause the disc to skip and the movie to exhibit excessive speckling noise,0.0,0.0
+qa,56d63b901c8504140094703c,llm,a sandstone,bronze dog figurines.,0.0,0.0
+qa,56d63b901c8504140094703c,rag_bm25,incarnate of the Holy Spirit and the Virgin Mary,bronze dog figurines.,0.0,0.0
+qa,56d63b901c8504140094703c,rag_dense,[4],bronze dog figurines.,0.0,0.0
+qa,572f2607947a6a140053c7de,llm,Because it is a low voltage.,safety reasons,0.0,0.0
+qa,572f2607947a6a140053c7de,rag_bm25,"a lack of electrical insulation, the capacitor is unable to handle the maximum amount of reversal that a system will experience.",safety reasons,0.0,0.0
+qa,572f2607947a6a140053c7de,rag_dense,World War II,safety reasons,0.0,0.0
+qa,5725f37fec44d21400f3d782,llm,New York City,Bahrain,0.0,0.0
+qa,5725f37fec44d21400f3d782,rag_bm25,France was very much interested in colonial expansion and was willing to exploit the vulnerability of Hanover in war against Great Britain,Bahrain,0.0,0.0
+qa,5725f37fec44d21400f3d782,rag_dense,I don't know,Bahrain,0.0,0.0
+qa,57267762708984140094c71e,llm,New York City,"Centum City, Busan",0.3333333333333333,0.0
+qa,57267762708984140094c71e,rag_bm25,I don't know,"Centum City, Busan",0.0,0.0
+qa,57267762708984140094c71e,rag_dense,Africa,"Centum City, Busan",0.0,0.0
+qa,572b4f0b111d821400f38e4f,llm,a Japanese film,as an occupied enemy,0.0,0.0
+qa,572b4f0b111d821400f38e4f,rag_bm25,"Guam""",as an occupied enemy,0.0,0.0
+qa,572b4f0b111d821400f38e4f,rag_dense,[3],as an occupied enemy,0.0,0.0
+qa,56e962d799e8941900975f79,llm,59.8,39.2%,0.0,0.0
+qa,56e962d799e8941900975f79,rag_bm25,"Plymouth's early history extends to the Bronze Age, when a first settlement emerged at Mount Batten.",39.2%,0.0,0.0
+qa,56e962d799e8941900975f79,rag_dense,"about 50,418 or (39.2%)",39.2%,0.5,0.0
+qa,56f87d46aef23719006260fe,llm,a few days,the late Cretaceous Period,0.0,0.0
+qa,56f87d46aef23719006260fe,rag_bm25,[3],the late Cretaceous Period,0.0,0.0
+qa,56f87d46aef23719006260fe,rag_dense,"Byzantine Empire was divided between the Greek Despotate of Epirus (a Byzantine successor state) and Frankish rule (known as the Frankokratia), while some islands came under Venetian rule.",the late Cretaceous Period,0.0625,0.0
+qa,57280c92ff5b5019007d9bc6,llm,Science and technology,"matters of ideology, nationality, ethnicity, social class, and/or gender",0.15384615384615383,0.0
+qa,57280c92ff5b5019007d9bc6,rag_bm25,Bill Nicholson barely missed the scoreboard when he launched a home run ball onto Sheffield Avenue,"matters of ideology, nationality, ethnicity, social class, and/or gender",0.0,0.0
+qa,57280c92ff5b5019007d9bc6,rag_dense,Barbados,"matters of ideology, nationality, ethnicity, social class, and/or gender",0.0,0.0
+qa,56d28d3d59d6e4140014609c,llm,ten,487 million,0.0,0.0
+qa,56d28d3d59d6e4140014609c,rag_bm25,Bangladesh,487 million,0.0,0.0
+qa,56d28d3d59d6e4140014609c,rag_dense,Buddhism,487 million,0.0,0.0
+qa,572c101b2babe914003c298b,llm,I don't know,Pascal,0.0,0.0
+qa,572c101b2babe914003c298b,rag_bm25,[3],Pascal,0.0,0.0
+qa,572c101b2babe914003c298b,rag_dense,cultural phenomena or cultural texts,Pascal,0.0,0.0
+qa,56dcd9ef9a695914005b944c,llm,I don't know.,Gabon,0.0,0.0
+qa,56dcd9ef9a695914005b944c,rag_bm25,"Buddhism has grown from 138 million adherents in 1910, of which 137 million were in Asia, to 495 million in 2010, of which 487 million are in 2010.",Gabon,0.0,0.0
+qa,56dcd9ef9a695914005b944c,rag_dense,Gabon,Gabon,1.0,1.0
+qa,5728e43b2ca10214002daa4f,llm,3,29,0.0,0.0
+qa,5728e43b2ca10214002daa4f,rag_bm25,I don't know,29,0.0,0.0
+qa,5728e43b2ca10214002daa4f,rag_dense,[2],29,0.0,0.0
+qa,56cc60186d243a140015ef5b,llm,I don't know.,Chicago,0.0,0.0
+qa,56cc60186d243a140015ef5b,rag_bm25,[1],Chicago,0.0,0.0
+qa,56cc60186d243a140015ef5b,rag_dense,[4],Chicago,0.0,0.0
+qa,573251210fdd8d15006c697b,llm,a british economist,Arno Tausch,0.0,0.0
+qa,573251210fdd8d15006c697b,rag_bm25,Ann Arbor's reliance on the development rights of agricultural parcels of land adjacent to Ann Arbor,Arno Tausch,0.0,0.0
+qa,573251210fdd8d15006c697b,rag_dense,I don't know,Arno Tausch,0.0,0.0
+qa,572838743acd2414000df741,llm,I don't know,Ukrainian Greek Catholic Church,0.0,0.0
+qa,572838743acd2414000df741,rag_bm25,[2],Ukrainian Greek Catholic Church,0.0,0.0
+qa,572838743acd2414000df741,rag_dense,3,Ukrainian Greek Catholic Church,0.0,0.0
+qa,572e7f0adfa6aa1500f8d04a,llm,aristocrats and aristocrats,Aphrodite and Adonis,0.3333333333333333,0.0
+qa,572e7f0adfa6aa1500f8d04a,rag_bm25,Greek Despotate of Epirus (a Byzantine successor state) and Frankish rule,Aphrodite and Adonis,0.14285714285714288,0.0
+qa,572e7f0adfa6aa1500f8d04a,rag_dense,I don't know,Aphrodite and Adonis,0.0,0.0
+qa,572676425951b619008f735c,llm,dynasty of opium,Qing,0.0,0.0
+qa,572676425951b619008f735c,rag_bm25,[3],Qing,0.0,0.0
+qa,572676425951b619008f735c,rag_dense,Qing,Qing,1.0,1.0
+qa,5726e613dd62a815002e9453,llm,1.2 billion,11%,0.0,0.0
+qa,5726e613dd62a815002e9453,rag_bm25,Nigeria was ranked 30th in the world in terms of GDP (PPP) in 2012.,11%,0.0,0.0
+qa,5726e613dd62a815002e9453,rag_dense,1%,11%,0.0,0.0
+qa,572fbb69a23a5019007fc901,llm,"June 1, 1876",7 July 1937,0.0,0.0
+qa,572fbb69a23a5019007fc901,rag_bm25,[5],7 July 1937,0.0,0.0
+qa,572fbb69a23a5019007fc901,rag_dense,U.S. raids destroyed 17 of 25 submarines out of Ozawa's screening force,7 July 1937,0.0,0.0
+qa,57267cb7dd62a815002e86ed,llm,Victoria,General Gordon,0.0,0.0
+qa,57267cb7dd62a815002e86ed,rag_bm25,"Apple did not develop the iPod software entirely in-house, instead using PortalPlayer's reference platform based on two ARM cores.",General Gordon,0.0,0.0
+qa,57267cb7dd62a815002e86ed,rag_dense,Queen Victoria,General Gordon,0.0,0.0
+qa,57283d0e2ca10214002da157,llm,a letter,New Union Treaty,0.0,0.0
+qa,57283d0e2ca10214002da157,rag_bm25,"France, the French government had a strong influence on the country.",New Union Treaty,0.0,0.0
+qa,57283d0e2ca10214002da157,rag_dense,Dr. T.R.M. Howard,New Union Treaty,0.0,0.0
+qa,56e0a85e7aa994140058e69b,llm,the United States,the Council of People's Commissars,0.2222222222222222,0.0
+qa,56e0a85e7aa994140058e69b,rag_bm25,"United States of Venezuela were incorporated under a ""Federation of Sovereign States"" upon principles borrowed from the articles borrowed from the articles borrowed from the articles borrowed from the articles of Confederation of the United States of America.",the Council of People's Commissars,0.09090909090909091,0.0
+qa,56e0a85e7aa994140058e69b,rag_dense,Council of Ministers,the Council of People's Commissars,0.4444444444444444,0.0
+qa,56db36f7e7c41114004b4f5a,llm,0,20,0.0,0.0
+qa,56db36f7e7c41114004b4f5a,rag_bm25,[3],20,0.0,0.0
+qa,56db36f7e7c41114004b4f5a,rag_dense,20,20,1.0,1.0
+qa,573256c6e17f3d14004228b6,llm,They were imprisoned for a long time.,doctrine of political neutrality and their refusal to serve in the military,0.0,0.0
+qa,573256c6e17f3d14004228b6,rag_bm25,God's omniscience,doctrine of political neutrality and their refusal to serve in the military,0.0,0.0
+qa,573256c6e17f3d14004228b6,rag_dense,Canada,doctrine of political neutrality and their refusal to serve in the military,0.0,0.0
+qa,56df6c5a56340a1900b29af6,llm,3.3,26.2%,0.0,0.0
+qa,56df6c5a56340a1900b29af6,rag_bm25,I don't know,26.2%,0.0,0.0
+qa,56df6c5a56340a1900b29af6,rag_dense,GDP,26.2%,0.0,0.0
+qa,5726213938643c19005ad068,llm,The Queen Mary collection,Royal Collection of furniture and art,0.2,0.0
+qa,5726213938643c19005ad068,rag_bm25,[1],Royal Collection of furniture and art,0.0,0.0
+qa,5726213938643c19005ad068,rag_dense,Edward VII,Royal Collection of furniture and art,0.0,0.0
+qa,56de679e4396321400ee2895,llm,2,240,0.0,0.0
+qa,56de679e4396321400ee2895,rag_bm25,Paris was the capital of French literature until the 17th century,240,0.0,0.0
+qa,56de679e4396321400ee2895,rag_dense,[3],240,0.0,0.0
+qa,5730cac5f6cb411900e244bc,llm,The Travels of Fanny Vandegrift Stevenson,The Cruise of the Janet Nichol,0.3333333333333333,0.0
+qa,5730cac5f6cb411900e244bc,rag_bm25,French literature was largely dominated by the French publishing industry.,The Cruise of the Janet Nichol,0.125,0.0
+qa,5730cac5f6cb411900e244bc,rag_dense,I don't know,The Cruise of the Janet Nichol,0.0,0.0
+qa,5728d0114b864d1900164ea5,llm,Soviet Union,Germans and Jewish minorities,0.0,0.0
+qa,5728d0114b864d1900164ea5,rag_bm25,The Estonian dialects are divided,Germans and Jewish minorities,0.0,0.0
+qa,5728d0114b864d1900164ea5,rag_dense,Russia was the first Patriarchate of the Russian Orthodox Church.,Germans and Jewish minorities,0.0,0.0
+qa,56cfe88d234ae51400d9c075,llm,River X,Nile River,0.5,0.0
+qa,56cfe88d234ae51400d9c075,rag_bm25,Plymouth,Nile River,0.0,0.0
+qa,56cfe88d234ae51400d9c075,rag_dense,[3],Nile River,0.0,0.0
+qa,570d999c16d0071400510bc2,llm,NADGE,NATO Air Defence Ground Environment,0.0,0.0
+qa,570d999c16d0071400510bc2,rag_bm25,"I don't know.""",NATO Air Defence Ground Environment,0.0,0.0
+qa,570d999c16d0071400510bc2,rag_dense,Glastonbury,NATO Air Defence Ground Environment,0.0,0.0
+qa,5728e3113acd2414000e0121,llm,I don't know.,"improvements in civil liberties and political rights, the release of political prisoners, and a loosening of restrictions.",0.0,0.0
+qa,5728e3113acd2414000e0121,rag_bm25,"Plymouth was surpassed by Plymouth Colony, the town was besieged between 1642 and 1646.","improvements in civil liberties and political rights, the release of political prisoners, and a loosening of restrictions.",0.12903225806451615,0.0
+qa,5728e3113acd2414000e0121,rag_dense,Myanmar's human rights record has been improving,"improvements in civil liberties and political rights, the release of political prisoners, and a loosening of restrictions.",0.07999999999999999,0.0
+qa,57322a65b9d445190005e88c,llm,United States,combat information centers,0.0,0.0
+qa,57322a65b9d445190005e88c,rag_bm25,Free French Forces,combat information centers,0.0,0.0
+qa,57322a65b9d445190005e88c,rag_dense,Skysweeper,combat information centers,0.0,0.0
+qa,572b6d5934ae481900deadfb,llm,Czech,Slovak,0.0,0.0
+qa,572b6d5934ae481900deadfb,rag_bm25,Christianity,Slovak,0.0,0.0
+qa,572b6d5934ae481900deadfb,rag_dense,Russia,Slovak,0.0,0.0
+qa,57269b01dd62a815002e8ae0,llm,I don't know.,Western Samoa,0.0,0.0
+qa,57269b01dd62a815002e8ae0,rag_bm25,I don't know,Western Samoa,0.0,0.0
+qa,57269b01dd62a815002e8ae0,rag_dense,"The Independent State of Samoa (Samoan: Malo Sa 'oloto Tuto 'atasi o Smoa, IPA: [samoa]), commonly known as Samoa (Samoan: Smoa) and formerly known as Western Samoa, is a Unitary Parliamentary Republic with eleven administrative divisions. The two main islands are Savai'i and Upolu with four smaller islands surrounding the landmasses. The capital city is Apia.",Western Samoa,0.06779661016949151,0.0
+qa,573012e9947a6a140053d048,llm,The Baptists,Catholics,0.0,0.0
+qa,573012e9947a6a140053d048,rag_bm25,The Greeks were not allowed to settle in South Carolina until after the American Revolution.,Catholics,0.0,0.0
+qa,573012e9947a6a140053d048,rag_dense,I don't know,Catholics,0.0,0.0
+qa,572833d43acd2414000df6df,llm,a monopoly,"""Federation of Sovereign States"" upon principles borrowed from the Articles of Confederation of the United States of America",0.0,0.0
+qa,572833d43acd2414000df6df,rag_bm25,I don't know.,"""Federation of Sovereign States"" upon principles borrowed from the Articles of Confederation of the United States of America",0.0,0.0
+qa,572833d43acd2414000df6df,rag_dense,"How many years after the signing of the Treaty of Coche did the United States of Venezuela become incorporated under a ""Federation of Sovereign States""?","""Federation of Sovereign States"" upon principles borrowed from the Articles of Confederation of the United States of America",0.32558139534883723,0.0
+qa,57270c73f1498d1400e8f29d,llm,a capacitor,excess electric fields,0.0,0.0
+qa,57270c73f1498d1400e8f29d,rag_bm25,Plymouth was built.,excess electric fields,0.0,0.0
+qa,57270c73f1498d1400e8f29d,rag_dense,[3],excess electric fields,0.0,0.0
+qa,570d94dfb3d812140066da6c,llm,ten,3,0.0,0.0
+qa,570d94dfb3d812140066da6c,rag_bm25,paper,3,0.0,0.0
+qa,570d94dfb3d812140066da6c,rag_dense,"The first overseas deployment of Canadian military forces occurred during the Second Boer War, when several units were raised to serve under British command.",3,0.0,0.0
+qa,5725b679ec44d21400f3d433,llm,"May 1, 1897",1266,0.0,0.0
+qa,5725b679ec44d21400f3d433,rag_bm25,"The first overseas deployment of Canadian military forces occurred during the Second Boer War, when several units were raised to serve under British command",1266,0.0,0.0
+qa,5725b679ec44d21400f3d433,rag_dense,Cyprus occupies an important role,1266,0.0,0.0
+qa,57260b6a271a42140099d3e4,llm,0,"62,217",0.0,0.0
+qa,57260b6a271a42140099d3e4,rag_bm25,[3],"62,217",0.0,0.0
+qa,57260b6a271a42140099d3e4,rag_dense,[3],"62,217",0.0,0.0
+qa,56f966c39b226e1400dd1405,llm,Wake Island,Enen-kio,0.0,0.0
+qa,56f966c39b226e1400dd1405,rag_bm25,[3],Enen-kio,0.0,0.0
+qa,56f966c39b226e1400dd1405,rag_dense,[3],Enen-kio,0.0,0.0
+qa,5728f7636aef0514001548f9,llm,English,Latin,0.0,0.0
+qa,5728f7636aef0514001548f9,rag_bm25,Plymouth,Latin,0.0,0.0
+qa,5728f7636aef0514001548f9,rag_dense,China,Latin,0.0,0.0
+qa,56de65324396321400ee2882,llm,1830,1646,0.0,0.0
+qa,56de65324396321400ee2882,rag_bm25,Plymouth Colony,1646,0.0,0.0
+qa,56de65324396321400ee2882,rag_dense,British,1646,0.0,0.0
+qa,56cc655c6d243a140015ef92,llm,acoustic,Bass,0.0,0.0
+qa,56cc655c6d243a140015ef92,rag_bm25,[4],Bass,0.0,0.0
+qa,56cc655c6d243a140015ef92,rag_dense,LDs were not manufactured properly; sometimes a substandard adhesive was used to sandwich together the two sides of the disc,Bass,0.0,0.0
+qa,56cc36926d243a140015eecf,llm,I don't know.,The Yarlung rulers of Tibet,0.0,0.0
+qa,56cc36926d243a140015eecf,rag_bm25,Israel,The Yarlung rulers of Tibet,0.0,0.0
+qa,56cc36926d243a140015eecf,rag_dense,[3],The Yarlung rulers of Tibet,0.0,0.0
+qa,56dec6913277331400b4d726,llm,Benzol,marijuana,0.0,0.0
+qa,56dec6913277331400b4d726,rag_bm25,[3],marijuana,0.0,0.0
+qa,56dec6913277331400b4d726,rag_dense,[3],marijuana,0.0,0.0
+qa,570ce29dfed7b91900d45a74,llm,Luke,1:34,0.0,0.0
+qa,570ce29dfed7b91900d45a74,rag_bm25,"Royal Collection of furniture and art, both restoring and adding to it.",1:34,0.0,0.0
+qa,570ce29dfed7b91900d45a74,rag_dense,[3],1:34,0.0,0.0
+qa,572e8e84dfa6aa1500f8d120,llm,I don't know.,his commitments in Germany were counterbalanced by the demands of the British colonies overseas,0.0,0.0
+qa,572e8e84dfa6aa1500f8d120,rag_bm25,"George V, and Queen Mary",his commitments in Germany were counterbalanced by the demands of the British colonies overseas,0.0,0.0
+qa,572e8e84dfa6aa1500f8d120,rag_dense,British Empire invaded Afghanistan,his commitments in Germany were counterbalanced by the demands of the British colonies overseas,0.11111111111111112,0.0
+qa,572684db5951b619008f7553,llm,I don't know.,Bill Nicholson,0.0,0.0
+qa,572684db5951b619008f7553,rag_bm25,[1],Bill Nicholson,0.0,0.0
+qa,572684db5951b619008f7553,rag_dense,[3],Bill Nicholson,0.0,0.0
+qa,572fcaa9947a6a140053ccc0,llm,2,four phases,0.0,0.0
+qa,572fcaa9947a6a140053ccc0,rag_bm25,"Pakistan, Buddhism has grown from 138 million adherents in 1910, of which 137 million were in Asia, to 495 million in 2010, of which 487 million were in Asia",four phases,0.0,0.0
+qa,572fcaa9947a6a140053ccc0,rag_dense,[3],four phases,0.0,0.0
+qa,5706b0e42eaba6190074ac46,llm,"June 1, 1932",during the 1980s and 1990s,0.0,0.0
+qa,5706b0e42eaba6190074ac46,rag_bm25,[3],during the 1980s and 1990s,0.0,0.0
+qa,5706b0e42eaba6190074ac46,rag_dense,Nearchus was the first of Alexander's commanders to visit these islands.,during the 1980s and 1990s,0.11764705882352941,0.0
+qa,56df5a4d8bc80c19004e4af0,llm,ranked 3rd,42nd,0.0,0.0
+qa,56df5a4d8bc80c19004e4af0,rag_bm25,Plymouth Colony,42nd,0.0,0.0
+qa,56df5a4d8bc80c19004e4af0,rag_dense,[2],42nd,0.0,0.0
+qa,57274262dd62a815002e9a37,llm,a sluggish economy,sharply rising land values,0.0,0.0
+qa,57274262dd62a815002e9a37,rag_bm25,Plymouth,sharply rising land values,0.0,0.0
+qa,57274262dd62a815002e9a37,rag_dense,Apple's ARM cores,sharply rising land values,0.0,0.0
+qa,5727a4f1ff5b5019007d91cc,llm,I don't know.,political obstacles,0.0,0.0
+qa,5727a4f1ff5b5019007d91cc,rag_bm25,Jews are a Christian,political obstacles,0.0,0.0
+qa,5727a4f1ff5b5019007d91cc,rag_dense,I don't know,political obstacles,0.0,0.0
+qa,56e427248c00841900fbaf02,llm,Japan,the northeastern coast of Estonia,0.0,0.0
+qa,56e427248c00841900fbaf02,rag_bm25,sands,the northeastern coast of Estonia,0.0,0.0
+qa,56e427248c00841900fbaf02,rag_dense,Greek,the northeastern coast of Estonia,0.0,0.0
+qa,56f8d2919e9bad19000a059c,llm,Tokyo,"Garmisch-Partenkirchen, Germany",0.0,0.0
+qa,56f8d2919e9bad19000a059c,rag_bm25,I don't know,"Garmisch-Partenkirchen, Germany",0.0,0.0
+qa,56f8d2919e9bad19000a059c,rag_dense,[4],"Garmisch-Partenkirchen, Germany",0.0,0.0
+qa,570b212d6b8089140040f761,llm,Xbox Live,EA Sports games,0.0,0.0
+qa,570b212d6b8089140040f761,rag_bm25,[3],EA Sports games,0.0,0.0
+qa,570b212d6b8089140040f761,rag_dense,Arsenal shareholder announced that it would sell the shares of the company to Arsenal Holdings plc,EA Sports games,0.0,0.0
+qa,57324e7a0fdd8d15006c694b,llm,Because the Bible condemns the mixing of religions.,can only be one truth from God,0.0,0.0
+qa,57324e7a0fdd8d15006c694b,rag_bm25,a definite rule,can only be one truth from God,0.0,0.0
+qa,57324e7a0fdd8d15006c694b,rag_dense,"China"".",can only be one truth from God,0.0,0.0
+qa,5728110f4b864d1900164387,llm,1872,23 November 1944,0.0,0.0
+qa,5728110f4b864d1900164387,rag_bm25,I don't know,23 November 1944,0.0,0.0
+qa,5728110f4b864d1900164387,rag_dense,international relations,23 November 1944,0.0,0.0
+qa,572bff5edfb02c14005c6b2d,llm,They agree on the physics of the universe.,"God is omnipotent, omniscient, and benevolent,",0.0,0.0
+qa,572bff5edfb02c14005c6b2d,rag_bm25,adverbial,"God is omnipotent, omniscient, and benevolent,",0.0,0.0
+qa,572bff5edfb02c14005c6b2d,rag_dense,adverbial,"God is omnipotent, omniscient, and benevolent,",0.0,0.0
+qa,57299ef46aef05140015503e,llm,fungi,mosquitoes,0.0,0.0
+qa,57299ef46aef05140015503e,rag_bm25,Plymouth,mosquitoes,0.0,0.0
+qa,57299ef46aef05140015503e,rag_dense,"are very low voltage ratings, they are very low voltage ratings.",mosquitoes,0.0,0.0
+qa,56dde7259a695914005b9696,llm,"June 1, 1865",Second Boer War,0.0,0.0
+qa,56dde7259a695914005b9696,rag_bm25,Polish AA defences,Second Boer War,0.0,0.0
+qa,56dde7259a695914005b9696,rag_dense,How many more AA defences were there than AA defences?,Second Boer War,0.0,0.0
+qa,571d0e925efbb31900334e91,llm,0.8,>95%,0.0,0.0
+qa,571d0e925efbb31900334e91,rag_bm25,Strasbourg,>95%,0.0,0.0
+qa,571d0e925efbb31900334e91,rag_dense,DC voltages,>95%,0.0,0.0
+qa,572ea842dfa6aa1500f8d26f,llm,It is a genus of fungi.,higher internal heating,0.0,0.0
+qa,572ea842dfa6aa1500f8d26f,rag_bm25,Neptune),higher internal heating,0.0,0.0
+qa,572ea842dfa6aa1500f8d26f,rag_dense,[3],higher internal heating,0.0,0.0
+qa,573350a0d058e614000b5840,llm,genocide,legal aspect of the term,0.0,0.0
+qa,573350a0d058e614000b5840,rag_bm25,I don't know,legal aspect of the term,0.0,0.0
+qa,573350a0d058e614000b5840,rag_dense,The study of genocide has mainly been focused towards the legal aspect of the term,legal aspect of the term,0.5,0.0
+qa,57070b1490286e26004fc83e,llm,adolescent,socio-political constructs,0.0,0.0
+qa,57070b1490286e26004fc83e,rag_bm25,entomologist,socio-political constructs,0.0,0.0
+qa,57070b1490286e26004fc83e,rag_dense,I don't know,socio-political constructs,0.0,0.0
+qa,572a35beaf94a219006aa8a5,llm,a landslide,the detriment of local Ottoman interests,0.0,0.0
+qa,572a35beaf94a219006aa8a5,rag_bm25,Britain moved to pre-empt this by invading Afghanistan,the detriment of local Ottoman interests,0.0,0.0
+qa,572a35beaf94a219006aa8a5,rag_dense,I don't know).,the detriment of local Ottoman interests,0.0,0.0
+qa,57267fbcdd62a815002e874a,llm,China,Brunei,0.0,0.0
+qa,57267fbcdd62a815002e874a,rag_bm25,Southern Christian Leadership Conference,Brunei,0.0,0.0
+qa,57267fbcdd62a815002e874a,rag_dense,China,Brunei,0.0,0.0
+qa,57320c0ee17f3d1400422618,llm,3%,.38%,0.0,0.0
+qa,57320c0ee17f3d1400422618,rag_bm25,"Greece, the re-establishment of the Byzantine imperial capital in Constantinople in 1261 was accompanied by the Empire's recovery of much of the Greek peninsula, although the Frankish Principality of Achaea in the Peloponnese and the rival Greek Despotate of Epirus in the north both remained important regional powers into the 14th century, while the islands remained largely under Genoese and Venetian control.",.38%,0.0,0.0
+qa,57320c0ee17f3d1400422618,rag_dense,Nigeria,.38%,0.0,0.0
+qa,57262de2ec44d21400f3dbb8,llm,1898,1261,0.0,0.0
+qa,57262de2ec44d21400f3dbb8,rag_bm25,Apple Mini,1261,0.0,0.0
+qa,57262de2ec44d21400f3dbb8,rag_dense,Constantinople was divided between the Greek Despotate of Epirus and Frankish rule,1261,0.0,0.0
+qa,57270064f1498d1400e8f204,llm,a spectral change,colour,0.0,0.0
+qa,57270064f1498d1400e8f204,rag_bm25,Sun's thermal properties,colour,0.0,0.0
+qa,57270064f1498d1400e8f204,rag_dense,Sun's thermal properties,colour,0.0,0.0
+qa,5731cb92e99e3014001e628c,llm,I don't know.,governmentally composed prayers for religious services,0.0,0.0
+qa,5731cb92e99e3014001e628c,rag_bm25,[3],governmentally composed prayers for religious services,0.0,0.0
+qa,5731cb92e99e3014001e628c,rag_dense,Plymouth Colony,governmentally composed prayers for religious services,0.0,0.0
+qa,57094ba9efce8f15003a7dcf,llm,a syringe,a rock salt,0.4,0.0
+qa,57094ba9efce8f15003a7dcf,rag_bm25,a population to die,a rock salt,0.28571428571428575,0.0
+qa,57094ba9efce8f15003a7dcf,rag_dense,a rotted disc,a rock salt,0.3333333333333333,0.0
+qa,5725e0fb89a1e219009ac01c,llm,1897,1830,0.0,0.0
+qa,5725e0fb89a1e219009ac01c,rag_bm25,Plymouth Colony,1830,0.0,0.0
+qa,5725e0fb89a1e219009ac01c,rag_dense,[3],1830,0.0,0.0
+qa,570c27686b8089140040fb9b,llm,civil rights,communist ties,0.0,0.0
+qa,570c27686b8089140040fb9b,rag_bm25,Christianity,communist ties,0.0,0.0
+qa,570c27686b8089140040fb9b,rag_dense,Council of Ministers–Government (1978–1991),communist ties,0.0,0.0
+qa,5726a91c5951b619008f7962,llm,festival,Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton,0.11764705882352941,0.0
+qa,5726a91c5951b619008f7962,rag_bm25,Jesus' conception,Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton,0.0,0.0
+qa,5726a91c5951b619008f7962,rag_dense,George V,Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton,0.0,0.0
+qa,572ee58003f9891900756ad4,llm,China was not isolated,the early Ming dynasty,0.0,0.0
+qa,572ee58003f9891900756ad4,rag_bm25,China,the early Ming dynasty,0.0,0.0
+qa,572ee58003f9891900756ad4,rag_dense,China),the early Ming dynasty,0.0,0.0
+qa,5726776df1498d1400e8e0a6,llm,Russia,Persia and Turkey,0.0,0.0
+qa,5726776df1498d1400e8e0a6,rag_bm25,"China, urbanization increased as the population grew and as the division of labor grew more complex.",Persia and Turkey,0.10526315789473684,0.0
+qa,5726776df1498d1400e8e0a6,rag_dense,Russian SFSR,Persia and Turkey,0.0,0.0
+sum,611,llm,South Africa's Freedom Day is celebrated in South Africa on April 27.,"South Africa marks 21 years since the first free election .
+Nation celebrates amid recent violent attack on immigrants .",0.2580645161290323,0.0
+sum,611,rag_bm25,[1] iconic South African freedom fighter Nelson Mandela.,"South Africa marks 21 years since the first free election .
+Nation celebrates amid recent violent attack on immigrants .",0.07692307692307691,0.0
+sum,611,rag_dense,[1] iconic South African freedom fighter Nelson Mandela.,"South Africa marks 21 years since the first free election .
+Nation celebrates amid recent violent attack on immigrants .",0.07692307692307691,0.0
+sum,2384,llm,Nico Rosberg's team-mate. Hamilton was a 'strange' driver in the first round of the Chinese Grand Prix. Rosberg was a 'strange' driver.,"Nico Rosberg was the last driver out of the pit-lane and was forced to turn in a quicker out-lap than he would have liked ahead of his final shot at pole .
+The German narrowly lost out  to his team-mate Lewis Hamilton .
+Rosberg was just 0.042secs slower than his Mercedes rival .
+Rosberg also said: 'Oh, come on, guys', over the team radio after he was informed he'd missed out on pole for Sunday's Chinese Grand Prix .",0.1904761904761905,0.0
+sum,2384,rag_bm25,Hamilton's fastest lap in the first round of the race. Hamilton will start from the front of the pack with Jenson Button 17th and Fernando Alonso 18th. Hamilton will start from the front of the pack with Jenson Button 17th and Fernando Alonso 18th.,"Nico Rosberg was the last driver out of the pit-lane and was forced to turn in a quicker out-lap than he would have liked ahead of his final shot at pole .
+The German narrowly lost out  to his team-mate Lewis Hamilton .
+Rosberg was just 0.042secs slower than his Mercedes rival .
+Rosberg also said: 'Oh, come on, guys', over the team radio after he was informed he'd missed out on pole for Sunday's Chinese Grand Prix .",0.1111111111111111,0.0
+sum,2384,rag_dense,"Hamilton will start from the front of the pack as he bids to win his fourth grand prix in China. Hamilton will start from the front of the pack as he bids to win his fourth grand prix in China. Hamilton will start from the front of the pack as he bids to win his fourth grand prix in China. The German has now been out-qualified by Hamilton at each of the three races this season. Hamilton, who is customarily gracious in defeat, fell slightly short of Hamilton’s mark and was grumpy afterwards. He said: ’It was not ideal to put me","Nico Rosberg was the last driver out of the pit-lane and was forced to turn in a quicker out-lap than he would have liked ahead of his final shot at pole .
+The German narrowly lost out  to his team-mate Lewis Hamilton .
+Rosberg was just 0.042secs slower than his Mercedes rival .
+Rosberg also said: 'Oh, come on, guys', over the team radio after he was informed he'd missed out on pole for Sunday's Chinese Grand Prix .",0.16216216216216214,0.0
+sum,2311,llm,Newcastle United fans have been able to spot the disgraceful move. The pictures were thrown in a skip outside St James' Park. The pictures were thrown in a skip outside the stadium.,"Newcastle fans angered after club dump pictures of Sir Bobby Robson .
+Sir Bobby's side finished fourth and qualified for the Champions League back in 2001-2002 in what was one of their most successful seasons .
+Supporters are upset over a lack of respect to their former manager .
+Alan Shearer, Nolberto Solano and Gary Speed are included in the photos .
+CLICK HERE for all the latest Newcastle United news .",0.13861386138613863,0.0
+sum,2311,rag_bm25,"Sir Bobby, who died in 2011, was a key figure in the title challenge. The former club captain was instrumental in qualifying for Europe. Gary Speed, who died in 2011, was also seen as a key figure in Newcastle's title challenge.","Newcastle fans angered after club dump pictures of Sir Bobby Robson .
+Sir Bobby's side finished fourth and qualified for the Champions League back in 2001-2002 in what was one of their most successful seasons .
+Supporters are upset over a lack of respect to their former manager .
+Alan Shearer, Nolberto Solano and Gary Speed are included in the photos .
+CLICK HERE for all the latest Newcastle United news .",0.18018018018018017,0.0
+sum,2311,rag_dense,"Sir Bobby Robson's team finished fourth in 2002 and qualified for the Champions League. Alan Shearer, Gary Speed and Nolberto Solano are among the legends.","Newcastle fans angered after club dump pictures of Sir Bobby Robson .
+Sir Bobby's side finished fourth and qualified for the Champions League back in 2001-2002 in what was one of their most successful seasons .
+Supporters are upset over a lack of respect to their former manager .
+Alan Shearer, Nolberto Solano and Gary Speed are included in the photos .
+CLICK HERE for all the latest Newcastle United news .",0.3789473684210526,0.0
+sum,6874,llm,"Cindy Santamaria-Williams, of Stroudsburg, Pennsylvania, was beaten by three teenagers. She told them to quiet down during a movie. She said she shushed three girls in the dark theater during Fast and Furious 7. She said they were cursing loudly.","Cindy Santamaria-Williams is covered in bruises and has a broken eye socket following the alleged attack on Easter Sunday .
+Santamaria-Williams claims three teenage girl beat her outside the theater after she shushed the girls because they were loud .
+Santamaria-Williams' sister-in-law was also hurt .
+Police are searching for the teens and say they will face assault charges .",0.2352941176470588,0.0
+sum,6874,rag_bm25,"Cindy Santamaria-Williams, of Stroudsburg, Pennsylvania, is covered in bruises and has a broken eye socket following the alleged attack on Easter Sunday.","Cindy Santamaria-Williams is covered in bruises and has a broken eye socket following the alleged attack on Easter Sunday .
+Santamaria-Williams claims three teenage girl beat her outside the theater after she shushed the girls because they were loud .
+Santamaria-Williams' sister-in-law was also hurt .
+Police are searching for the teens and say they will face assault charges .",0.4761904761904761,0.0
+sum,6874,rag_dense,Santamaria-Williams said she was knocked down to the ground outside a movie theater on Easter Sunday. She said she was beaten by three teenagers all because she told them to quiet down during a movie.,"Cindy Santamaria-Williams is covered in bruises and has a broken eye socket following the alleged attack on Easter Sunday .
+Santamaria-Williams claims three teenage girl beat her outside the theater after she shushed the girls because they were loud .
+Santamaria-Williams' sister-in-law was also hurt .
+Police are searching for the teens and say they will face assault charges .",0.18556701030927836,0.0
+sum,8241,llm,A hate preacher who was invited to speak at the Oxford Union has been refused a passport.,"Preacher Trevor Brooks has been refused a passport by the Home Office .
+Brooks, 39, is an associate of Islamist firebrand preacher Anjem Choudary .
+A Home Office letter said he is linked to banned group Al Muhajiroun .
+It added he was assessed as being likely to travel to Syria to fight for ISIS .",0.1739130434782609,0.0
+sum,8241,rag_bm25,A radical Muslim preacher has been refused a passport after the Home Office accused him of planning to join Islamic State.,"Preacher Trevor Brooks has been refused a passport by the Home Office .
+Brooks, 39, is an associate of Islamist firebrand preacher Anjem Choudary .
+A Home Office letter said he is linked to banned group Al Muhajiroun .
+It added he was assessed as being likely to travel to Syria to fight for ISIS .",0.3013698630136986,0.0
+sum,8241,rag_dense,A radical Muslim preacher has been refused a passport after the Home Office accused him of planning to join Islamic State.,"Preacher Trevor Brooks has been refused a passport by the Home Office .
+Brooks, 39, is an associate of Islamist firebrand preacher Anjem Choudary .
+A Home Office letter said he is linked to banned group Al Muhajiroun .
+It added he was assessed as being likely to travel to Syria to fight for ISIS .",0.3013698630136986,0.0
+sum,3959,llm,UEFA's second Serie A side have won the Europa League semi-finals.,"Europa League semi-final draw: Napoli vs Dnipro, Sevilla vs Fiorentina .
+Last-four ties to be played on May 7 and May 14 .
+Final takes place at National Stadium in Warsaw on May 27 .",0.1702127659574468,0.0
+sum,3959,rag_bm25,UEFA's second club competition has thrown up an interesting mix in the last four.,"Europa League semi-final draw: Napoli vs Dnipro, Sevilla vs Fiorentina .
+Last-four ties to be played on May 7 and May 14 .
+Final takes place at National Stadium in Warsaw on May 27 .",0.0816326530612245,0.0
+sum,3959,rag_dense,"Sevilla, Napoli, Fiorentina and Dnipro will all learn who they face in the semi-finals of the Europa League.","Europa League semi-final draw: Napoli vs Dnipro, Sevilla vs Fiorentina .
+Last-four ties to be played on May 7 and May 14 .
+Final takes place at National Stadium in Warsaw on May 27 .",0.1509433962264151,0.0
+sum,1850,llm,Derby want Sean Dyche to replace Steve McClaren. Dyche has been linked with a move to Newcastle. Derby want McClaren to replace Steve McClaren.,"Steve McClaren has been linked with a number of jobs including Newcastle .
+Derby are chasing a play-off place and are sixth in the Championship .
+The rams have been impressed with Sean Dyche in the Premier League .
+Derby want the Burnley boss to replace McClaren if he leaves this summer .",0.35135135135135137,0.0
+sum,1850,rag_bm25,Derby County want Sean Dyche to replace Steve McClaren. Derby want Sean Dyche to replace Steve McClaren. Dyche has been linked with a move to Newcastle at the end of the season. McClaren has been heavily backed to replace Alan Pardew at Newcastle earlier this season.,"Steve McClaren has been linked with a number of jobs including Newcastle .
+Derby are chasing a play-off place and are sixth in the Championship .
+The rams have been impressed with Sean Dyche in the Premier League .
+Derby want the Burnley boss to replace McClaren if he leaves this summer .",0.2916666666666667,0.0
+sum,1850,rag_dense,Derby County want Sean Dyche to replace Steve McClaren. Derby want Sean Dyche to replace Steve McClaren.,"Steve McClaren has been linked with a number of jobs including Newcastle .
+Derby are chasing a play-off place and are sixth in the Championship .
+The rams have been impressed with Sean Dyche in the Premier League .
+Derby want the Burnley boss to replace McClaren if he leaves this summer .",0.23880597014925375,0.0
+sum,3466,llm,"The 20,000 square foot mansion is opulent and private. It sits by two lakes in eight acres of manicured gardens. The lavish mansion is a 'smart' and a 'smart' backdrop to the hit show.","The giant mansion used to film the hit show Empire is on the market for $13 million following a price drop .
+The 20,000 square feet French Country-style estate took five years to build .
+The five bedroom, nine bathroom house features waterfront views, custom woodwork and lots of space for entertaining .
+Fit for a mogul, the house is  owned by strip club owner Sam Cecola .",0.15841584158415842,0.0
+sum,3466,rag_bm25,"The 20,000 square foot mansion serves as the backdrop to the hit show Empire. It took five years to build the enormous mansion, with construction finally coming to a halt in 2008.","The giant mansion used to film the hit show Empire is on the market for $13 million following a price drop .
+The 20,000 square feet French Country-style estate took five years to build .
+The five bedroom, nine bathroom house features waterfront views, custom woodwork and lots of space for entertaining .
+Fit for a mogul, the house is  owned by strip club owner Sam Cecola .",0.2828282828282829,0.0
+sum,3466,rag_dense,The house is as opulent in real life as it is in the show and has a lot of room for entertaining.,"The giant mansion used to film the hit show Empire is on the market for $13 million following a price drop .
+The 20,000 square feet French Country-style estate took five years to build .
+The five bedroom, nine bathroom house features waterfront views, custom woodwork and lots of space for entertaining .
+Fit for a mogul, the house is  owned by strip club owner Sam Cecola .",0.18181818181818182,0.0
+sum,559,llm,"A police officer was arrested at a woman's residence in Washington. A police officer went to a woman's residence about 12:24 a.m. after receiving a call about a burglary in progress. The officer found the front door with broken hinges, boot prints and two broken windows.","Off-duty member of the Uniformed Division of Secret Service arrested Friday .
+Police said he was charged with trying to break into a woman's residence .",0.18421052631578946,0.0
+sum,559,rag_bm25,"A police officer went to a woman's residence about 12:24 a.m. after receiving a call about a burglary in progress, police documents say.","Off-duty member of the Uniformed Division of Secret Service arrested Friday .
+Police said he was charged with trying to break into a woman's residence .",0.23076923076923078,0.0
+sum,559,rag_dense,"D.C. Metropolitan Police officer, who was at the scene, said he was a police officer and asked to speak with the woman.","Off-duty member of the Uniformed Division of Secret Service arrested Friday .
+Police said he was charged with trying to break into a woman's residence .",0.24489795918367346,0.0
+sum,10362,llm,"Carrie Reichert, 43, has written a book about the night. She says she felt 'overdressed' when she saw him playing strip billiards. She says she was 'so excited' to see him playing naked billiards.","Dominatrix claims she shared a 'hot, deep kiss' with Prince Harry in Vegas .
+Carrie Reichert said she felt overdressed after seeing his 'cute naked a**'
+The 43-year-old made the claim in an excerpt from her upcoming book .
+Kensington Palace has previously denied she was invited to the hotel suite .",0.18823529411764706,0.0
+sum,10362,rag_bm25,"Carrie Reichert, 43, has released a teaser from her upcoming book In the Eye of the Royal Story.","Dominatrix claims she shared a 'hot, deep kiss' with Prince Harry in Vegas .
+Carrie Reichert said she felt overdressed after seeing his 'cute naked a**'
+The 43-year-old made the claim in an excerpt from her upcoming book .
+Kensington Palace has previously denied she was invited to the hotel suite .",0.23188405797101447,0.0
+sum,10362,rag_dense,"Carrie Reichert, 43, has released a teaser from her upcoming book In the Eye of the Royal Story. She claims she was 'overdressed' when she saw him playing strip billiards. She wrote: 'I'm only in my bathing suit and feeling overdressed, wondering if I too should strip down and join him in his royal buff'","Dominatrix claims she shared a 'hot, deep kiss' with Prince Harry in Vegas .
+Carrie Reichert said she felt overdressed after seeing his 'cute naked a**'
+The 43-year-old made the claim in an excerpt from her upcoming book .
+Kensington Palace has previously denied she was invited to the hotel suite .",0.18691588785046728,0.0
+sum,1375,llm,Spectators were seen smiling as they watched the team of animals in action. Spectators were seen smiling as they watched the team of animals in action.,"The critters were filmed in action after getting a makeshift backboard and hoop installed in their pen .
+The zoo put on a range of Final Four activities over the weekend for visitors including a basketball-theme scavenger hunt .
+March Madness is set to come to a close tonight as the Wisconsin Badgers and Duke Blue Devils go head-to-head at the Lucas Oil Stadium .",0.10989010989010987,0.0
+sum,1375,rag_bm25,[2],"The critters were filmed in action after getting a makeshift backboard and hoop installed in their pen .
+The zoo put on a range of Final Four activities over the weekend for visitors including a basketball-theme scavenger hunt .
+March Madness is set to come to a close tonight as the Wisconsin Badgers and Duke Blue Devils go head-to-head at the Lucas Oil Stadium .",0.0,0.0
+sum,1375,rag_dense,[2],"The critters were filmed in action after getting a makeshift backboard and hoop installed in their pen .
+The zoo put on a range of Final Four activities over the weekend for visitors including a basketball-theme scavenger hunt .
+March Madness is set to come to a close tonight as the Wisconsin Badgers and Duke Blue Devils go head-to-head at the Lucas Oil Stadium .",0.0,0.0
+sum,2303,llm,"Ricky Hatton's former trainer has been charged with sexual assault on a girl under the age of 16. The former two-weight world champion has been charged with a sexual assault on a girl under the age of 16. Shannon trained Hatton for just one fight, against Vyacheslav Senchenko.","Boxing trainer Bob Shannon has been charged with sexual assault .
+Shannon is best known for training Ricky Hatton in 2012 .
+Hatton lost their only fight together against Vyacheslav Senchenko in 2012 .
+Shannon will appear before magistrates in Manchester next week .",0.3111111111111111,0.0
+sum,2303,rag_bm25,Ricky Hatton’s former trainer has been charged with sexually assaulting a girl under the age of 16.,"Boxing trainer Bob Shannon has been charged with sexual assault .
+Shannon is best known for training Ricky Hatton in 2012 .
+Hatton lost their only fight together against Vyacheslav Senchenko in 2012 .
+Shannon will appear before magistrates in Manchester next week .",0.24137931034482757,0.0
+sum,2303,rag_dense,"[1] win the welterweight world title, under the tutelage of long-term trainer Billy Graham. Hatton’s weight fluctuations between fights eventually caught up with him and he lost super-fights against Floyd Mayweather in 2007 and Manny Pacquiao two years later, before retiring for the first time. He turned to Shannon to guide his comeback in 2012 but the Senchenko defeat was their only fight together.","Boxing trainer Bob Shannon has been charged with sexual assault .
+Shannon is best known for training Ricky Hatton in 2012 .
+Hatton lost their only fight together against Vyacheslav Senchenko in 2012 .
+Shannon will appear before magistrates in Manchester next week .",0.16822429906542055,0.0
+sum,1664,llm,Leeds United are subject of a takeover bid from Red Bull. The soft drink giant has already owned three clubs - RB Leipzig and Red Bull Salzburg. Red Bull has been linked with a bid in November.,"Red Bull have launched a bid to buy Leeds, Massimo Cellino says .
+Cellino says majority shareholder Eleonora Sport are considering offer .
+Leeds chairman Andrew Umbers later said he was unaware of offer .
+Cellino currently serving a Football League disqualification .",0.10666666666666666,0.0
+sum,1664,rag_bm25,"Leeds United are the subject of a takeover bid from Red Bull. The soft drink giant already own three clubs - RB Leipzig in Germany, Red Bull Salzburg in Austria and MLS side New York Red Bulls in Formula One. After being linked with a bid in November, Red Bull issued a statement saying: 'Red Bull has no plans to take over Leeds Utd nor take a stake in the club.'","Red Bull have launched a bid to buy Leeds, Massimo Cellino says .
+Cellino says majority shareholder Eleonora Sport are considering offer .
+Leeds chairman Andrew Umbers later said he was unaware of offer .
+Cellino currently serving a Football League disqualification .",0.12844036697247707,0.0
+sum,1664,rag_dense,Leeds United are subject of a takeover bid from Red Bull. Cellino said that Leeds' majority shareholder Eleonora Sport was considering the offer. But Leeds chairman Andrew Umbers said he was not aware of an offer from Red Bull.,"Red Bull have launched a bid to buy Leeds, Massimo Cellino says .
+Cellino says majority shareholder Eleonora Sport are considering offer .
+Leeds chairman Andrew Umbers later said he was unaware of offer .
+Cellino currently serving a Football League disqualification .",0.46153846153846156,0.0
+sum,1842,llm,Nabil Fekir's father says he would not go to Manchester City to sit on the bench. The Lyon star has been attracting interest from Premier League clubs but his family are disappointed with his insistence on pursuing a deal with City. Fekir has been attracting interest from Premier League clubs but his family are reportedly disappointed with their insistence on pursuing a deal with City.,"Lyon star Nabil Fekir has attracted interest from Premier League clubs .
+Frontman's father believes Fekir would progress and develop at Arsenal .
+However, Fekir Snr thinks his son would be stuck on bench at Man City .",0.2549019607843137,0.0
+sum,1842,rag_bm25,"Nabil Fekir's father said: 'Nabil would like to finish 1st or 2nd and play Champions League football with Lyon. If he leaves, it'll be for Arsenal. It's the only club that can enable him to progress, with Arsene Wenger. He will not go to Manchester City to sit on the bench.","Lyon star Nabil Fekir has attracted interest from Premier League clubs .
+Frontman's father believes Fekir would progress and develop at Arsenal .
+However, Fekir Snr thinks his son would be stuck on bench at Man City .",0.2,0.0
+sum,1842,rag_dense,"Nabil Fekir's father insists Arsenal would be the ideal destination for his son, rather than a move to Manchester City. Fekir recently split with his agents after his family were disappointed with their insistence on pursuing a deal with City. Fekir recently split with his agents after his family were reportedly disappointed with their insistence on pursuing a deal with City. Fekir recently split with his agents after his family were reportedly disappointed with their insistence on pursuing a deal with City.","Lyon star Nabil Fekir has attracted interest from Premier League clubs .
+Frontman's father believes Fekir would progress and develop at Arsenal .
+However, Fekir Snr thinks his son would be stuck on bench at Man City .",0.15126050420168066,0.0
+sum,10295,llm,"Philip Garrod, 43, was caught speeding at 105mph on his Suzuki motorbike. He was fined £650 with six points for speeding. He was caught by a speed camera doing the eye-watering speed in a 60mph zone on his motorbike. He pleaded guilty and was fined £650 with six points.","Philip Garrod caught while on way to work with Welsh Ambulance Service .
+Pleaded guilty to offence but asked for special consideration to avoid ban .
+Claimed he was rushing to see injured cyclist after message from colleague .
+Falsified patient document for fake cyclist injury on the A470 at Dolgellau .
+Rumbled after bosses checked 999 calls and found none matching the claim .",0.1818181818181818,0.0
+sum,10295,rag_bm25,"Philip Garrod, 43, was caught speeding at 105mph on his Suzuki motorbike in north Wales.","Philip Garrod caught while on way to work with Welsh Ambulance Service .
+Pleaded guilty to offence but asked for special consideration to avoid ban .
+Claimed he was rushing to see injured cyclist after message from colleague .
+Falsified patient document for fake cyclist injury on the A470 at Dolgellau .
+Rumbled after bosses checked 999 calls and found none matching the claim .",0.10666666666666667,0.0
+sum,10295,rag_dense,"Philip Garrod, 43, was caught by a speed camera doing 105mph on his Suzuki motorbike. He pleaded guilty and was fined £650 with six points for speeding. He pleaded guilty and was fined £650 with six points for speeding.","Philip Garrod caught while on way to work with Welsh Ambulance Service .
+Pleaded guilty to offence but asked for special consideration to avoid ban .
+Claimed he was rushing to see injured cyclist after message from colleague .
+Falsified patient document for fake cyclist injury on the A470 at Dolgellau .
+Rumbled after bosses checked 999 calls and found none matching the claim .",0.20202020202020202,0.0
+sum,8185,llm,"Study found that just one extra meal out a week raises the odds of having high blood pressure by six per cent. Eating out is associated with higher calorie, saturated fat and salt intake.","Those who often dine out are more likely to have elevated blood pressure .
+Eating out is associated with higher calorie, saturated fat and salt intake .
+Researchers found 27.4% of Singapore's population had pre-hypertension .
+Of these, more than a third ate more than 12 meals out every week .",0.38095238095238104,0.0
+sum,8185,rag_bm25,Study found that just one extra meal out a week raised the odds of having high blood pressure by six per cent. The study found that even eating one extra meal out raised the odds of having high blood pressure by six per cent.,"Those who often dine out are more likely to have elevated blood pressure .
+Eating out is associated with higher calorie, saturated fat and salt intake .
+Researchers found 27.4% of Singapore's population had pre-hypertension .
+Of these, more than a third ate more than 12 meals out every week .",0.14893617021276598,0.0
+sum,8185,rag_dense,Researchers in Singapore found that pre-hypertension and hypertension were more likely to eat more meals away from home than in men.,"Those who often dine out are more likely to have elevated blood pressure .
+Eating out is associated with higher calorie, saturated fat and salt intake .
+Researchers found 27.4% of Singapore's population had pre-hypertension .
+Of these, more than a third ate more than 12 meals out every week .",0.19444444444444445,0.0
+sum,8759,llm,"Christopher Furniss-Roe, from Pontypool, South Wales, was found hanging in his bedroom by his father.","Christopher Furniss-Roe, 8, found hanged in his bedroom in South Wales .
+He had been sent to bed early for breaking younger sister's beach bucket .
+His father tried to save his life, but he died in hospital the following day .
+Coroner ruled it was a 'tragic accident' and recorded the cause as hanging .
+For confidential support on suicide matters in the UK, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here.",0.2105263157894737,0.0
+sum,8759,rag_bm25,"Christopher Furniss-Roe, who hanged himself in a 'tragic accident', died the next day in hospital.","Christopher Furniss-Roe, 8, found hanged in his bedroom in South Wales .
+He had been sent to bed early for breaking younger sister's beach bucket .
+His father tried to save his life, but he died in hospital the following day .
+Coroner ruled it was a 'tragic accident' and recorded the cause as hanging .
+For confidential support on suicide matters in the UK, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here.",0.2105263157894737,0.0
+sum,8759,rag_dense,Christopher's life support machine switched off.,"Christopher Furniss-Roe, 8, found hanged in his bedroom in South Wales .
+He had been sent to bed early for breaking younger sister's beach bucket .
+His father tried to save his life, but he died in hospital the following day .
+Coroner ruled it was a 'tragic accident' and recorded the cause as hanging .
+For confidential support on suicide matters in the UK, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here.",0.09302325581395349,0.0
+sum,1599,llm,"The 1,500 migrants were rescued by Italian coast guard ships and one navy ship in five separate operations. The migrants were transboarded onto the Italian ships and were taken to either the island of Lampedusa or ports.","Some 1,500 migrants were rescued by coast guards in 24 hours .
+The migrants were picked up from five boats in the Mediterranean .
+Arrivals are up 43 per cent this year versus same period in 2014 .",0.35135135135135137,0.0
+sum,1599,rag_bm25,"The 1,500 migrants were rescued by Italian coast guard ships and one navy ship in five separate operations.","Some 1,500 migrants were rescued by coast guards in 24 hours .
+The migrants were picked up from five boats in the Mediterranean .
+Arrivals are up 43 per cent this year versus same period in 2014 .",0.36363636363636365,0.0
+sum,1599,rag_dense,"Italian navy and coast guard ships in the southern Mediterranean. The 1,500 migrants were rescued by Italian navy and coast guard ships in less than 24 hours.","Some 1,500 migrants were rescued by coast guards in 24 hours .
+The migrants were picked up from five boats in the Mediterranean .
+Arrivals are up 43 per cent this year versus same period in 2014 .",0.34375000000000006,0.0
+sum,5262,llm,Jordan Waddingham stumbled across the world's largest European wasp nest. He stumbled across the giant nest near a creek bank. The nest is currently on display at the Queen Victoria Museum and Art Gallery in Launceston.,"A 12-year-old boy found the world's largest European wasp nest ever found .
+Jordan Waddingham made $20 from his mum for his startling discovery .
+It measures at one metre tall and a circumference of three metres .
+The nest was destroyed overnight when the wasps were dormant .
+It took two days to remove the 90-kilogram nest from the ground .
+The nest is being displayed at the Queen Victoria Museum and Art Gallery .",0.3783783783783784,0.0
+sum,5262,rag_bm25,"Jordan Waddingham scoured through bushland at Karoola, north east of Launceston in Tasmania. He stumbled across the gigantic 90-kilogram nest. The nest is measured at one metre tall and a circumference of three metres. Experts believe it's the largest subterranean European wasp nest ever discovered with up to 100,000 wasps could have been living inside. Experts believe it's the largest subterranean European wasp nest ever discovered with up to 100,000 wasps could have been living inside. Experts believe it's","A 12-year-old boy found the world's largest European wasp nest ever found .
+Jordan Waddingham made $20 from his mum for his startling discovery .
+It measures at one metre tall and a circumference of three metres .
+The nest was destroyed overnight when the wasps were dormant .
+It took two days to remove the 90-kilogram nest from the ground .
+The nest is being displayed at the Queen Victoria Museum and Art Gallery .",0.2389937106918239,0.0
+sum,5262,rag_dense,"Jordan Waddingham scoured through bushland at Karoola, north east of Launceston in Tasmania to unravel the plague of wasps. Experts believe it's the largest subterranean European wasp nest ever discovered with up to 100,000 wasps could have been living inside.","A 12-year-old boy found the world's largest European wasp nest ever found .
+Jordan Waddingham made $20 from his mum for his startling discovery .
+It measures at one metre tall and a circumference of three metres .
+The nest was destroyed overnight when the wasps were dormant .
+It took two days to remove the 90-kilogram nest from the ground .
+The nest is being displayed at the Queen Victoria Museum and Art Gallery .",0.15517241379310345,0.0
+sum,1462,llm,"Smartphones are the most popular item, with an average of 1.7 per household. Smartphones are the most popular item, with an average of 1.7 per household.","Smartphones are the most common web devices, at 1.7 per home .
+Laptops and tablets are just behind, a YouGov poll has found .
+Meanwhile, digital advertising has hit a record high of £7.2billion .",0.3225806451612903,0.0
+sum,1462,rag_bm25,"The survey found the average Briton who is online is willing to pay a maximum of £1.53 a month for their email service, £1.33 to use search engines, £1.10 for video content, 92p for news websites, 88p.","Smartphones are the most common web devices, at 1.7 per home .
+Laptops and tablets are just behind, a YouGov poll has found .
+Meanwhile, digital advertising has hit a record high of £7.2billion .",0.1081081081081081,0.0
+sum,1462,rag_dense,"The survey found the average Briton who is online is willing to pay a maximum of £1.53 a month for their email service, £1.33 to use search engines, £1.10 for video content, 92p for news websites, 88p.","Smartphones are the most common web devices, at 1.7 per home .
+Laptops and tablets are just behind, a YouGov poll has found .
+Meanwhile, digital advertising has hit a record high of £7.2billion .",0.1081081081081081,0.0
+sum,138,llm,"The driver of a Lamborghini was killed in a crash at Walt Disney World Speedway in Orlando, Florida, on Sunday.","The crash occurred at the Exotic Driving Experience at Walt Disney World Speedway .
+Officials say the driver, 24-year-old Tavon Watson, lost control of a Lamborghini .
+Passenger Gary Terry, 36, died at the scene .",0.2545454545454545,0.0
+sum,138,rag_bm25,What was supposed to be a fantasy sports car ride at Walt Disney World Speedway turned deadly when a Lamborghini crashed into a guardrail.,"The crash occurred at the Exotic Driving Experience at Walt Disney World Speedway .
+Officials say the driver, 24-year-old Tavon Watson, lost control of a Lamborghini .
+Passenger Gary Terry, 36, died at the scene .",0.23728813559322035,0.0
+sum,138,rag_dense,What was supposed to be a fantasy sports car ride at Walt Disney World Speedway turned deadly when a Lamborghini crashed into a guardrail.,"The crash occurred at the Exotic Driving Experience at Walt Disney World Speedway .
+Officials say the driver, 24-year-old Tavon Watson, lost control of a Lamborghini .
+Passenger Gary Terry, 36, died at the scene .",0.23728813559322035,0.0
+sum,8500,llm,Cheesy slogans such as ‘reach for the stars’ on posters in schools could be detrimental to pupils.,"Cheesy slogans could be detrimental to pupils, a researcher claimed .
+Carl Hendrick said glossy notices are often 'reductively misinterpreted'",0.3888888888888889,0.0
+sum,8500,rag_bm25,"Carl Hendrick, head of learning and research at Wellington College, Berkshire, has attacked the ‘tidal wave of guff’ in classrooms. These ‘missives in mediocrity’ often tell pupils to ‘live your dream’ and ‘you can do it’ and ‘be all that you can be’.","Cheesy slogans could be detrimental to pupils, a researcher claimed .
+Carl Hendrick said glossy notices are often 'reductively misinterpreted'",0.09677419354838708,0.0
+sum,8500,rag_dense,"[1] ‘society’s intense focus on physical appearance’. [2] Cheesy slogans such as ‘reach for the stars’ on posters in schools could be detrimental to pupils, it has been claimed.","Cheesy slogans could be detrimental to pupils, a researcher claimed .
+Carl Hendrick said glossy notices are often 'reductively misinterpreted'",0.326530612244898,0.0
+sum,2820,llm,Manchester United boss says he is keen on staying at Atletico Madrid. The 30-year-old has admitted he is 'proud' to be linked with a move to Manchester United.,"Miranda has been linked with a summer move to Manchester United .
+However the Brazilian centre back is keen on staying at Atletico Madrid .
+Miranda has said he is 'proud' to be on Louis van Gaal's radar .",0.4477611940298507,0.0
+sum,2820,rag_bm25,Manchester United target Miranda has revealed his delight at being linked with a move to Louis van Gaal's side. The 30-year-old has revealed his delight at being linked with a move to Manchester United. The Brazilian centre back is said to be on Van Gaal's summer wishlist as the Dutchman is keen on strengthening his defensive options ahead of the 2015-16 campaign.,"Miranda has been linked with a summer move to Manchester United .
+However the Brazilian centre back is keen on staying at Atletico Madrid .
+Miranda has said he is 'proud' to be on Louis van Gaal's radar .",0.40384615384615385,0.0
+sum,2820,rag_dense,Manchester United boss says he is keen on staying at Atletico Madrid. The 30-year-old has revealed he is keen on staying at Atletico Madrid. The Brazilian centre back has revealed he is keen on staying at Atletico Madrid.,"Miranda has been linked with a summer move to Manchester United .
+However the Brazilian centre back is keen on staying at Atletico Madrid .
+Miranda has said he is 'proud' to be on Louis van Gaal's radar .",0.36363636363636365,0.0
+sum,3762,llm,Chelsea are interested in signing Chelsea midfielder Oscar. The Brazilian has been criticised by Jose Mourinho in recent weeks. Juventus and Liverpool are interested in signing Chelsea midfielder Oscar. Oscar has been criticised by Jose Mourinho in recent weeks.,"Chelsea could consider selling Brazilian midfielder Oscar this summer .
+Both Juventus and Liverpool are keeping tracking of developments .
+Oscar has struggled to maintain a first team place this season .",0.2647058823529412,0.0
+sum,3762,rag_bm25,Chelsea midfielder has struggled to make an impact for Chelsea this season. Brazil coach Dunga revealed the Chelsea midfielder reminds him of Roberto Baggio. The Brazilian midfielder has struggled to make an impact for Chelsea this season.,"Chelsea could consider selling Brazilian midfielder Oscar this summer .
+Both Juventus and Liverpool are keeping tracking of developments .
+Oscar has struggled to maintain a first team place this season .",0.27272727272727276,0.0
+sum,3762,rag_dense,Chelsea midfielder has struggled to make an impact for Chelsea this season. Brazil coach Dunga revealed the Chelsea midfielder reminds him of Roberto Baggio. The Brazilian midfielder has struggled to make an impact for Chelsea this season.,"Chelsea could consider selling Brazilian midfielder Oscar this summer .
+Both Juventus and Liverpool are keeping tracking of developments .
+Oscar has struggled to maintain a first team place this season .",0.27272727272727276,0.0
+sum,3744,llm,Arsenal midfielder has reportedly told the Sun he is open to a move to the Emirates. Wanyama has reportedly told the Sun he is open to a move to the Emirates.,"Victor Wanyama has starred in the heart of Southampton's midfield .
+Reports claim he has spoken to Arsene Wenger over a summer transfer .
+Team-mate Morgan Schneiderlin has also been linked with the Gunners .
+READ: Bacary Sagna insists he does not regret leaving Arsenal .
+READ: Arsenal fans should give Cesc Fabregas a good welcome .",0.2117647058823529,0.0
+sum,3744,rag_bm25,Arsenal midfielder reportedly told the Sun that he is [2] former Celtic powerhouse. The Kenya international reportedly told The Sun that he is open to a move that would see him playing Champions League football next season.,"Victor Wanyama has starred in the heart of Southampton's midfield .
+Reports claim he has spoken to Arsene Wenger over a summer transfer .
+Team-mate Morgan Schneiderlin has also been linked with the Gunners .
+READ: Bacary Sagna insists he does not regret leaving Arsenal .
+READ: Arsenal fans should give Cesc Fabregas a good welcome .",0.1098901098901099,0.0
+sum,3744,rag_dense,"Southampton are expected to lose more players in the summer, including Morgan Schneiderlin. Wanyama has reportedly not ruled out a reunion with former Saints boss Mauricio Pochettino at Tottenham. The tough-tackling midfielder has also been linked with a reunion with former Saints boss Mauricio Pochettino at Tottenham. The Kenya international reportedly told the Sun that he is open to a move that would see him playing Champions League football next season after Wenger expressed interest in signing him.","Victor Wanyama has starred in the heart of Southampton's midfield .
+Reports claim he has spoken to Arsene Wenger over a summer transfer .
+Team-mate Morgan Schneiderlin has also been linked with the Gunners .
+READ: Bacary Sagna insists he does not regret leaving Arsenal .
+READ: Arsenal fans should give Cesc Fabregas a good welcome .",0.1954887218045113,0.0
