@@ -3,6 +3,25 @@
 This repository supports an undergraduate NLP research project:
 **Comparative Analysis of LLM and Retrieval-Augmented Generation (RAG) Systems for Question Answering and Document Summarization**.
 
+## Quickstart (beginner)
+1. **Clone repository**
+2. **Open the folder in VS Code / Cursor**
+3. **In the terminal run these commands (one-time installs):**
+
+```bash
+pip install numpy
+pip install pandas
+pip install rank_bm25
+pip install sentence_transformers
+pip install bert_score
+pip install rouge_score
+pip install sacrebleu
+pip install seaborn
+```
+
+4. **Go through the Jupyter notebook**:
+   - `notebooks/llm_vs_rag_qa_summarization.ipynb`
+
 ## What you will run
 - **LLM baseline**: answer questions / summarize articles without retrieval.
 - **RAG-BM25**: sparse retrieval with BM25 + the same generator.
