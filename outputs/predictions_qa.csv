@@ -4,24 +4,24 @@ qa,572851ba4b864d190016493e,rag_bm25,[3],black spots that looked like mold or bu
 qa,572851ba4b864d190016493e,rag_dense,[3],black spots that looked like mold or burned plastic which cause the disc to skip and the movie to exhibit excessive speckling noise
 qa,572851ba4b864d190016493e,rag_hybrid,[2],black spots that looked like mold or burned plastic which cause the disc to skip and the movie to exhibit excessive speckling noise
 qa,56d63b901c8504140094703c,llm,a sandstone,bronze dog figurines.
-qa,56d63b901c8504140094703c,rag_bm25,Plymouth was renamed,bronze dog figurines.
+qa,56d63b901c8504140094703c,rag_bm25,[3],bronze dog figurines.
 qa,56d63b901c8504140094703c,rag_dense,"Parilia, Parentalia and Fordicidia",bronze dog figurines.
 qa,56d63b901c8504140094703c,rag_hybrid,[3],bronze dog figurines.
 qa,572f2607947a6a140053c7de,llm,Because it is a low voltage.,safety reasons
-qa,572f2607947a6a140053c7de,rag_bm25,[3],safety reasons
+qa,572f2607947a6a140053c7de,rag_bm25,"the early Modern period, the term ""university"" was not always used to designate a higher education institution.",safety reasons
 qa,572f2607947a6a140053c7de,rag_dense,[3],safety reasons
-qa,572f2607947a6a140053c7de,rag_hybrid,DC voltages were reversal,safety reasons
+qa,572f2607947a6a140053c7de,rag_hybrid,[4],safety reasons
 qa,5725f37fec44d21400f3d782,llm,New York City,Bahrain
-qa,5725f37fec44d21400f3d782,rag_bm25,alien surroundings,Bahrain
+qa,5725f37fec44d21400f3d782,rag_bm25,I don't know,Bahrain
 qa,5725f37fec44d21400f3d782,rag_dense,Greek,Bahrain
-qa,5725f37fec44d21400f3d782,rag_hybrid,France,Bahrain
+qa,5725f37fec44d21400f3d782,rag_hybrid,Cork,Bahrain
 qa,57267762708984140094c71e,llm,New York City,"Centum City, Busan"
 qa,57267762708984140094c71e,rag_bm25,[3],"Centum City, Busan"
-qa,57267762708984140094c71e,rag_dense,[3],"Centum City, Busan"
-qa,57267762708984140094c71e,rag_hybrid,[2],"Centum City, Busan"
+qa,57267762708984140094c71e,rag_dense,[4],"Centum City, Busan"
+qa,57267762708984140094c71e,rag_hybrid,[3],"Centum City, Busan"
 qa,572b4f0b111d821400f38e4f,llm,a Japanese film,as an occupied enemy
-qa,572b4f0b111d821400f38e4f,rag_bm25,"The Ussher chronology of the 1650s had calculated creation at 4004 BC, but by the 1780s geologists assumed a much older world. Wernerians thought strata were deposits from shrinking seas, but James Hutton proposed a self-maintaining infinite cycle, anticipating uniformitarianism.",as an occupied enemy
-qa,572b4f0b111d821400f38e4f,rag_dense,"The Japanese were faced with the option of either withdrawing from China and losing face or seizing and securing new sources of raw materials in the resource-rich, European-controlled colonies of South East Asia—specifically British Malaya and the Dutch East Indies (modern-day Indonesia).",as an occupied enemy
+qa,572b4f0b111d821400f38e4f,rag_bm25,Austria and Prussia,as an occupied enemy
+qa,572b4f0b111d821400f38e4f,rag_dense,Japan),as an occupied enemy
 qa,572b4f0b111d821400f38e4f,rag_hybrid,Yamashiro,as an occupied enemy
 qa,56e962d799e8941900975f79,llm,59.8,39.2%
 qa,56e962d799e8941900975f79,rag_bm25,[4],39.2%
@@ -32,37 +32,37 @@ qa,56f87d46aef23719006260fe,rag_bm25,Plymouth Colony,the late Cretaceous Period
 qa,56f87d46aef23719006260fe,rag_dense,I don't know,the late Cretaceous Period
 qa,56f87d46aef23719006260fe,rag_hybrid,I don't know,the late Cretaceous Period
 qa,57280c92ff5b5019007d9bc6,llm,Science and technology,"matters of ideology, nationality, ethnicity, social class, and/or gender"
-qa,57280c92ff5b5019007d9bc6,rag_bm25,Schwarzenegger,"matters of ideology, nationality, ethnicity, social class, and/or gender"
-qa,57280c92ff5b5019007d9bc6,rag_dense,Order of the Companions of Honour,"matters of ideology, nationality, ethnicity, social class, and/or gender"
-qa,57280c92ff5b5019007d9bc6,rag_hybrid,Order of the Companions of Honour,"matters of ideology, nationality, ethnicity, social class, and/or gender"
+qa,57280c92ff5b5019007d9bc6,rag_bm25,[3],"matters of ideology, nationality, ethnicity, social class, and/or gender"
+qa,57280c92ff5b5019007d9bc6,rag_dense,"Hayek said a year later that he was ""absolutely besotted"" with her according to his daughter-in-law, Esca Hayek.","matters of ideology, nationality, ethnicity, social class, and/or gender"
+qa,57280c92ff5b5019007d9bc6,rag_hybrid,"British Prime Minister Margaret Thatcher, Hayek was rebuked by the British Prime Minister's advice","matters of ideology, nationality, ethnicity, social class, and/or gender"
 qa,56d28d3d59d6e4140014609c,llm,ten,487 million
-qa,56d28d3d59d6e4140014609c,rag_bm25,[3],487 million
-qa,56d28d3d59d6e4140014609c,rag_dense,"Pamiri people of Gorno-Badakhshan Autonomous Province in the southeast, bordering Afghanistan and China, though considered part of the Tajik ethnicity, nevertheless are distinct linguistically and culturally from most Tajiks",487 million
-qa,56d28d3d59d6e4140014609c,rag_hybrid,[3],487 million
+qa,56d28d3d59d6e4140014609c,rag_bm25,"weeds, which are a considerable problem in agriculture, and the biology and control of plant pathogens in agriculture and natural ecosystems",487 million
+qa,56d28d3d59d6e4140014609c,rag_dense,Pamir Mountains,487 million
+qa,56d28d3d59d6e4140014609c,rag_hybrid,I don't know,487 million
 qa,572c101b2babe914003c298b,llm,I don't know,Pascal
 qa,572c101b2babe914003c298b,rag_bm25,Spiderman,Pascal
-qa,572c101b2babe914003c298b,rag_dense,Supreme Court's decision to impose a law on the granting of religious freedom in America,Pascal
+qa,572c101b2babe914003c298b,rag_dense,Bell had misconstrued von Neumann's proof,Pascal
 qa,572c101b2babe914003c298b,rag_hybrid,"George W. Bush.""",Pascal
 qa,56dcd9ef9a695914005b944c,llm,I don't know.,Gabon
 qa,56dcd9ef9a695914005b944c,rag_bm25,[4],Gabon
-qa,56dcd9ef9a695914005b944c,rag_dense,Arctic Ocean,Gabon
+qa,56dcd9ef9a695914005b944c,rag_dense,Gabon,Gabon
 qa,56dcd9ef9a695914005b944c,rag_hybrid,United States,Gabon
 qa,5728e43b2ca10214002daa4f,llm,3,29
 qa,5728e43b2ca10214002daa4f,rag_bm25,[3],29
-qa,5728e43b2ca10214002daa4f,rag_dense,Epi,29
+qa,5728e43b2ca10214002daa4f,rag_dense,China,29
 qa,5728e43b2ca10214002daa4f,rag_hybrid,[3],29
 qa,56cc60186d243a140015ef5b,llm,I don't know.,Chicago
-qa,56cc60186d243a140015ef5b,rag_bm25,Mozilla Foundation,Chicago
-qa,56cc60186d243a140015ef5b,rag_dense,Winamp,Chicago
+qa,56cc60186d243a140015ef5b,rag_bm25,Schwyz,Chicago
+qa,56cc60186d243a140015ef5b,rag_dense,Apple introduced a user-configurable volume limit in response to concerns about hearing loss,Chicago
 qa,56cc60186d243a140015ef5b,rag_hybrid,LD,Chicago
 qa,573251210fdd8d15006c697b,llm,a british economist,Arno Tausch
 qa,573251210fdd8d15006c697b,rag_bm25,stagflation and a rapidly declining value of the U.S. dollar in the 1970s,Arno Tausch
-qa,573251210fdd8d15006c697b,rag_dense,I don't know).,Arno Tausch
+qa,573251210fdd8d15006c697b,rag_dense,I don't know,Arno Tausch
 qa,573251210fdd8d15006c697b,rag_hybrid,"Arsenal's parent company, Arsenal Holdings plc, operates as a non-quoted public limited company, whose ownership is considerably different from that of other football clubs.",Arno Tausch
 qa,572838743acd2414000df741,llm,I don't know,Ukrainian Greek Catholic Church
 qa,572838743acd2414000df741,rag_bm25,[2],Ukrainian Greek Catholic Church
 qa,572838743acd2414000df741,rag_dense,The Church and state are officially separated,Ukrainian Greek Catholic Church
-qa,572838743acd2414000df741,rag_hybrid,[3],Ukrainian Greek Catholic Church
+qa,572838743acd2414000df741,rag_hybrid,I don't know,Ukrainian Greek Catholic Church
 qa,572e7f0adfa6aa1500f8d04a,llm,aristocrats and aristocrats,Aphrodite and Adonis
 qa,572e7f0adfa6aa1500f8d04a,rag_bm25,Persian Gulf,Aphrodite and Adonis
 qa,572e7f0adfa6aa1500f8d04a,rag_dense,[3],Aphrodite and Adonis
@@ -70,10 +70,10 @@ qa,572e7f0adfa6aa1500f8d04a,rag_hybrid,Greek Despotate of Epirus (a Byzantine su
 qa,572676425951b619008f735c,llm,dynasty of opium,Qing
 qa,572676425951b619008f735c,rag_bm25,sharia was banned,Qing
 qa,572676425951b619008f735c,rag_dense,"China under the early Ming dynasty was not isolated. Foreign trade and other contacts with the outside world, particularly Japan, increased considerably.",Qing
-qa,572676425951b619008f735c,rag_hybrid,"China, were a major source of economic growth.",Qing
+qa,572676425951b619008f735c,rag_hybrid,"China under the early Ming dynasty was not isolated. Foreign trade and other contacts with the outside world, particularly Japan, increased considerably.",Qing
 qa,5726e613dd62a815002e9453,llm,1.2 billion,11%
-qa,5726e613dd62a815002e9453,rag_bm25,Houston,11%
-qa,5726e613dd62a815002e9453,rag_dense,[3],11%
+qa,5726e613dd62a815002e9453,rag_bm25,Houston's land surface,11%
+qa,5726e613dd62a815002e9453,rag_dense,I don't know,11%
 qa,5726e613dd62a815002e9453,rag_hybrid,Houston's land surface,11%
 qa,572fbb69a23a5019007fc901,llm,"June 1, 1876",7 July 1937
 qa,572fbb69a23a5019007fc901,rag_bm25,[3],7 July 1937
@@ -84,33 +84,33 @@ qa,57267cb7dd62a815002e86ed,rag_bm25,[3],General Gordon
 qa,57267cb7dd62a815002e86ed,rag_dense,[3],General Gordon
 qa,57267cb7dd62a815002e86ed,rag_hybrid,Gustav,General Gordon
 qa,57283d0e2ca10214002da157,llm,a letter,New Union Treaty
-qa,57283d0e2ca10214002da157,rag_bm25,Students and Faculty,New Union Treaty
-qa,57283d0e2ca10214002da157,rag_dense,Vivendi would be interested in placing a bid,New Union Treaty
-qa,57283d0e2ca10214002da157,rag_hybrid,"All students and faculty, regardless of religion, are required to agree to adhere to an honor code",New Union Treaty
+qa,57283d0e2ca10214002da157,rag_bm25,Paris,New Union Treaty
+qa,57283d0e2ca10214002da157,rag_dense,[1],New Union Treaty
+qa,57283d0e2ca10214002da157,rag_hybrid,Sire,New Union Treaty
 qa,56e0a85e7aa994140058e69b,llm,the United States,the Council of People's Commissars
-qa,56e0a85e7aa994140058e69b,rag_bm25,Plymouth Colony,the Council of People's Commissars
-qa,56e0a85e7aa994140058e69b,rag_dense,I don't know,the Council of People's Commissars
-qa,56e0a85e7aa994140058e69b,rag_hybrid,Parliament was a series of ordinances of the Long Parliament,the Council of People's Commissars
+qa,56e0a85e7aa994140058e69b,rag_bm25,I don't know.,the Council of People's Commissars
+qa,56e0a85e7aa994140058e69b,rag_dense,"Council of People's Commissars (1917–1946), Council of Ministers (1946–1978) and Council of Ministers–Government (1978–1991)",the Council of People's Commissars
+qa,56e0a85e7aa994140058e69b,rag_hybrid,[3],the Council of People's Commissars
 qa,56db36f7e7c41114004b4f5a,llm,0,20
-qa,56db36f7e7c41114004b4f5a,rag_bm25,[3],20
-qa,56db36f7e7c41114004b4f5a,rag_dense,China,20
-qa,56db36f7e7c41114004b4f5a,rag_hybrid,London,20
+qa,56db36f7e7c41114004b4f5a,rag_bm25,[4],20
+qa,56db36f7e7c41114004b4f5a,rag_dense,20,20
+qa,56db36f7e7c41114004b4f5a,rag_hybrid,[3],20
 qa,573256c6e17f3d14004228b6,llm,They were imprisoned for a long time.,doctrine of political neutrality and their refusal to serve in the military
 qa,573256c6e17f3d14004228b6,rag_bm25,[2],doctrine of political neutrality and their refusal to serve in the military
 qa,573256c6e17f3d14004228b6,rag_dense,Canada,doctrine of political neutrality and their refusal to serve in the military
-qa,573256c6e17f3d14004228b6,rag_hybrid,The answer to why there was so little assimilation of Jews in central and eastern Europe for so long would seem to lie in part in the probability that the alien surroundings in central and eastern Europe were not conducive.,doctrine of political neutrality and their refusal to serve in the military
+qa,573256c6e17f3d14004228b6,rag_hybrid,I don't know).,doctrine of political neutrality and their refusal to serve in the military
 qa,56df6c5a56340a1900b29af6,llm,3.3,26.2%
 qa,56df6c5a56340a1900b29af6,rag_bm25,Plymouth,26.2%
-qa,56df6c5a56340a1900b29af6,rag_dense,Plymouth,26.2%
+qa,56df6c5a56340a1900b29af6,rag_dense,Sir Patrick Abercrombie,26.2%
 qa,56df6c5a56340a1900b29af6,rag_hybrid,Plymouth,26.2%
 qa,5726213938643c19005ad068,llm,The Queen Mary collection,Royal Collection of furniture and art
-qa,5726213938643c19005ad068,rag_bm25,Windsor Castle,Royal Collection of furniture and art
-qa,5726213938643c19005ad068,rag_dense,"Victoria's self-imposed isolation from the public diminished the popularity of the monarchy, and encouraged the growth of the republican movement.",Royal Collection of furniture and art
-qa,5726213938643c19005ad068,rag_hybrid,Windsor Castle,Royal Collection of furniture and art
+qa,5726213938643c19005ad068,rag_bm25,[1],Royal Collection of furniture and art
+qa,5726213938643c19005ad068,rag_dense,[3],Royal Collection of furniture and art
+qa,5726213938643c19005ad068,rag_hybrid,[1],Royal Collection of furniture and art
 qa,56de679e4396321400ee2895,llm,2,240
 qa,56de679e4396321400ee2895,rag_bm25,German Army,240
 qa,56de679e4396321400ee2895,rag_dense,[3],240
-qa,56de679e4396321400ee2895,rag_hybrid,London wing,240
+qa,56de679e4396321400ee2895,rag_hybrid,BBC is the world's first regular high-definition television service,240
 qa,5730cac5f6cb411900e244bc,llm,The Travels of Fanny Vandegrift Stevenson,The Cruise of the Janet Nichol
 qa,5730cac5f6cb411900e244bc,rag_bm25,The Cruise of the Janet Nichol,The Cruise of the Janet Nichol
 qa,5730cac5f6cb411900e244bc,rag_dense,Harper Lee,The Cruise of the Janet Nichol
@@ -121,52 +121,52 @@ qa,5728d0114b864d1900164ea5,rag_dense,Russia was the first Patriarchate of the R
 qa,5728d0114b864d1900164ea5,rag_hybrid,"I don't know.""",Germans and Jewish minorities
 qa,56cfe88d234ae51400d9c075,llm,River X,Nile River
 qa,56cfe88d234ae51400d9c075,rag_bm25,German 2nd Army did not attack all at once,Nile River
-qa,56cfe88d234ae51400d9c075,rag_dense,I don't know,Nile River
+qa,56cfe88d234ae51400d9c075,rag_dense,Canadian and a United States portion,Nile River
 qa,56cfe88d234ae51400d9c075,rag_hybrid,I don't know,Nile River
 qa,570d999c16d0071400510bc2,llm,NADGE,NATO Air Defence Ground Environment
-qa,570d999c16d0071400510bc2,rag_bm25,"a ""defining essence"" or a ""core identity"" that is unchanging, and describes what the thing or person really is",NATO Air Defence Ground Environment
-qa,570d999c16d0071400510bc2,rag_dense,[3],NATO Air Defence Ground Environment
-qa,570d999c16d0071400510bc2,rag_hybrid,I don't know,NATO Air Defence Ground Environment
+qa,570d999c16d0071400510bc2,rag_bm25,omniscience,NATO Air Defence Ground Environment
+qa,570d999c16d0071400510bc2,rag_dense,[4],NATO Air Defence Ground Environment
+qa,570d999c16d0071400510bc2,rag_hybrid,[3],NATO Air Defence Ground Environment
 qa,5728e3113acd2414000e0121,llm,I don't know.,"improvements in civil liberties and political rights, the release of political prisoners, and a loosening of restrictions."
-qa,5728e3113acd2414000e0121,rag_bm25,I don't know,"improvements in civil liberties and political rights, the release of political prisoners, and a loosening of restrictions."
-qa,5728e3113acd2414000e0121,rag_dense,"Myanmar is a mix of Indochinese (Burma, Cambodia, Laos and Thailand) and Chinese (Singapore and Vietnam).","improvements in civil liberties and political rights, the release of political prisoners, and a loosening of restrictions."
-qa,5728e3113acd2414000e0121,rag_hybrid,[2],"improvements in civil liberties and political rights, the release of political prisoners, and a loosening of restrictions."
+qa,5728e3113acd2414000e0121,rag_bm25,unchanging,"improvements in civil liberties and political rights, the release of political prisoners, and a loosening of restrictions."
+qa,5728e3113acd2414000e0121,rag_dense,Myanmar's human rights record has been improving,"improvements in civil liberties and political rights, the release of political prisoners, and a loosening of restrictions."
+qa,5728e3113acd2414000e0121,rag_hybrid,[3],"improvements in civil liberties and political rights, the release of political prisoners, and a loosening of restrictions."
 qa,57322a65b9d445190005e88c,llm,United States,combat information centers
 qa,57322a65b9d445190005e88c,rag_bm25,[3],combat information centers
 qa,57322a65b9d445190005e88c,rag_dense,Skysweeper,combat information centers
-qa,57322a65b9d445190005e88c,rag_hybrid,[3],combat information centers
+qa,57322a65b9d445190005e88c,rag_hybrid,Shima,combat information centers
 qa,572b6d5934ae481900deadfb,llm,Czech,Slovak
-qa,572b6d5934ae481900deadfb,rag_bm25,[3],Slovak
+qa,572b6d5934ae481900deadfb,rag_bm25,Serbian and Serbian dialects have.,Slovak
 qa,572b6d5934ae481900deadfb,rag_dense,I don't know.,Slovak
-qa,572b6d5934ae481900deadfb,rag_hybrid,Croatian,Slovak
+qa,572b6d5934ae481900deadfb,rag_hybrid,I don't know).,Slovak
 qa,57269b01dd62a815002e8ae0,llm,I don't know.,Western Samoa
-qa,57269b01dd62a815002e8ae0,rag_bm25,the old Prussian language,Western Samoa
+qa,57269b01dd62a815002e8ae0,rag_bm25,[2],Western Samoa
 qa,57269b01dd62a815002e8ae0,rag_dense,[3],Western Samoa
-qa,57269b01dd62a815002e8ae0,rag_hybrid,a virgin,Western Samoa
+qa,57269b01dd62a815002e8ae0,rag_hybrid,I don't know.,Western Samoa
 qa,573012e9947a6a140053d048,llm,The Baptists,Catholics
-qa,573012e9947a6a140053d048,rag_bm25,Nearchus was the first of Alexander's commanders to visit these islands.,Catholics
+qa,573012e9947a6a140053d048,rag_bm25,"English ""royalty"" and the Roman Catholic Church, practicing Catholics were not allowed to settle in South Carolina until after the American Revolution. Jews were allowed, and Sephardic Jews migrated to the city in such numbers that by the beginning of the 19th century, the city was home to the largest and wealthiest Jewish community in North America—a status it held until about 1830.",Catholics
 qa,573012e9947a6a140053d048,rag_dense,English Separatist John Smyth was appointed pastor,Catholics
 qa,573012e9947a6a140053d048,rag_hybrid,Roman Catholics were allowed to settle in South Carolina until after the American Revolution,Catholics
 qa,572833d43acd2414000df6df,llm,a monopoly,"""Federation of Sovereign States"" upon principles borrowed from the Articles of Confederation of the United States of America"
-qa,572833d43acd2414000df6df,rag_bm25,[2],"""Federation of Sovereign States"" upon principles borrowed from the Articles of Confederation of the United States of America"
+qa,572833d43acd2414000df6df,rag_bm25,[3],"""Federation of Sovereign States"" upon principles borrowed from the Articles of Confederation of the United States of America"
 qa,572833d43acd2414000df6df,rag_dense,"the 20th century, there was no clear record of the number of Venezuelans who emigrated to the United States. Between the 18th and early 19th centuries, there were many European immigrants who went to Venezuela, only to later migrate to the United States along with their children and grandchildren who born and/or grew up in Venezuela speaking Spanish","""Federation of Sovereign States"" upon principles borrowed from the Articles of Confederation of the United States of America"
 qa,572833d43acd2414000df6df,rag_hybrid,[3],"""Federation of Sovereign States"" upon principles borrowed from the Articles of Confederation of the United States of America"
 qa,57270c73f1498d1400e8f29d,llm,a capacitor,excess electric fields
 qa,57270c73f1498d1400e8f29d,rag_bm25,hemlock is the result of insect attacks.,excess electric fields
-qa,57270c73f1498d1400e8f29d,rag_dense,Pomerania,excess electric fields
+qa,57270c73f1498d1400e8f29d,rag_dense,[3],excess electric fields
 qa,57270c73f1498d1400e8f29d,rag_hybrid,Pomerania,excess electric fields
 qa,570d94dfb3d812140066da6c,llm,ten,3
 qa,570d94dfb3d812140066da6c,rag_bm25,Austrians favoured the Greater Germany unification but were not willing to give up any of the non-German-speaking land inside of the Austrian Empire and take second place to Prussia,3
 qa,570d94dfb3d812140066da6c,rag_dense,AA),3
 qa,570d94dfb3d812140066da6c,rag_hybrid,[3],3
 qa,5725b679ec44d21400f3d433,llm,"May 1, 1897",1266
-qa,5725b679ec44d21400f3d433,rag_bm25,"Crust furnace, can be remelted in a cube",1266
+qa,5725b679ec44d21400f3d433,rag_bm25,Germans were unaware of German numerical superiority at the beginning of the battle as the German 2nd Army did not attack all at once,1266
 qa,5725b679ec44d21400f3d433,rag_dense,Abu Meniar earned a meager subsistence as a goat and camel herder,1266
-qa,5725b679ec44d21400f3d433,rag_hybrid,Christian faith was a form of Christianity,1266
+qa,5725b679ec44d21400f3d433,rag_hybrid,Egypt were able to enter the cave.,1266
 qa,57260b6a271a42140099d3e4,llm,0,"62,217"
-qa,57260b6a271a42140099d3e4,rag_bm25,BBC Television returned on 7 June 1946 at 15:00.,"62,217"
-qa,57260b6a271a42140099d3e4,rag_dense,Comcast,"62,217"
-qa,57260b6a271a42140099d3e4,rag_hybrid,I don't know,"62,217"
+qa,57260b6a271a42140099d3e4,rag_bm25,Whitehead,"62,217"
+qa,57260b6a271a42140099d3e4,rag_dense,[3],"62,217"
+qa,57260b6a271a42140099d3e4,rag_hybrid,Arsenal,"62,217"
 qa,56f966c39b226e1400dd1405,llm,Wake Island,Enen-kio
 qa,56f966c39b226e1400dd1405,rag_bm25,London,Enen-kio
 qa,56f966c39b226e1400dd1405,rag_dense,Samoa,Enen-kio
@@ -176,60 +176,60 @@ qa,5728f7636aef0514001548f9,rag_bm25,English language has been official in the s
 qa,5728f7636aef0514001548f9,rag_dense,[2],Latin
 qa,5728f7636aef0514001548f9,rag_hybrid,[2],Latin
 qa,56de65324396321400ee2882,llm,1830,1646
-qa,56de65324396321400ee2882,rag_bm25,Plymouth's early history,1646
-qa,56de65324396321400ee2882,rag_dense,Plymouth in the early 20th century,1646
+qa,56de65324396321400ee2882,rag_bm25,Plymouth Colony,1646
+qa,56de65324396321400ee2882,rag_dense,Plymouth,1646
 qa,56de65324396321400ee2882,rag_hybrid,Plymouth,1646
 qa,56cc655c6d243a140015ef92,llm,acoustic,Bass
 qa,56cc655c6d243a140015ef92,rag_bm25,iPods in the sixth-generation iPod are not allowed to use the volume limit.,Bass
 qa,56cc655c6d243a140015ef92,rag_dense,Helvetica,Bass
-qa,56cc655c6d243a140015ef92,rag_hybrid,iTunes,Bass
+qa,56cc655c6d243a140015ef92,rag_hybrid,Musician,Bass
 qa,56cc36926d243a140015eecf,llm,I don't know.,The Yarlung rulers of Tibet
 qa,56cc36926d243a140015eecf,rag_bm25,[3],The Yarlung rulers of Tibet
-qa,56cc36926d243a140015eecf,rag_dense,China,The Yarlung rulers of Tibet
+qa,56cc36926d243a140015eecf,rag_dense,The Yarlung rulers of Tibet,The Yarlung rulers of Tibet
 qa,56cc36926d243a140015eecf,rag_hybrid,[3],The Yarlung rulers of Tibet
 qa,56dec6913277331400b4d726,llm,Benzol,marijuana
 qa,56dec6913277331400b4d726,rag_bm25,[3],marijuana
 qa,56dec6913277331400b4d726,rag_dense,Arnold was a good fit.,marijuana
 qa,56dec6913277331400b4d726,rag_hybrid,Arnold was a good fit.,marijuana
 qa,570ce29dfed7b91900d45a74,llm,Luke,1:34
-qa,570ce29dfed7b91900d45a74,rag_bm25,India,1:34
+qa,570ce29dfed7b91900d45a74,rag_bm25,George V,1:34
 qa,570ce29dfed7b91900d45a74,rag_dense,[3],1:34
-qa,570ce29dfed7b91900d45a74,rag_hybrid,Pope Pius XII in Munificentissimus Deus was interred in the Royal Vault until he was transferred to the King George VI Memorial Chapel inside St. George's on 26 March 1969.,1:34
+qa,570ce29dfed7b91900d45a74,rag_hybrid,George V,1:34
 qa,572e8e84dfa6aa1500f8d120,llm,I don't know.,his commitments in Germany were counterbalanced by the demands of the British colonies overseas
-qa,572e8e84dfa6aa1500f8d120,rag_bm25,[3],his commitments in Germany were counterbalanced by the demands of the British colonies overseas
+qa,572e8e84dfa6aa1500f8d120,rag_bm25,Edward VII in 1910,his commitments in Germany were counterbalanced by the demands of the British colonies overseas
 qa,572e8e84dfa6aa1500f8d120,rag_dense,Hitler,his commitments in Germany were counterbalanced by the demands of the British colonies overseas
 qa,572e8e84dfa6aa1500f8d120,rag_hybrid,George V,his commitments in Germany were counterbalanced by the demands of the British colonies overseas
 qa,572684db5951b619008f7553,llm,I don't know.,Bill Nicholson
-qa,572684db5951b619008f7553,rag_bm25,"God.""",Bill Nicholson
-qa,572684db5951b619008f7553,rag_dense,[2],Bill Nicholson
-qa,572684db5951b619008f7553,rag_hybrid,[2],Bill Nicholson
+qa,572684db5951b619008f7553,rag_bm25,Gods view,Bill Nicholson
+qa,572684db5951b619008f7553,rag_dense,[3],Bill Nicholson
+qa,572684db5951b619008f7553,rag_hybrid,[3],Bill Nicholson
 qa,572fcaa9947a6a140053ccc0,llm,2,four phases
-qa,572fcaa9947a6a140053ccc0,rag_bm25,lag phase,four phases
-qa,572fcaa9947a6a140053ccc0,rag_dense,cellulose,four phases
-qa,572fcaa9947a6a140053ccc0,rag_hybrid,lag phase,four phases
+qa,572fcaa9947a6a140053ccc0,rag_bm25,[3],four phases
+qa,572fcaa9947a6a140053ccc0,rag_dense,Nif gene is a natural vector for introducing the Nif gene,four phases
+qa,572fcaa9947a6a140053ccc0,rag_hybrid,[3],four phases
 qa,5706b0e42eaba6190074ac46,llm,"June 1, 1932",during the 1980s and 1990s
-qa,5706b0e42eaba6190074ac46,rag_bm25,"the 20th century, there was no clear record of the number of Venezuelans who emigrated to the United States. Between the 18th and early 19th centuries, there were many European immigrants who went to Venezuela, only to later migrate to the United States along with their children and grandchildren who born and/or grew up in Venezuela speaking Spanish",during the 1980s and 1990s
-qa,5706b0e42eaba6190074ac46,rag_dense,"Arabs, was referred to as Tylos",during the 1980s and 1990s
+qa,5706b0e42eaba6190074ac46,rag_bm25,Spanish,during the 1980s and 1990s
+qa,5706b0e42eaba6190074ac46,rag_dense,"Muslim, was the location of the cave of the Patriarchs in Hebron",during the 1980s and 1990s
 qa,5706b0e42eaba6190074ac46,rag_hybrid,"stoutls, maintained a stoutls",during the 1980s and 1990s
 qa,56df5a4d8bc80c19004e4af0,llm,ranked 3rd,42nd
-qa,56df5a4d8bc80c19004e4af0,rag_bm25,Ann Arbor be a city.,42nd
+qa,56df5a4d8bc80c19004e4af0,rag_bm25,[4],42nd
 qa,56df5a4d8bc80c19004e4af0,rag_dense,[3],42nd
 qa,56df5a4d8bc80c19004e4af0,rag_hybrid,Paris Region was ranked as one of the most liveable cities in the United States of America.,42nd
 qa,57274262dd62a815002e9a37,llm,a sluggish economy,sharply rising land values
-qa,57274262dd62a815002e9a37,rag_bm25,[2],sharply rising land values
+qa,57274262dd62a815002e9a37,rag_bm25,I don't know,sharply rising land values
 qa,57274262dd62a815002e9a37,rag_dense,[3],sharply rising land values
-qa,57274262dd62a815002e9a37,rag_hybrid,[3],sharply rising land values
+qa,57274262dd62a815002e9a37,rag_hybrid,Melbourne,sharply rising land values
 qa,5727a4f1ff5b5019007d91cc,llm,I don't know.,political obstacles
 qa,5727a4f1ff5b5019007d91cc,rag_bm25,God,political obstacles
-qa,5727a4f1ff5b5019007d91cc,rag_dense,the late 19th century.,political obstacles
-qa,5727a4f1ff5b5019007d91cc,rag_hybrid,Jewish,political obstacles
+qa,5727a4f1ff5b5019007d91cc,rag_dense,a shortage of primary doctors before the arrival of the Gates Foundation,political obstacles
+qa,5727a4f1ff5b5019007d91cc,rag_hybrid,halakhic conversions,political obstacles
 qa,56e427248c00841900fbaf02,llm,Japan,the northeastern coast of Estonia
 qa,56e427248c00841900fbaf02,rag_bm25,olfactory bulb,the northeastern coast of Estonia
 qa,56e427248c00841900fbaf02,rag_dense,Tajikistan,the northeastern coast of Estonia
 qa,56e427248c00841900fbaf02,rag_hybrid,i don't know,the northeastern coast of Estonia
 qa,56f8d2919e9bad19000a059c,llm,Tokyo,"Garmisch-Partenkirchen, Germany"
-qa,56f8d2919e9bad19000a059c,rag_bm25,"Parisian, was a French pianist","Garmisch-Partenkirchen, Germany"
-qa,56f8d2919e9bad19000a059c,rag_dense,protesters,"Garmisch-Partenkirchen, Germany"
+qa,56f8d2919e9bad19000a059c,rag_bm25,Mexico City,"Garmisch-Partenkirchen, Germany"
+qa,56f8d2919e9bad19000a059c,rag_dense,Mexico City,"Garmisch-Partenkirchen, Germany"
 qa,56f8d2919e9bad19000a059c,rag_hybrid,protesters,"Garmisch-Partenkirchen, Germany"
 qa,570b212d6b8089140040f761,llm,Xbox Live,EA Sports games
 qa,570b212d6b8089140040f761,rag_bm25,[3],EA Sports games
@@ -240,49 +240,49 @@ qa,57324e7a0fdd8d15006c694b,rag_bm25,"Jews are taught that it is vital to remain
 qa,57324e7a0fdd8d15006c694b,rag_dense,Jews to become a Christian,can only be one truth from God
 qa,57324e7a0fdd8d15006c694b,rag_hybrid,"Jehovah's Witnesses believe that the Bible condemns the mixing of religions, on the basis that there can only be one truth from God, and therefore reject interfaith and ecumenical movements",can only be one truth from God
 qa,5728110f4b864d1900164387,llm,1872,23 November 1944
-qa,5728110f4b864d1900164387,rag_bm25,[2],23 November 1944
-qa,5728110f4b864d1900164387,rag_dense,"The civil war ravaged the Assyrian Empire between 616 BC and 605 BC, thus freeing their respective peoples from three centuries of Assyrian rule",23 November 1944
-qa,5728110f4b864d1900164387,rag_hybrid,[2],23 November 1944
+qa,5728110f4b864d1900164387,rag_bm25,"British government.""",23 November 1944
+qa,5728110f4b864d1900164387,rag_dense,[3],23 November 1944
+qa,5728110f4b864d1900164387,rag_hybrid,[3],23 November 1944
 qa,572bff5edfb02c14005c6b2d,llm,They agree on the physics of the universe.,"God is omnipotent, omniscient, and benevolent,"
 qa,572bff5edfb02c14005c6b2d,rag_bm25,adverbial,"God is omnipotent, omniscient, and benevolent,"
 qa,572bff5edfb02c14005c6b2d,rag_dense,adverbial,"God is omnipotent, omniscient, and benevolent,"
 qa,572bff5edfb02c14005c6b2d,rag_hybrid,adverbial,"God is omnipotent, omniscient, and benevolent,"
 qa,57299ef46aef05140015503e,llm,fungi,mosquitoes
 qa,57299ef46aef05140015503e,rag_bm25,a person is likely to have,mosquitoes
-qa,57299ef46aef05140015503e,rag_dense,[3],mosquitoes
+qa,57299ef46aef05140015503e,rag_dense,fungi is a common cause of a lack of respiration,mosquitoes
 qa,57299ef46aef05140015503e,rag_hybrid,[3],mosquitoes
 qa,56dde7259a695914005b9696,llm,"June 1, 1865",Second Boer War
-qa,56dde7259a695914005b9696,rag_bm25,[3],Second Boer War
-qa,56dde7259a695914005b9696,rag_dense,[4],Second Boer War
-qa,56dde7259a695914005b9696,rag_hybrid,British troops were called to participate in European theatres,Second Boer War
+qa,56dde7259a695914005b9696,rag_bm25,Canada,Second Boer War
+qa,56dde7259a695914005b9696,rag_dense,[1],Second Boer War
+qa,56dde7259a695914005b9696,rag_hybrid,Canada,Second Boer War
 qa,571d0e925efbb31900334e91,llm,0.8,>95%
 qa,571d0e925efbb31900334e91,rag_bm25,"Bazaine, Frossard erroneously believed that he was in grave danger of being outflanked as German soldiers under General von Glume were spotted in Forbach.",>95%
-qa,571d0e925efbb31900334e91,rag_dense,"I don't know.""",>95%
-qa,571d0e925efbb31900334e91,rag_hybrid,RCA Victor,>95%
+qa,571d0e925efbb31900334e91,rag_dense,"AIDS, tuberculosis and malaria",>95%
+qa,571d0e925efbb31900334e91,rag_hybrid,I don't know,>95%
 qa,572ea842dfa6aa1500f8d26f,llm,It is a genus of fungi.,higher internal heating
 qa,572ea842dfa6aa1500f8d26f,rag_bm25,[3],higher internal heating
-qa,572ea842dfa6aa1500f8d26f,rag_dense,Neptune's more varied weather when compared to Uranus is due in part to its higher internal heating.,higher internal heating
-qa,572ea842dfa6aa1500f8d26f,rag_hybrid,Neptune's more varied weather when compared to Uranus is due in part to its higher internal heating.,higher internal heating
+qa,572ea842dfa6aa1500f8d26f,rag_dense,[3],higher internal heating
+qa,572ea842dfa6aa1500f8d26f,rag_hybrid,Neptune,higher internal heating
 qa,573350a0d058e614000b5840,llm,genocide,legal aspect of the term
-qa,573350a0d058e614000b5840,rag_bm25,AIDS,legal aspect of the term
-qa,573350a0d058e614000b5840,rag_dense,Nazi eugenics,legal aspect of the term
+qa,573350a0d058e614000b5840,rag_bm25,"Gates grantees have increased the demand for specially trained, higher-paid clinicians, diverting staff from basic care"" in sub-Saharan Africa",legal aspect of the term
+qa,573350a0d058e614000b5840,rag_dense,a process called globalization,legal aspect of the term
 qa,573350a0d058e614000b5840,rag_hybrid,a legal liability within international relations,legal aspect of the term
 qa,57070b1490286e26004fc83e,llm,adolescent,socio-political constructs
-qa,57070b1490286e26004fc83e,rag_bm25,Asian-American applicants,socio-political constructs
+qa,57070b1490286e26004fc83e,rag_bm25,Harvard University,socio-political constructs
 qa,57070b1490286e26004fc83e,rag_dense,[2],socio-political constructs
-qa,57070b1490286e26004fc83e,rag_hybrid,I don't know,socio-political constructs
+qa,57070b1490286e26004fc83e,rag_hybrid,Protestant Reformation,socio-political constructs
 qa,572a35beaf94a219006aa8a5,llm,a landslide,the detriment of local Ottoman interests
 qa,572a35beaf94a219006aa8a5,rag_bm25,I don't know,the detriment of local Ottoman interests
 qa,572a35beaf94a219006aa8a5,rag_dense,Crimean War,the detriment of local Ottoman interests
 qa,572a35beaf94a219006aa8a5,rag_hybrid,I don't know,the detriment of local Ottoman interests
 qa,57267fbcdd62a815002e874a,llm,China,Brunei
 qa,57267fbcdd62a815002e874a,rag_bm25,I don't know,Brunei
-qa,57267fbcdd62a815002e874a,rag_dense,I don't know,Brunei
+qa,57267fbcdd62a815002e874a,rag_dense,"Pakistan, Saudi Arabia, Lebanon and several Western European countries",Brunei
 qa,57267fbcdd62a815002e874a,rag_hybrid,I don't know,Brunei
 qa,57320c0ee17f3d1400422618,llm,3%,.38%
 qa,57320c0ee17f3d1400422618,rag_bm25,German numerical superiority at the beginning of the battle as the German 2nd Army did not attack all at once,.38%
-qa,57320c0ee17f3d1400422618,rag_dense,France and Britain,.38%
-qa,57320c0ee17f3d1400422618,rag_hybrid,Alaskans,.38%
+qa,57320c0ee17f3d1400422618,rag_dense,Britain to modernize its infrastructure and army,.38%
+qa,57320c0ee17f3d1400422618,rag_hybrid,"Constantinople were split between the Greek Despotate of Epirus (a Byzantine successor state) and Frankish rule (known as the Frankokratia), while some islands came under Venetian rule.",.38%
 qa,57262de2ec44d21400f3dbb8,llm,1898,1261
 qa,57262de2ec44d21400f3dbb8,rag_bm25,"""",1261
 qa,57262de2ec44d21400f3dbb8,rag_dense,4th century,1261
@@ -292,27 +292,27 @@ qa,57270064f1498d1400e8f204,rag_bm25,Russia's cosmology,colour
 qa,57270064f1498d1400e8f204,rag_dense,I don't know,colour
 qa,57270064f1498d1400e8f204,rag_hybrid,Uranus,colour
 qa,5731cb92e99e3014001e628c,llm,I don't know.,governmentally composed prayers for religious services
-qa,5731cb92e99e3014001e628c,rag_bm25,"Boston, Lincolnshire, England",governmentally composed prayers for religious services
+qa,5731cb92e99e3014001e628c,rag_bm25,Roman Catholicism,governmentally composed prayers for religious services
 qa,5731cb92e99e3014001e628c,rag_dense,"British, was intended to appease the latter but led to considerable outrage in the Thirteen Colonies, whose inhabitants were eager to acquire native lands.",governmentally composed prayers for religious services
-qa,5731cb92e99e3014001e628c,rag_hybrid,Charles Town,governmentally composed prayers for religious services
+qa,5731cb92e99e3014001e628c,rag_hybrid,John Smyth,governmentally composed prayers for religious services
 qa,57094ba9efce8f15003a7dcf,llm,a syringe,a rock salt
-qa,57094ba9efce8f15003a7dcf,rag_bm25,Mozilla Foundation launched Firefox 1.0 in late 2004,a rock salt
+qa,57094ba9efce8f15003a7dcf,rag_bm25,Mozilla Foundation,a rock salt
 qa,57094ba9efce8f15003a7dcf,rag_dense,Mars,a rock salt
-qa,57094ba9efce8f15003a7dcf,rag_hybrid,[3],a rock salt
+qa,57094ba9efce8f15003a7dcf,rag_hybrid,is a hazard,a rock salt
 qa,5725e0fb89a1e219009ac01c,llm,1897,1830
 qa,5725e0fb89a1e219009ac01c,rag_bm25,[3],1830
 qa,5725e0fb89a1e219009ac01c,rag_dense,Pope Leo XIII,1830
 qa,5725e0fb89a1e219009ac01c,rag_hybrid,[3],1830
 qa,570c27686b8089140040fb9b,llm,civil rights,communist ties
 qa,570c27686b8089140040fb9b,rag_bm25,"British MI5 and Russian FSB, FBI is primarily a domestic agency, maintaining 56 field offices in major cities throughout the United States, and more than 400 resident agencies in lesser cities and areas across the nation.",communist ties
-qa,570c27686b8089140040fb9b,rag_dense,I don't know.,communist ties
+qa,570c27686b8089140040fb9b,rag_dense,communist ties,communist ties
 qa,570c27686b8089140040fb9b,rag_hybrid,[3],communist ties
 qa,5726a91c5951b619008f7962,llm,festival,Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton
-qa,5726a91c5951b619008f7962,rag_bm25,[3],Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton
-qa,5726a91c5951b619008f7962,rag_dense,I don't know,Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton
-qa,5726a91c5951b619008f7962,rag_hybrid,St.,Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton
+qa,5726a91c5951b619008f7962,rag_bm25,be objectionable,Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton
+qa,5726a91c5951b619008f7962,rag_dense,[3],Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton
+qa,5726a91c5951b619008f7962,rag_hybrid,"Cara Cusumano stated in April 2014: ""Piracy is less about people not wanting to pay and more about just wanting the immediacy – people saying, 'I want to watch Spiderman right now' and downloading it"".",Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton
 qa,572ee58003f9891900756ad4,llm,China was not isolated,the early Ming dynasty
-qa,572ee58003f9891900756ad4,rag_bm25,[3],the early Ming dynasty
+qa,572ee58003f9891900756ad4,rag_bm25,"Frossard was a savage, he had a savage, savage, and savage, savage, and savage, savage, and savage, savage, savage, savage, savage, savage, savage, savage, savage, savage, savage, savage, savage, savage, savage, sa",the early Ming dynasty
 qa,572ee58003f9891900756ad4,rag_dense,China,the early Ming dynasty
 qa,572ee58003f9891900756ad4,rag_hybrid,I don't know,the early Ming dynasty
 qa,5726776df1498d1400e8e0a6,llm,Russia,Persia and Turkey
@@ -330,19 +330,19 @@ qa,57318e5ea5e9cc1400cdc077,rag_hybrid,Greek and Arabic texts,twenty-nine
 qa,572eb7eddfa6aa1500f8d30b,llm,Because they were a part of the United States.,"Many Venezuelans settled in the United States with hopes of receiving a better education, only to remain in there following graduation."
 qa,572eb7eddfa6aa1500f8d30b,rag_bm25,[3],"Many Venezuelans settled in the United States with hopes of receiving a better education, only to remain in there following graduation."
 qa,572eb7eddfa6aa1500f8d30b,rag_dense,[2],"Many Venezuelans settled in the United States with hopes of receiving a better education, only to remain in there following graduation."
-qa,572eb7eddfa6aa1500f8d30b,rag_hybrid,[2],"Many Venezuelans settled in the United States with hopes of receiving a better education, only to remain in there following graduation."
+qa,572eb7eddfa6aa1500f8d30b,rag_hybrid,[3],"Many Venezuelans settled in the United States with hopes of receiving a better education, only to remain in there following graduation."
 qa,5728ad892ca10214002da5a6,llm,a sex,the same species
-qa,5728ad892ca10214002da5a6,rag_bm25,[3],the same species
-qa,5728ad892ca10214002da5a6,rag_dense,a mind-stuff in space and time,the same species
-qa,5728ad892ca10214002da5a6,rag_hybrid,a person or thing) is a defining essence,the same species
+qa,5728ad892ca10214002da5a6,rag_bm25,I don't know,the same species
+qa,5728ad892ca10214002da5a6,rag_dense,[3],the same species
+qa,5728ad892ca10214002da5a6,rag_hybrid,"Identities do not define people, people define identities. Everything changes from moment to moment, and to think of anything as having an ""enduring essence"" misses the fact that ""all things flow"", though it is often a useful way of speaking.",the same species
 qa,56cf34c5aab44d1400b88e4d,llm,American,Irish
 qa,56cf34c5aab44d1400b88e4d,rag_bm25,United States,Irish
 qa,56cf34c5aab44d1400b88e4d,rag_dense,[3],Irish
 qa,56cf34c5aab44d1400b88e4d,rag_hybrid,"There was no clear record of the number of Venezuelans who emigrated to the United States. Between the 18th and early 19th centuries, there were many European immigrants who went to Venezuela, only to later migrate to the United States along with their children and grandchildren who born and/or grew up in Venezuela speaking Spanish",Irish
 qa,5727c05eff5b5019007d9449,llm,Toronto Bluejays,American League
-qa,5727c05eff5b5019007d9449,rag_bm25,UEFA Europa League season,American League
-qa,5727c05eff5b5019007d9449,rag_dense,New York Mets,American League
-qa,5727c05eff5b5019007d9449,rag_hybrid,New York Mets,American League
+qa,5727c05eff5b5019007d9449,rag_bm25,"2015–16 UEFA Europa League season, however, UEFA will not allow the runners-up to qualify for the Europa League through the competition.",American League
+qa,5727c05eff5b5019007d9449,rag_dense,New York,American League
+qa,5727c05eff5b5019007d9449,rag_hybrid,"New York has been described as the ""Capital of Baseball"". There have been 35 Major League Baseball World Series and 73 pennants won by New York teams.",American League
 qa,57323937e99e3014001e65ac,llm,I don't know.,in consultation with other party colleagues
 qa,57323937e99e3014001e65ac,rag_bm25,[2],in consultation with other party colleagues
 qa,57323937e99e3014001e65ac,rag_dense,[1],in consultation with other party colleagues
@@ -352,16 +352,16 @@ qa,571a72404faf5e1900b8a9aa,rag_bm25,German Army was able to escape from the inc
 qa,571a72404faf5e1900b8a9aa,rag_dense,Jewish),shtetls
 qa,571a72404faf5e1900b8a9aa,rag_hybrid,Germans to join the French Resistance,shtetls
 qa,5723eae00dadf01500fa1f9f,llm,I don't know.,Balmoral Castle
-qa,5723eae00dadf01500fa1f9f,rag_bm25,French-American,Balmoral Castle
-qa,5723eae00dadf01500fa1f9f,rag_dense,"Victoria's self-imposed isolation from the public diminished the popularity of the monarchy, and encouraged the growth of the republican movement",Balmoral Castle
+qa,5723eae00dadf01500fa1f9f,rag_bm25,Victoria,Balmoral Castle
+qa,5723eae00dadf01500fa1f9f,rag_dense,[3],Balmoral Castle
 qa,5723eae00dadf01500fa1f9f,rag_hybrid,[3],Balmoral Castle
 qa,57311ee005b4da19006bcdbb,llm,lungs,pneumatic cavities
 qa,57311ee005b4da19006bcdbb,rag_bm25,enduring person or thing,pneumatic cavities
 qa,57311ee005b4da19006bcdbb,rag_dense,Owenia,pneumatic cavities
-qa,57311ee005b4da19006bcdbb,rag_hybrid,a skeleton,pneumatic cavities
+qa,57311ee005b4da19006bcdbb,rag_hybrid,sporophylls,pneumatic cavities
 qa,572a982b34ae481900deaba7,llm,Associated Press,Vietnam Veterans Against the War
-qa,572a982b34ae481900deaba7,rag_bm25,I don't know.,Vietnam Veterans Against the War
-qa,572a982b34ae481900deaba7,rag_dense,[3],Vietnam Veterans Against the War
+qa,572a982b34ae481900deaba7,rag_bm25,[3],Vietnam Veterans Against the War
+qa,572a982b34ae481900deaba7,rag_dense,partisans,Vietnam Veterans Against the War
 qa,572a982b34ae481900deaba7,rag_hybrid,[3],Vietnam Veterans Against the War
 qa,572abd0734ae481900deaca5,llm,Hayek,Raymond Plant
 qa,572abd0734ae481900deaca5,rag_bm25,"British.""",Raymond Plant
@@ -373,30 +373,30 @@ qa,56dfba5f231d4119001abd2d,rag_dense,Nanjing,half
 qa,56dfba5f231d4119001abd2d,rag_hybrid,"Salter's Hall controversy, occurred; with the majority siding with nontrinitarian views.""",half
 qa,5709ef704103511400d594aa,llm,a yearly estimate,average price of consumer goods and services in the United States
 qa,5709ef704103511400d594aa,rag_bm25,[3],average price of consumer goods and services in the United States
-qa,5709ef704103511400d594aa,rag_dense,3.38% of GDP,average price of consumer goods and services in the United States
+qa,5709ef704103511400d594aa,rag_dense,I don't know,average price of consumer goods and services in the United States
 qa,5709ef704103511400d594aa,rag_hybrid,Nigeria,average price of consumer goods and services in the United States
 qa,5731df48e99e3014001e637a,llm,a writer,historian
 qa,5731df48e99e3014001e637a,rag_bm25,I don't know,historian
-qa,5731df48e99e3014001e637a,rag_dense,NBC,historian
-qa,5731df48e99e3014001e637a,rag_hybrid,Indiana Jones and the Last Crusade,historian
+qa,5731df48e99e3014001e637a,rag_dense,historian,historian
+qa,5731df48e99e3014001e637a,rag_hybrid,[4],historian
 qa,572eb7eddfa6aa1500f8d30a,llm,No,"Between the 18th and early 19th centuries, there were many European immigrants who went to Venezuela"
 qa,572eb7eddfa6aa1500f8d30a,rag_bm25,[2],"Between the 18th and early 19th centuries, there were many European immigrants who went to Venezuela"
 qa,572eb7eddfa6aa1500f8d30a,rag_dense,[2],"Between the 18th and early 19th centuries, there were many European immigrants who went to Venezuela"
 qa,572eb7eddfa6aa1500f8d30a,rag_hybrid,[2],"Between the 18th and early 19th centuries, there were many European immigrants who went to Venezuela"
 qa,570af9ad6b8089140040f65b,llm,New York City,1964 New York World's Fair
-qa,570af9ad6b8089140040f65b,rag_bm25,Apollo,1964 New York World's Fair
+qa,570af9ad6b8089140040f65b,rag_bm25,neurons,1964 New York World's Fair
 qa,570af9ad6b8089140040f65b,rag_dense,"Astra 2D was a better-quality, more efficient, and more efficient clones",1964 New York World's Fair
-qa,570af9ad6b8089140040f65b,rag_hybrid,[3],1964 New York World's Fair
+qa,570af9ad6b8089140040f65b,rag_hybrid,SHARP 19SC111 television was a television which included a built-in Famicom.,1964 New York World's Fair
 qa,5727594add62a815002e9b86,llm,Great Lent,Maslenitsa
 qa,5727594add62a815002e9b86,rag_bm25,I don't know,Maslenitsa
-qa,5727594add62a815002e9b86,rag_dense,,Maslenitsa
+qa,5727594add62a815002e9b86,rag_dense,I am a novice,Maslenitsa
 qa,5727594add62a815002e9b86,rag_hybrid,Carnival,Maslenitsa
 qa,56d1070517492d1400aab779,llm,New York City,the Five Points
 qa,56d1070517492d1400aab779,rag_bm25,[3],the Five Points
-qa,56d1070517492d1400aab779,rag_dense,[4],the Five Points
+qa,56d1070517492d1400aab779,rag_dense,"a boom period during 1900–29, with a population growth by a boom period during 1900–29, with a population growth by a boom period during 1900–29",the Five Points
 qa,56d1070517492d1400aab779,rag_hybrid,"New York, California, Texas",the Five Points
 qa,57289f843acd2414000dfb88,llm,a normal LD player,distorted
-qa,57289f843acd2414000dfb88,rag_bm25,a lateral cut NAB curve,distorted
+qa,57289f843acd2414000dfb88,rag_bm25,NBC was a monopoly on the NBC network.,distorted
 qa,57289f843acd2414000dfb88,rag_dense,I don't know,distorted
 qa,57289f843acd2414000dfb88,rag_hybrid,[3],distorted
 qa,56e1a41ee3433e1400423070,llm,Hydrogen is used in power stations.,as a coolant in generators
@@ -405,12 +405,12 @@ qa,56e1a41ee3433e1400423070,rag_dense,[4],as a coolant in generators
 qa,56e1a41ee3433e1400423070,rag_hybrid,[4],as a coolant in generators
 qa,572787c4f1498d1400e8fb0f,llm,Monday,Saturday
 qa,572787c4f1498d1400e8fb0f,rag_bm25,The Swiss government announced that it plans to end its use of nuclear energy in the next 2 or 3 decades,Saturday
-qa,572787c4f1498d1400e8fb0f,rag_dense,Manila Carnival was declared.,Saturday
-qa,572787c4f1498d1400e8fb0f,rag_hybrid,Fleetwood Mac,Saturday
+qa,572787c4f1498d1400e8fb0f,rag_dense,[3],Saturday
+qa,572787c4f1498d1400e8fb0f,rag_hybrid,[4],Saturday
 qa,5728a6bc4b864d1900164b7f,llm,0,19
-qa,5728a6bc4b864d1900164b7f,rag_bm25,I don't know,19
-qa,5728a6bc4b864d1900164b7f,rag_dense,LGBT community.,19
-qa,5728a6bc4b864d1900164b7f,rag_hybrid,I don't know,19
+qa,5728a6bc4b864d1900164b7f,rag_bm25,BYU,19
+qa,5728a6bc4b864d1900164b7f,rag_dense,[2],19
+qa,5728a6bc4b864d1900164b7f,rag_hybrid,BYU,19
 qa,5727a9fa4b864d19001639e4,llm,Cubism,'crystal' Cubism
 qa,5727a9fa4b864d19001639e4,rag_bm25,I don't know,'crystal' Cubism
 qa,5727a9fa4b864d19001639e4,rag_dense,"Henry Chandler Cowles, Arthur Tansley and Frederic Clements",'crystal' Cubism
@@ -418,18 +418,18 @@ qa,5727a9fa4b864d19001639e4,rag_hybrid,"Some political commentaries, including W
 qa,572e5cc5c246551400ce421b,llm,music,art and politics
 qa,572e5cc5c246551400ce421b,rag_bm25,I don't know,art and politics
 qa,572e5cc5c246551400ce421b,rag_dense,I don't know,art and politics
-qa,572e5cc5c246551400ce421b,rag_hybrid,"Fleetwood Mac reformed Fleetwood Mac, whose Rumours (1977) was the best-selling album of the decade.",art and politics
+qa,572e5cc5c246551400ce421b,rag_hybrid,I don't know,art and politics
 qa,5733a6424776f41900660f4e,llm,1897,1920
 qa,5733a6424776f41900660f4e,rag_bm25,[3],1920
-qa,5733a6424776f41900660f4e,rag_dense,the Middle Ages,1920
+qa,5733a6424776f41900660f4e,rag_dense,I don't know,1920
 qa,5733a6424776f41900660f4e,rag_hybrid,[3],1920
 qa,570e39580b85d914000d7d9f,llm,Nuclear fusion,Chicago Pile-1
-qa,570e39580b85d914000d7d9f,rag_bm25,Alfred Russel Wallace,Chicago Pile-1
+qa,570e39580b85d914000d7d9f,rag_bm25,The first reactor would reportedly be taken offline in 2019 and the last one in 2034,Chicago Pile-1
 qa,570e39580b85d914000d7d9f,rag_dense,I don't know.,Chicago Pile-1
 qa,570e39580b85d914000d7d9f,rag_hybrid,ii.,Chicago Pile-1
 qa,57062dd675f01819005e7a34,llm,Sony,Nullsoft
 qa,57062dd675f01819005e7a34,rag_bm25,[4],Nullsoft
-qa,57062dd675f01819005e7a34,rag_dense,FM Band,Nullsoft
+qa,57062dd675f01819005e7a34,rag_dense,WYNY,Nullsoft
 qa,57062dd675f01819005e7a34,rag_hybrid,NBC Orthacoustic curve,Nullsoft
 qa,56d12dc117492d1400aabb76,llm,doubling the percentage of notebook sales,42%
 qa,56d12dc117492d1400aabb76,rag_bm25,Atlantic City,42%
@@ -441,32 +441,32 @@ qa,5729d6d76aef0514001550b2,rag_dense,Apple Mini was a re-direction of $1 billio
 qa,5729d6d76aef0514001550b2,rag_hybrid,"A for diode, and C for materials like GaAs",encryption hardware
 qa,56e11661e3433e1400422bb8,llm,a symphony,its own legal system
 qa,56e11661e3433e1400422bb8,rag_bm25,"""",its own legal system
-qa,56e11661e3433e1400422bb8,rag_dense,I don't know,its own legal system
-qa,56e11661e3433e1400422bb8,rag_hybrid,I don't know,its own legal system
+qa,56e11661e3433e1400422bb8,rag_dense,[3] established church,its own legal system
+qa,56e11661e3433e1400422bb8,rag_hybrid,The Presbytery of Ulster was formed in 1642 separately from the established Anglican Church.,its own legal system
 qa,5733e78f4776f41900661493,llm,a slum,The Pamiri people
 qa,5733e78f4776f41900661493,rag_bm25,Rockabilly inspired,The Pamiri people
 qa,5733e78f4776f41900661493,rag_dense,I don't know,The Pamiri people
 qa,5733e78f4776f41900661493,rag_hybrid,[3],The Pamiri people
 qa,572ac956be1ee31400cb824f,llm,New York City,at an Earth Day rally
 qa,572ac956be1ee31400cb824f,rag_bm25,North American colonies were renamed Baptists,at an Earth Day rally
-qa,572ac956be1ee31400cb824f,rag_dense,Hansen was a spokesman.,at an Earth Day rally
+qa,572ac956be1ee31400cb824f,rag_dense,[3],at an Earth Day rally
 qa,572ac956be1ee31400cb824f,rag_hybrid,Hansen was a spokesman.,at an Earth Day rally
 qa,56fb30738f12f31900630309,llm,"September 11, 1791",337
-qa,56fb30738f12f31900630309,rag_bm25,I don't know.,337
+qa,56fb30738f12f31900630309,rag_bm25,Constantine the Great,337
 qa,56fb30738f12f31900630309,rag_dense,[2],337
 qa,56fb30738f12f31900630309,rag_hybrid,[2],337
 qa,56e0f975231d4119001ac517,llm,I don't know.,Voskhod 1
 qa,56e0f975231d4119001ac517,rag_bm25,"iPod on, the Prussians successfully defeated the Austrians and succeeded in creating the North German Confederation.",Voskhod 1
 qa,56e0f975231d4119001ac517,rag_dense,[3],Voskhod 1
-qa,56e0f975231d4119001ac517,rag_hybrid,MAD,Voskhod 1
+qa,56e0f975231d4119001ac517,rag_hybrid,[3],Voskhod 1
 qa,572ef3eac246551400ce47e0,llm,safety feature,various ropes for redundancy
 qa,572ef3eac246551400ce47e0,rag_bm25,[3],various ropes for redundancy
 qa,572ef3eac246551400ce47e0,rag_dense,[3],various ropes for redundancy
 qa,572ef3eac246551400ce47e0,rag_hybrid,[3],various ropes for redundancy
 qa,570c26b0ec8fbc190045bca9,llm,FBI,FBI is primarily a domestic agency
 qa,570c26b0ec8fbc190045bca9,rag_bm25,Frossard was able to get the attention of the French.,FBI is primarily a domestic agency
-qa,570c26b0ec8fbc190045bca9,rag_dense,The Government was known officially,FBI is primarily a domestic agency
-qa,570c26b0ec8fbc190045bca9,rag_hybrid,They coordinate their campaign activities with congressional and national party campaign committees; they encourage outside groups to back their candidates;,FBI is primarily a domestic agency
+qa,570c26b0ec8fbc190045bca9,rag_dense,domestic,FBI is primarily a domestic agency
+qa,570c26b0ec8fbc190045bca9,rag_hybrid,Congressional,FBI is primarily a domestic agency
 qa,570e4ed60dc6ce1900204f46,llm,two,16
 qa,570e4ed60dc6ce1900204f46,rag_bm25,Seattle as a hub for aerospace manufacturing,16
 qa,570e4ed60dc6ce1900204f46,rag_dense,Plymouth,16
@@ -474,14 +474,14 @@ qa,570e4ed60dc6ce1900204f46,rag_hybrid,The Bronx has experienced an economic and
 qa,57324d56b9d445190005e9fd,llm,General of the Army,Field Marshal
 qa,57324d56b9d445190005e9fd,rag_bm25,[3],Field Marshal
 qa,57324d56b9d445190005e9fd,rag_dense,[3],Field Marshal
-qa,57324d56b9d445190005e9fd,rag_hybrid,[3],Field Marshal
+qa,57324d56b9d445190005e9fd,rag_hybrid,"Allied command"" is applied to a burgeoning number of institutions.",Field Marshal
 qa,572f47a7a23a5019007fc4f7,llm,During the Second World War,early 20th century
-qa,572f47a7a23a5019007fc4f7,rag_bm25,European imperialism,early 20th century
-qa,572f47a7a23a5019007fc4f7,rag_dense,electrons,early 20th century
-qa,572f47a7a23a5019007fc4f7,rag_hybrid,Herbert Spencer used analogy from natural selection as an argument against government intervention in the economy to benefit the poor,early 20th century
+qa,572f47a7a23a5019007fc4f7,rag_bm25,he was influenced by other concepts about social progress and evolution,early 20th century
+qa,572f47a7a23a5019007fc4f7,rag_dense,physics,early 20th century
+qa,572f47a7a23a5019007fc4f7,rag_hybrid,"biology, the aether theory was a collection of results which predate modern quantum mechanics, but were never complete or self-consistent.",early 20th century
 qa,5726876a5951b619008f75e3,llm,1898,1866
-qa,5726876a5951b619008f75e3,rag_bm25,Austria,1866
-qa,5726876a5951b619008f75e3,rag_dense,I don't know,1866
+qa,5726876a5951b619008f75e3,rag_bm25,German 2nd Army did not attack all at once,1866
+qa,5726876a5951b619008f75e3,rag_dense,Germans,1866
 qa,5726876a5951b619008f75e3,rag_hybrid,"The Roman Catholic Church and local rulers led German expansion and settlement in areas inhabited by Slavs and Balts, known as Ostsiedlung.",1866
 qa,5726fc78f1498d1400e8f1bd,llm,I don't know.,Madonna
 qa,5726fc78f1498d1400e8f1bd,rag_bm25,[2],Madonna
@@ -489,51 +489,51 @@ qa,5726fc78f1498d1400e8f1bd,rag_dense,[3],Madonna
 qa,5726fc78f1498d1400e8f1bd,rag_hybrid,[2],Madonna
 qa,56d4e5922ccc5a1400d83303,llm,The New York Times,People
 qa,56d4e5922ccc5a1400d83303,rag_bm25,[3],People
-qa,56d4e5922ccc5a1400d83303,rag_dense,iTunes Store,People
+qa,56d4e5922ccc5a1400d83303,rag_dense,[3],People
 qa,56d4e5922ccc5a1400d83303,rag_hybrid,[3],People
 qa,5727873bf1498d1400e8faf3,llm,No.,generally lack chlorophyll
-qa,5727873bf1498d1400e8faf3,rag_bm25,I don't know,generally lack chlorophyll
+qa,5727873bf1498d1400e8faf3,rag_bm25,Lake Michigan,generally lack chlorophyll
 qa,5727873bf1498d1400e8faf3,rag_dense,I don't know,generally lack chlorophyll
-qa,5727873bf1498d1400e8faf3,rag_hybrid,skeleton,generally lack chlorophyll
+qa,5727873bf1498d1400e8faf3,rag_hybrid,[3],generally lack chlorophyll
 qa,5727740ff1498d1400e8f88d,llm,God,John Ray
-qa,5727740ff1498d1400e8f88d,rag_bm25,I don't know,John Ray
-qa,5727740ff1498d1400e8f88d,rag_dense,"Walter Bagehot's Physics and Politics (1872), attempted to extend the idea of natural selection to competition between nations and between human races.",John Ray
-qa,5727740ff1498d1400e8f88d,rag_hybrid,I don't know,John Ray
+qa,5727740ff1498d1400e8f88d,rag_bm25,Luminiferous aether,John Ray
+qa,5727740ff1498d1400e8f88d,rag_dense,I don't know,John Ray
+qa,5727740ff1498d1400e8f88d,rag_hybrid,Luminiferous aether,John Ray
 qa,56be9add3aeaaa14008c9152,llm,2002,2011
 qa,56be9add3aeaaa14008c9152,rag_bm25,[2],2011
-qa,56be9add3aeaaa14008c9152,rag_dense,[2],2011
+qa,56be9add3aeaaa14008c9152,rag_dense,Beyoncé,2011
 qa,56be9add3aeaaa14008c9152,rag_hybrid,[2],2011
 qa,57337a234776f41900660b77,llm,St. Barts,shallow waters
-qa,57337a234776f41900660b77,rag_bm25,[2],shallow waters
-qa,57337a234776f41900660b77,rag_dense,I don't know,shallow waters
+qa,57337a234776f41900660b77,rag_bm25,Cork,shallow waters
+qa,57337a234776f41900660b77,rag_dense,Saaremaa,shallow waters
 qa,57337a234776f41900660b77,rag_hybrid,[3],shallow waters
 qa,57350e4dacc1501500bac3d5,llm,a reversal of the reversal,mortality
 qa,57350e4dacc1501500bac3d5,rag_bm25,[1],mortality
-qa,57350e4dacc1501500bac3d5,rag_dense,"is a monoculture, we may forgo wheat production in that area and plant a different species altogether, relying on interspecific diversity",mortality
+qa,57350e4dacc1501500bac3d5,rag_dense,[4],mortality
 qa,57350e4dacc1501500bac3d5,rag_hybrid,[3],mortality
 qa,56cf609aaab44d1400b89188,llm,1895,1817
-qa,56cf609aaab44d1400b89188,rag_bm25,"Chopin wrote to Pleyel in January 1839: ""I am sending you my Preludes [(Op. 28)]. I finished them on your little piano, which arrived in the best possible condition in spite of the sea, the bad weather and the Palma customs.""",1817
-qa,56cf609aaab44d1400b89188,rag_dense,[3],1817
-qa,56cf609aaab44d1400b89188,rag_hybrid,Paris apartment,1817
+qa,56cf609aaab44d1400b89188,rag_bm25,"I am sending you my Preludes [(Op. 28)]. I finished them on your little piano, which arrived in the best possible condition in spite of the sea, the bad weather and the Palma customs.""",1817
+qa,56cf609aaab44d1400b89188,rag_dense,"Chopin complained about his bad health and the incompetence of the doctors in Majorca: ""The first said I was dead; the second said I was dying; and the third said I was about to die."" He also had problems having his Pleyel piano sent to him. It finally arrived from Paris in December. Chopin wrote to Pleyel in January 1839: ""I am sending you my Preludes [(Op. 28)]. I finished them on your little piano, which arrived in the best possible condition in spite of the sea, the bad weather and the Palma customs.""",1817
+qa,56cf609aaab44d1400b89188,rag_hybrid,Sand's son Maurice,1817
 qa,56e6d8f9de9d37140006807e,llm,rock,indie rock
 qa,56e6d8f9de9d37140006807e,rag_bm25,"Madonna and Janet Jackson set new standards for showmanship, with concerts that included not only elaborate costumes and precision-timed pyrotechnics but also highly athletic dancing",indie rock
 qa,56e6d8f9de9d37140006807e,rag_dense,mainstreaming of bands like Wilco and Feist,indie rock
 qa,56e6d8f9de9d37140006807e,rag_hybrid,mainstreaming of bands like Wilco and Feist,indie rock
 qa,5725c68938643c19005accaf,llm,Dutch,Nederduits
-qa,5725c68938643c19005accaf,rag_bm25,I don't know,Nederduits
+qa,5725c68938643c19005accaf,rag_bm25,English,Nederduits
 qa,5725c68938643c19005accaf,rag_dense,"Germans were assimilated into German culture and eventually there were many intermarriages of Slavic and German families, including amongst the Prussia's aristocracy known as the Junkers",Nederduits
-qa,5725c68938643c19005accaf,rag_hybrid,I don't know,Nederduits
+qa,5725c68938643c19005accaf,rag_hybrid,a single official language,Nederduits
 qa,56e6c83cde9d37140006803c,llm,John C. Kennedy,Walter Sabo
-qa,56e6c83cde9d37140006803c,rag_bm25,Boston,Walter Sabo
+qa,56e6c83cde9d37140006803c,rag_bm25,I don't know,Walter Sabo
 qa,56e6c83cde9d37140006803c,rag_dense,[2],Walter Sabo
 qa,56e6c83cde9d37140006803c,rag_hybrid,[3],Walter Sabo
 qa,57281af83acd2414000df4a0,llm,John Adams,John Grigg
-qa,57281af83acd2414000df4a0,rag_bm25,France and Britain to control the economy,John Grigg
+qa,57281af83acd2414000df4a0,rag_bm25,"The Lacey Act of 1900 was the first federal law that regulated commercial animal markets. It prohibited interstate commerce of animals killed in violation of state game laws, and covered all fish and wildlife and their parts or products, as well as plants",John Grigg
 qa,57281af83acd2414000df4a0,rag_dense,I don't know.,John Grigg
 qa,57281af83acd2414000df4a0,rag_hybrid,John Grigg,John Grigg
 qa,5727507f5951b619008f8826,llm,Using a microscope,introducing the Nif gene
-qa,5727507f5951b619008f8826,rag_bm25,I wanted to express with red and green the terrible,introducing the Nif gene
-qa,5727507f5951b619008f8826,rag_dense,I don't know,introducing the Nif gene
+qa,5727507f5951b619008f8826,rag_bm25,I don't know,introducing the Nif gene
+qa,5727507f5951b619008f8826,rag_dense,[4],introducing the Nif gene
 qa,5727507f5951b619008f8826,rag_hybrid,I don't know,introducing the Nif gene
 qa,572851ba4b864d190016493c,llm,a sandbox,adhesive
 qa,572851ba4b864d190016493c,rag_bm25,[3],adhesive
@@ -549,19 +549,19 @@ qa,56cc66326d243a140015ef9b,rag_dense,Apple,France
 qa,56cc66326d243a140015ef9b,rag_hybrid,Apple,France
 qa,56d120b717492d1400aaba07,llm,I don't know.,by following the Buddhist path
 qa,56d120b717492d1400aaba07,rag_bm25,from the Soviets,by following the Buddhist path
-qa,56d120b717492d1400aaba07,rag_dense,Azerbaijani soldiers were killed,by following the Buddhist path
+qa,56d120b717492d1400aaba07,rag_dense,[3],by following the Buddhist path
 qa,56d120b717492d1400aaba07,rag_hybrid,agent-cause,by following the Buddhist path
 qa,5728456d3acd2414000df830,llm,a sailor,the Swedish town of Sigtuna
 qa,5728456d3acd2414000df830,rag_bm25,"The British government was close to bankruptcy, and Britain now faced the delicate task of pacifying its new French-Canadian subjects as well as the many American Indian tribes who had supported France",the Swedish town of Sigtuna
-qa,5728456d3acd2414000df830,rag_dense,"Norfolk Island Group Nepean Island is also home to breeding seabirds. The providence petrel was hunted to local extinction by the beginning of the 19th century, but has shown signs of returning to breed on Phillip Island.",the Swedish town of Sigtuna
-qa,5728456d3acd2414000df830,rag_hybrid,Bronze Age,the Swedish town of Sigtuna
+qa,5728456d3acd2414000df830,rag_dense,[4],the Swedish town of Sigtuna
+qa,5728456d3acd2414000df830,rag_hybrid,[4],the Swedish town of Sigtuna
 qa,5728d7e22ca10214002da93e,llm,London Gardens,Kew Gardens
-qa,5728d7e22ca10214002da93e,rag_bm25,[2],Kew Gardens
-qa,5728d7e22ca10214002da93e,rag_dense,British heritage,Kew Gardens
+qa,5728d7e22ca10214002da93e,rag_bm25,[3],Kew Gardens
+qa,5728d7e22ca10214002da93e,rag_dense,[3],Kew Gardens
 qa,5728d7e22ca10214002da93e,rag_hybrid,[3],Kew Gardens
 qa,56e783a900c9c71400d77206,llm,To ensure that the company's employees are not subject to a statutory duty.,coordinate declassification practices
-qa,56e783a900c9c71400d77206,rag_bm25,Order of the Companions of Honour (CH),coordinate declassification practices
-qa,56e783a900c9c71400d77206,rag_dense,The papacy insisted on the Church's independence from secular lords.,coordinate declassification practices
+qa,56e783a900c9c71400d77206,rag_bm25,"IBM, the company reported a 5% drop in sales and 1% decline in net profit over 2012.",coordinate declassification practices
+qa,56e783a900c9c71400d77206,rag_dense,coordinate declassification practices across agencies,coordinate declassification practices
 qa,56e783a900c9c71400d77206,rag_hybrid,I don't know,coordinate declassification practices
 qa,56f6f7043d8e2e1400e372f4,llm,"May 1, 1932",during the high medieval era
 qa,56f6f7043d8e2e1400e372f4,rag_bm25,German soldiers were spotted in Forbach.,during the high medieval era
@@ -572,17 +572,17 @@ qa,56de83cecffd8e1900b4b9c0,rag_bm25,[3],Western Europe
 qa,56de83cecffd8e1900b4b9c0,rag_dense,[3],Western Europe
 qa,56de83cecffd8e1900b4b9c0,rag_hybrid,[3],Western Europe
 qa,5729a094af94a219006aa588,llm,a hundred feet,"3,007 feet"
-qa,5729a094af94a219006aa588,rag_bm25,Botanists,"3,007 feet"
-qa,5729a094af94a219006aa588,rag_dense,Pennsylvania,"3,007 feet"
+qa,5729a094af94a219006aa588,rag_bm25,nutrients,"3,007 feet"
+qa,5729a094af94a219006aa588,rag_dense,Allegheny Mountains,"3,007 feet"
 qa,5729a094af94a219006aa588,rag_hybrid,pronounced dry and wet seasons,"3,007 feet"
 qa,56cf586faab44d1400b890a6,llm,ten,25
 qa,56cf586faab44d1400b890a6,rag_bm25,Germany,25
 qa,56cf586faab44d1400b890a6,rag_dense,"Harper Lee enjoyed the attention its popularity garnered, granting interviews, visiting schools, and attending events honoring the book.",25
 qa,56cf586faab44d1400b890a6,rag_hybrid,[3],25
 qa,5729429a6aef051400154c18,llm,I don't know.,Destructive testing
-qa,5729429a6aef051400154c18,rag_bm25,[3],Destructive testing
-qa,5729429a6aef051400154c18,rag_dense,g,Destructive testing
-qa,5729429a6aef051400154c18,rag_hybrid,a substandard adhesive,Destructive testing
+qa,5729429a6aef051400154c18,rag_bm25,I don't know,Destructive testing
+qa,5729429a6aef051400154c18,rag_dense,3,Destructive testing
+qa,5729429a6aef051400154c18,rag_hybrid,a capacitor,Destructive testing
 qa,572f9a2ba23a5019007fc7cc,llm,a sandblasting process,fining
 qa,572f9a2ba23a5019007fc7cc,rag_bm25,I don't know,fining
 qa,572f9a2ba23a5019007fc7cc,rag_dense,78 rpm V-Discs,fining
@@ -592,27 +592,27 @@ qa,5727fe34ff5b5019007d9a6a,rag_bm25,Pope Paul VI to celebrate the 1900th annive
 qa,5727fe34ff5b5019007d9a6a,rag_dense,adversity,Sayyid Qutb
 qa,5727fe34ff5b5019007d9a6a,rag_hybrid,Hungarians,Sayyid Qutb
 qa,572946226aef051400154c3c,llm,astronomers,astronomers
-qa,572946226aef051400154c3c,rag_bm25,3],astronomers
-qa,572946226aef051400154c3c,rag_dense,Michelson-Morley experiment was a definite rule,astronomers
-qa,572946226aef051400154c3c,rag_hybrid,"I would not take a second shock for the kingdom of France.""",astronomers
+qa,572946226aef051400154c3c,rag_bm25,Biocontrol,astronomers
+qa,572946226aef051400154c3c,rag_dense,I don't know.,astronomers
+qa,572946226aef051400154c3c,rag_hybrid,I don't know.,astronomers
 qa,56f72af5711bf01900a44a1e,llm,a group of slain soldiers,Partisans
 qa,56f72af5711bf01900a44a1e,rag_bm25,[3],Partisans
-qa,56f72af5711bf01900a44a1e,rag_dense,Partisan,Partisans
+qa,56f72af5711bf01900a44a1e,rag_dense,is a legal liability within international relations,Partisans
 qa,56f72af5711bf01900a44a1e,rag_hybrid,Mohammad Reza Pahlavi to Iran,Partisans
 qa,56d08052234ae51400d9c32e,llm,a solar panel,Socrates' Megaron House
 qa,56d08052234ae51400d9c32e,rag_bm25,[4],Socrates' Megaron House
-qa,56d08052234ae51400d9c32e,rag_dense,[4],Socrates' Megaron House
-qa,56d08052234ae51400d9c32e,rag_hybrid,a thermal energy source,Socrates' Megaron House
+qa,56d08052234ae51400d9c32e,rag_dense,Solar energy,Socrates' Megaron House
+qa,56d08052234ae51400d9c32e,rag_hybrid,Santiago Calatrava,Socrates' Megaron House
 qa,5728c7763acd2414000dfe38,llm,the north,due west
-qa,5728c7763acd2414000dfe38,rag_bm25,"Bazaine, it was too late.",due west
+qa,5728c7763acd2414000dfe38,rag_bm25,"6000 BCE, the French were aware of German numerical superiority at the beginning of the battle as the German 2nd Army did not attack all at once.",due west
 qa,5728c7763acd2414000dfe38,rag_dense,NTC,due west
-qa,5728c7763acd2414000dfe38,rag_hybrid,German soldiers from the 1st and 2nd armies had charged up the heights,due west
+qa,5728c7763acd2414000dfe38,rag_hybrid,"German troops were spotted in Forbach, German soldiers from the 1st and 2nd armies charged up the heights.",due west
 qa,572eb9dbc246551400ce458c,llm,subtropical forests,southeast United States
 qa,572eb9dbc246551400ce458c,rag_bm25,[3],southeast United States
-qa,572eb9dbc246551400ce458c,rag_dense,I don't know,southeast United States
-qa,572eb9dbc246551400ce458c,rag_hybrid,I don't know,southeast United States
+qa,572eb9dbc246551400ce458c,rag_dense,the eastern part of the plains,southeast United States
+qa,572eb9dbc246551400ce458c,rag_hybrid,drought,southeast United States
 qa,57102369a58dae1900cd68f9,llm,I don't know.,deterring crime
-qa,57102369a58dae1900cd68f9,rag_bm25,facto moratorium,deterring crime
+qa,57102369a58dae1900cd68f9,rag_bm25,[3],deterring crime
 qa,57102369a58dae1900cd68f9,rag_dense,[3],deterring crime
 qa,57102369a58dae1900cd68f9,rag_hybrid,[3],deterring crime
 qa,5706fa4c90286e26004fc78a,llm,I don't know.,"""Begraafplaats van de Neger"""
@@ -621,46 +621,46 @@ qa,5706fa4c90286e26004fc78a,rag_dense,"African Burial Ground in New York City or
 qa,5706fa4c90286e26004fc78a,rag_hybrid,"African Burial Ground in New York City originally was known by the Dutch name ""Begraafplaats van de Neger"" (Cemetery of the Negro); an early US occurrence of neger in Rhode Island, dates from 1625. Thomas Jefferson also used the term ""black"" in his Notes on the State of Virginia in allusion to the slave populations.","""Begraafplaats van de Neger"""
 qa,57264fdcf1498d1400e8dbde,llm,"a sexy, sexy, sexy, sexy, sexy, sexy, sexy, sexy, sexy, sexy, sexy, sexy, sexy, sexy, sexy, sexy, sexy, sexy, sexy, sexy, sexy, sexy, sexy, sexy, sexy,",they were now aligned to the ASA scale
 qa,57264fdcf1498d1400e8dbde,rag_bm25,[3],they were now aligned to the ASA scale
-qa,57264fdcf1498d1400e8dbde,rag_dense,RCA Victor introduced their vinyl-based Victrolac compound as a material for some unusual-format and special-purpose records,they were now aligned to the ASA scale
+qa,57264fdcf1498d1400e8dbde,rag_dense,[3],they were now aligned to the ASA scale
 qa,57264fdcf1498d1400e8dbde,rag_hybrid,I don't know,they were now aligned to the ASA scale
 qa,57341bc54776f4190066188f,llm,General John C. Campbell,Benedict Arnold
-qa,57341bc54776f4190066188f,rag_bm25,[3],Benedict Arnold
-qa,57341bc54776f4190066188f,rag_dense,Allied authorities,Benedict Arnold
+qa,57341bc54776f4190066188f,rag_bm25,British troops to enter Yugoslav territory,Benedict Arnold
+qa,57341bc54776f4190066188f,rag_dense,[2],Benedict Arnold
 qa,57341bc54776f4190066188f,rag_hybrid,[3],Benedict Arnold
 qa,572806a12ca10214002d9be3,llm,John Rut,King Henry
 qa,572806a12ca10214002d9be3,rag_bm25,[3],King Henry
-qa,572806a12ca10214002d9be3,rag_dense,[3],King Henry
+qa,572806a12ca10214002d9be3,rag_dense,France were published in 1470 by the press established by Johann Heynlin.,King Henry
 qa,572806a12ca10214002d9be3,rag_hybrid,[3],King Henry
 qa,5726c2c4f1498d1400e8ea7f,llm,Audible,radio
-qa,5726c2c4f1498d1400e8ea7f,rag_bm25,resurrected,radio
-qa,5726c2c4f1498d1400e8ea7f,rag_dense,[1],radio
-qa,5726c2c4f1498d1400e8ea7f,rag_hybrid,Japan,radio
+qa,5726c2c4f1498d1400e8ea7f,rag_bm25,Plymouth,radio
+qa,5726c2c4f1498d1400e8ea7f,rag_dense,Japanese invasion of Manchuria,radio
+qa,5726c2c4f1498d1400e8ea7f,rag_hybrid,[1],radio
 qa,5728bc93ff5b5019007da5b7,llm,1.2,55 to 70
 qa,5728bc93ff5b5019007da5b7,rag_bm25,[3],55 to 70
 qa,5728bc93ff5b5019007da5b7,rag_dense,[3],55 to 70
-qa,5728bc93ff5b5019007da5b7,rag_hybrid,insecticides,55 to 70
+qa,5728bc93ff5b5019007da5b7,rag_hybrid,[3],55 to 70
 qa,5726bdbd5951b619008f7cbc,llm,No-One,Mercury
-qa,5726bdbd5951b619008f7cbc,rag_bm25,Von Neumann was a sailor,Mercury
-qa,5726bdbd5951b619008f7cbc,rag_dense,Esca Hayek,Mercury
+qa,5726bdbd5951b619008f7cbc,rag_bm25,ywny was a child prodigy,Mercury
+qa,5726bdbd5951b619008f7cbc,rag_dense,Margaret Thatcher,Mercury
 qa,5726bdbd5951b619008f7cbc,rag_hybrid,[4],Mercury
 qa,57317d9be6313a140071cfb7,llm,Saint Catherine's Monastery,Mount Sinai in Egypt
 qa,57317d9be6313a140071cfb7,rag_bm25,English monarchy,Mount Sinai in Egypt
-qa,57317d9be6313a140071cfb7,rag_dense,I don't know),Mount Sinai in Egypt
-qa,57317d9be6313a140071cfb7,rag_hybrid,[3],Mount Sinai in Egypt
+qa,57317d9be6313a140071cfb7,rag_dense,[2],Mount Sinai in Egypt
+qa,57317d9be6313a140071cfb7,rag_hybrid,[4],Mount Sinai in Egypt
 qa,57316811e6313a140071cefd,llm,John X.,Cardinal Jacopo Stefaneschi
-qa,57316811e6313a140071cefd,rag_bm25,"New York Mets, who play at Citi Field in Queens, and the New York Yankees, who play at Yankee Stadium in the Bronx",Cardinal Jacopo Stefaneschi
-qa,57316811e6313a140071cefd,rag_dense,[3],Cardinal Jacopo Stefaneschi
-qa,57316811e6313a140071cefd,rag_hybrid,"Cypriots were founded on the south coast of Cyprus, near present-day Larnaca and Salamis.",Cardinal Jacopo Stefaneschi
+qa,57316811e6313a140071cefd,rag_bm25,"New York has been described as the ""Capital of Baseball"".",Cardinal Jacopo Stefaneschi
+qa,57316811e6313a140071cefd,rag_dense,"George V's wife Queen Mary was a connoisseur of the arts, and took a keen interest in the Royal Collection of furniture and art, both restoring and adding to it. [3]",Cardinal Jacopo Stefaneschi
+qa,57316811e6313a140071cefd,rag_hybrid,I don't know,Cardinal Jacopo Stefaneschi
 qa,572fc19a947a6a140053cc53,llm,I don't know.,"outrage in the Thirteen Colonies, whose inhabitants were eager to acquire native lands"
 qa,572fc19a947a6a140053cc53,rag_bm25,Germans who had assimilated the Old Prussians; the old Prussian language was extinct by the 17th or early 18th century,"outrage in the Thirteen Colonies, whose inhabitants were eager to acquire native lands"
-qa,572fc19a947a6a140053cc53,rag_dense,"James Franco delivered his famous ""Give me Liberty or Give me Death"" speech in St. John's Church in Richmond","outrage in the Thirteen Colonies, whose inhabitants were eager to acquire native lands"
+qa,572fc19a947a6a140053cc53,rag_dense,"Virginia, the city was burned by British troops, causing Governor Thomas Jefferson to flee as the Virginia militia, led by Sampson Mathews, defended the city","outrage in the Thirteen Colonies, whose inhabitants were eager to acquire native lands"
 qa,572fc19a947a6a140053cc53,rag_hybrid,"Boston""","outrage in the Thirteen Colonies, whose inhabitants were eager to acquire native lands"
 qa,5726d0bef1498d1400e8ec1a,llm,France and Germany,"Finland, Estonia, Latvia, Lithuania and Poland."
 qa,5726d0bef1498d1400e8ec1a,rag_bm25,"Pope Gregory VII (pope 1073–85) and Emperor Henry IV, who initially clashed over episcopal appointments","Finland, Estonia, Latvia, Lithuania and Poland."
 qa,5726d0bef1498d1400e8ec1a,rag_dense,Danubian provinces,"Finland, Estonia, Latvia, Lithuania and Poland."
 qa,5726d0bef1498d1400e8ec1a,rag_hybrid,Azerbaijan,"Finland, Estonia, Latvia, Lithuania and Poland."
 qa,5727eda1ff5b5019007d98be,llm,I don't know.,British rule
-qa,5727eda1ff5b5019007d98be,rag_bm25,Nasser,British rule
+qa,5727eda1ff5b5019007d98be,rag_bm25,Russia.,British rule
 qa,5727eda1ff5b5019007d98be,rag_dense,were killed and Nasser received a graze to the head from a policeman's bullet,British rule
 qa,5727eda1ff5b5019007d98be,rag_hybrid,crest was redesigned,British rule
 qa,570c3f1dec8fbc190045be1e,llm,John the Baptist,Pope Pius XII
@@ -668,44 +668,44 @@ qa,570c3f1dec8fbc190045be1e,rag_bm25,[3],Pope Pius XII
 qa,570c3f1dec8fbc190045be1e,rag_dense,I don't know,Pope Pius XII
 qa,570c3f1dec8fbc190045be1e,rag_hybrid,[3],Pope Pius XII
 qa,572a61a3b8ce0319002e2af9,llm,Secretary of State,Prime Minister
-qa,572a61a3b8ce0319002e2af9,rag_bm25,German 2nd Army did not attack all at once,Prime Minister
+qa,572a61a3b8ce0319002e2af9,rag_bm25,[3],Prime Minister
 qa,572a61a3b8ce0319002e2af9,rag_dense,[3],Prime Minister
 qa,572a61a3b8ce0319002e2af9,rag_hybrid,I don't know,Prime Minister
 qa,5727a1eeff5b5019007d9160,llm,New York City,Guaranda (Bolivar province) and Ambato (Tungurahua province
 qa,5727a1eeff5b5019007d9160,rag_bm25,[3],Guaranda (Bolivar province) and Ambato (Tungurahua province
-qa,5727a1eeff5b5019007d9160,rag_dense,Glastonbury,Guaranda (Bolivar province) and Ambato (Tungurahua province
-qa,5727a1eeff5b5019007d9160,rag_hybrid,London,Guaranda (Bolivar province) and Ambato (Tungurahua province
+qa,5727a1eeff5b5019007d9160,rag_dense,I don't know,Guaranda (Bolivar province) and Ambato (Tungurahua province
+qa,5727a1eeff5b5019007d9160,rag_hybrid,shinbyu,Guaranda (Bolivar province) and Ambato (Tungurahua province
 qa,573203aae99e3014001e644d,llm,Rome,patrician elite
-qa,573203aae99e3014001e644d,rag_bm25,Britain’s imperial power,patrician elite
+qa,573203aae99e3014001e644d,rag_bm25,[3],patrician elite
 qa,573203aae99e3014001e644d,rag_dense,Constantine and Constantine,patrician elite
-qa,573203aae99e3014001e644d,rag_hybrid,"Henry, King of Portugal, was crowned king of Portugal",patrician elite
+qa,573203aae99e3014001e644d,rag_hybrid,[3],patrician elite
 qa,56f75cbfaef2371900625b55,llm,a treaty,invalid
-qa,56f75cbfaef2371900625b55,rag_bm25,Esca Hayek,invalid
-qa,56f75cbfaef2371900625b55,rag_dense,[3],invalid
-qa,56f75cbfaef2371900625b55,rag_hybrid,[3],invalid
+qa,56f75cbfaef2371900625b55,rag_bm25,[3],invalid
+qa,56f75cbfaef2371900625b55,rag_dense,Valid,invalid
+qa,56f75cbfaef2371900625b55,rag_hybrid,Alaskans are eligible for the Permanent Fund Dividend,invalid
 qa,573128b3497a881900248be9,llm,a slum,Laurentide Ice Sheet
-qa,573128b3497a881900248be9,rag_bm25,I don't know,Laurentide Ice Sheet
-qa,573128b3497a881900248be9,rag_dense,the southwestern corner of Egypt,Laurentide Ice Sheet
-qa,573128b3497a881900248be9,rag_hybrid,Alaska,Laurentide Ice Sheet
+qa,573128b3497a881900248be9,rag_bm25,London Corporation,Laurentide Ice Sheet
+qa,573128b3497a881900248be9,rag_dense,"Alaska was a glacial refugia because it had low snowfall, allowing a small population to exist",Laurentide Ice Sheet
+qa,573128b3497a881900248be9,rag_hybrid,Israel,Laurentide Ice Sheet
 qa,56d00567234ae51400d9c275,llm,baseball,Baseball
-qa,56d00567234ae51400d9c275,rag_bm25,"New York is a city, it is not a city.",Baseball
-qa,56d00567234ae51400d9c275,rag_dense,"New York City teams have won a record of 27 championships, while the Mets have won the World Series twice.",Baseball
-qa,56d00567234ae51400d9c275,rag_hybrid,I don't know,Baseball
+qa,56d00567234ae51400d9c275,rag_bm25,[3],Baseball
+qa,56d00567234ae51400d9c275,rag_dense,[3],Baseball
+qa,56d00567234ae51400d9c275,rag_hybrid,Toronto Blue Jays,Baseball
 qa,57319323a5e9cc1400cdc0f3,llm,a 'flag',Not Free
-qa,57319323a5e9cc1400cdc0f3,rag_bm25,[1],Not Free
-qa,57319323a5e9cc1400cdc0f3,rag_dense,Libyans,Not Free
-qa,57319323a5e9cc1400cdc0f3,rag_hybrid,Mahmoud Jibril,Not Free
+qa,57319323a5e9cc1400cdc0f3,rag_bm25,Spicheren,Not Free
+qa,57319323a5e9cc1400cdc0f3,rag_dense,George W. Bush,Not Free
+qa,57319323a5e9cc1400cdc0f3,rag_hybrid,Egyptian,Not Free
 qa,570dea310b85d914000d7bcb,llm,less,less
 qa,570dea310b85d914000d7bcb,rag_bm25,Dumbwaiters is a common characteristic of adolescents,less
 qa,570dea310b85d914000d7bcb,rag_dense,Venezuelans who emigrated to the United States,less
-qa,570dea310b85d914000d7bcb,rag_hybrid,Dumbwaiters),less
+qa,570dea310b85d914000d7bcb,rag_hybrid,BYU,less
 qa,56cc07886d243a140015ee66,llm,2,six
-qa,56cc07886d243a140015ee66,rag_bm25,Eisenhower,six
-qa,56cc07886d243a140015ee66,rag_dense,[2],six
+qa,56cc07886d243a140015ee66,rag_bm25,BYU,six
+qa,56cc07886d243a140015ee66,rag_dense,Catholic,six
 qa,56cc07886d243a140015ee66,rag_hybrid,[3],six
 qa,572828b12ca10214002d9f81,llm,brains,in the peristomium or sometimes the first segment behind the peristomium
 qa,572828b12ca10214002d9f81,rag_bm25,[3],in the peristomium or sometimes the first segment behind the peristomium
-qa,572828b12ca10214002d9f81,rag_dense,I don't know,in the peristomium or sometimes the first segment behind the peristomium
+qa,572828b12ca10214002d9f81,rag_dense,[3],in the peristomium or sometimes the first segment behind the peristomium
 qa,572828b12ca10214002d9f81,rag_hybrid,mammals,in the peristomium or sometimes the first segment behind the peristomium
 qa,56e7a2d137bdd419002c42ac,llm,Nanjing,Ming
 qa,56e7a2d137bdd419002c42ac,rag_bm25,"Hunyadi succeeded during the Siege of Belgrade in 1456 against the Ottomans, the biggest victory against that empire in decades",Ming
@@ -713,127 +713,127 @@ qa,56e7a2d137bdd419002c42ac,rag_dense,I don't know,Ming
 qa,56e7a2d137bdd419002c42ac,rag_hybrid,Seattle area developed as a technology center,Ming
 qa,571024d8b654c5140001f861,llm,South Dakota,Kansas
 qa,571024d8b654c5140001f861,rag_bm25,"death penalty is unnecessarily barbaric in nature, cheapens human life, and puts a government on the same base moral level as those criminals involved in murder.",Kansas
-qa,571024d8b654c5140001f861,rag_dense,"Nevada had executed the 12 prisoners who Nevada has executed since 1976, 11 waived their rights to appeal.",Kansas
+qa,571024d8b654c5140001f861,rag_dense,I don't know,Kansas
 qa,571024d8b654c5140001f861,rag_hybrid,[3],Kansas
 qa,57266d3cf1498d1400e8df5c,llm,I don't know.,Everybody
 qa,57266d3cf1498d1400e8df5c,rag_bm25,[3],Everybody
 qa,57266d3cf1498d1400e8df5c,rag_dense,[3],Everybody
-qa,57266d3cf1498d1400e8df5c,rag_hybrid,[2],Everybody
+qa,57266d3cf1498d1400e8df5c,rag_hybrid,[3],Everybody
 qa,572f4a5fb2c2fd1400567fe8,llm,a saline saline,green and leaf-like
 qa,572f4a5fb2c2fd1400567fe8,rag_bm25,[2],green and leaf-like
 qa,572f4a5fb2c2fd1400567fe8,rag_dense,shawl,green and leaf-like
 qa,572f4a5fb2c2fd1400567fe8,rag_hybrid,[2],green and leaf-like
 qa,572845213acd2414000df821,llm,I don't know.,"Russians believed that bombers would soon be vulnerable, and they shared von Neumann's view that an H-bomb in an ICBM was the ne plus ultra of weapons"
-qa,572845213acd2414000df821,rag_bm25,MAD,"Russians believed that bombers would soon be vulnerable, and they shared von Neumann's view that an H-bomb in an ICBM was the ne plus ultra of weapons"
-qa,572845213acd2414000df821,rag_dense,a Franco-British naval force captured and destroyed the Russian Bomarsund fortress on land Islands,"Russians believed that bombers would soon be vulnerable, and they shared von Neumann's view that an H-bomb in an ICBM was the ne plus ultra of weapons"
+qa,572845213acd2414000df821,rag_bm25,ICBMs,"Russians believed that bombers would soon be vulnerable, and they shared von Neumann's view that an H-bomb in an ICBM was the ne plus ultra of weapons"
+qa,572845213acd2414000df821,rag_dense,[4],"Russians believed that bombers would soon be vulnerable, and they shared von Neumann's view that an H-bomb in an ICBM was the ne plus ultra of weapons"
 qa,572845213acd2414000df821,rag_hybrid,German soldiers were spotted in Forbach,"Russians believed that bombers would soon be vulnerable, and they shared von Neumann's view that an H-bomb in an ICBM was the ne plus ultra of weapons"
 qa,5726d382708984140094d28d,llm,a sex scandal,the question of being
-qa,5726d382708984140094d28d,rag_bm25,[3],the question of being
+qa,5726d382708984140094d28d,rag_bm25,[4],the question of being
 qa,5726d382708984140094d28d,rag_dense,Monastic reform inspired change in the secular church,the question of being
 qa,5726d382708984140094d28d,rag_hybrid,rites,the question of being
 qa,57281b783acd2414000df4a7,llm,I don't know.,lowland gorillas
-qa,57281b783acd2414000df4a7,rag_bm25,Religious Organization,lowland gorillas
+qa,57281b783acd2414000df4a7,rag_bm25,ecclesiastically endorse the honor code,lowland gorillas
 qa,57281b783acd2414000df4a7,rag_dense,fungi,lowland gorillas
-qa,57281b783acd2414000df4a7,rag_hybrid,fungi,lowland gorillas
+qa,57281b783acd2414000df4a7,rag_hybrid,fungi are also endemic to Antarctica,lowland gorillas
 qa,572822c9ff5b5019007d9dcd,llm,1891,2002
 qa,572822c9ff5b5019007d9dcd,rag_bm25,[3],2002
 qa,572822c9ff5b5019007d9dcd,rag_dense,[3],2002
-qa,572822c9ff5b5019007d9dcd,rag_hybrid,"English words, was a great pleasure to have",2002
+qa,572822c9ff5b5019007d9dcd,rag_hybrid,[3],2002
 qa,572aadae34ae481900deac29,llm,I don't know.,Mount Airy
 qa,572aadae34ae481900deac29,rag_bm25,"The Estonian Cultural Autonomy law that was passed in 1925 was unique in Europe at that time. Cultural autonomy could be granted to minorities numbering more than 3,000 people with longstanding ties to the Republic of Estonia. Before the Soviet occupation, the Germans and Jewish minorities managed to elect a cultural council. The Law on Cultural Autonomy for National Minorities was reinstated in 1993. Historically, large parts of Estonia's northwestern coast and islands have been populated by indigenous ethnically Rannarootslased (Coastal Swedes)",Mount Airy
 qa,572aadae34ae481900deac29,rag_dense,Jewish and Russians,Mount Airy
 qa,572aadae34ae481900deac29,rag_hybrid,Santa Monica Bay,Mount Airy
 qa,5726d15cdd62a815002e9134,llm,a show,work exclusively online
-qa,5726d15cdd62a815002e9134,rag_bm25,[3],work exclusively online
+qa,5726d15cdd62a815002e9134,rag_bm25,"London, was renamed after Boston, Lincolnshire, England, the origin of several prominent colonists.",work exclusively online
 qa,5726d15cdd62a815002e9134,rag_dense,Guaranda (Bolivar province) and Ambato (Tungurahua province),work exclusively online
-qa,5726d15cdd62a815002e9134,rag_hybrid,[4],work exclusively online
+qa,5726d15cdd62a815002e9134,rag_hybrid,"Cara Cusumano stated in April 2014: ""Piracy is less about people not wanting to pay and more about just wanting the immediacy – people saying, 'I want to watch Spiderman right now' and downloading it"".",work exclusively online
 qa,5726ceaa5951b619008f7e94,llm,Russia,Ottoman Empire of the Tsar's
-qa,5726ceaa5951b619008f7e94,rag_bm25,Turner Classic Movies),Ottoman Empire of the Tsar's
-qa,5726ceaa5951b619008f7e94,rag_dense,Russia to restructure the Soviet Union into a federation of independent republics,Ottoman Empire of the Tsar's
-qa,5726ceaa5951b619008f7e94,rag_hybrid,Britain to join the Red Army,Ottoman Empire of the Tsar's
+qa,5726ceaa5951b619008f7e94,rag_bm25,Britain,Ottoman Empire of the Tsar's
+qa,5726ceaa5951b619008f7e94,rag_dense,the Ottoman Empire of the Tsar,Ottoman Empire of the Tsar's
+qa,5726ceaa5951b619008f7e94,rag_hybrid,"Russia, the Partisans prepared and executed a massive general offensive which succeeded in breaking through German lines and forcing a retreat beyond Yugoslav borders",Ottoman Empire of the Tsar's
 qa,572ffa37947a6a140053cecb,llm,a century,three centuries
-qa,572ffa37947a6a140053cecb,rag_bm25,U.S.,three centuries
+qa,572ffa37947a6a140053cecb,rag_bm25,Japan,three centuries
 qa,572ffa37947a6a140053cecb,rag_dense,Alexander the Great,three centuries
-qa,572ffa37947a6a140053cecb,rag_hybrid,Roman society,three centuries
+qa,572ffa37947a6a140053cecb,rag_hybrid,the Assyrian Empire,three centuries
 qa,5733c3184776f419006611c2,llm,Notre Dame,Under Armour
-qa,5733c3184776f419006611c2,rag_bm25,BBC Northern Ireland),Under Armour
-qa,5733c3184776f419006611c2,rag_dense,Western Athletic Conference,Under Armour
+qa,5733c3184776f419006611c2,rag_bm25,I don't know,Under Armour
+qa,5733c3184776f419006611c2,rag_dense,"The University of Notre Dame and Under Armour reached an agreement in which Under Armour will provide uniforms, apparel,equipment, and monetary compensation to Notre Dame for 10 years.",Under Armour
 qa,5733c3184776f419006611c2,rag_hybrid,[3],Under Armour
 qa,56f74ffaa6d7ea1400e1719d,llm,I don't know.,automatically terminated
 qa,56f74ffaa6d7ea1400e1719d,rag_bm25,[3],automatically terminated
-qa,56f74ffaa6d7ea1400e1719d,rag_dense,conflict began.,automatically terminated
+qa,56f74ffaa6d7ea1400e1719d,rag_dense,automatically terminated,automatically terminated
 qa,56f74ffaa6d7ea1400e1719d,rag_hybrid,a criminal,automatically terminated
 qa,56f8e31d9b226e1400dd118e,llm,Guinea-Bissau,the Francophonie
-qa,56f8e31d9b226e1400dd118e,rag_bm25,[3],the Francophonie
+qa,56f8e31d9b226e1400dd118e,rag_bm25,Knowles,the Francophonie
 qa,56f8e31d9b226e1400dd118e,rag_dense,I don't know,the Francophonie
-qa,56f8e31d9b226e1400dd118e,rag_hybrid,"""",the Francophonie
+qa,56f8e31d9b226e1400dd118e,rag_hybrid,I don't know,the Francophonie
 qa,56e13ab5e3433e1400422ce0,llm,1897,1700
 qa,56e13ab5e3433e1400422ce0,rag_bm25,"the literary life of Paris revolved around the cafés and salons, and was dominated by Voltaire, Jean-Jacques Rousseau, Pierre de Marivaux, and Beaumarchais.",1700
-qa,56e13ab5e3433e1400422ce0,rag_dense,[3],1700
+qa,56e13ab5e3433e1400422ce0,rag_dense,[2],1700
 qa,56e13ab5e3433e1400422ce0,rag_hybrid,[4],1700
 qa,56e14538e3433e1400422d21,llm,I don't know,General Council of the Pyrénées-Orientales
-qa,56e14538e3433e1400422d21,rag_bm25,Vietnam War,General Council of the Pyrénées-Orientales
-qa,56e14538e3433e1400422d21,rag_dense,I don't know.,General Council of the Pyrénées-Orientales
+qa,56e14538e3433e1400422d21,rag_bm25,"TASS, the Allied advance was able to break through German lines and force a retreat beyond Yugoslav borders.",General Council of the Pyrénées-Orientales
+qa,56e14538e3433e1400422d21,rag_dense,General Council of the Pyrénées-Orientales,General Council of the Pyrénées-Orientales
 qa,56e14538e3433e1400422d21,rag_hybrid,[3],General Council of the Pyrénées-Orientales
 qa,572e87bedfa6aa1500f8d0ce,llm,he was a sailor,approach time reversibility and other fundamental processes
 qa,572e87bedfa6aa1500f8d0ce,rag_bm25,Barbara Baker has said he informed her of his father's death without emotion and that he never spoke of his brother,approach time reversibility and other fundamental processes
-qa,572e87bedfa6aa1500f8d0ce,rag_dense,"Spencer, used analogy from natural selection as an argument against government intervention in the economy to benefit the poor",approach time reversibility and other fundamental processes
+qa,572e87bedfa6aa1500f8d0ce,rag_dense,aether theories,approach time reversibility and other fundamental processes
 qa,572e87bedfa6aa1500f8d0ce,rag_hybrid,[3],approach time reversibility and other fundamental processes
 qa,5727d7e3ff5b5019007d96b7,llm,The New York Times,Walter Bagehot's Physics and Politics (1872)
 qa,5727d7e3ff5b5019007d96b7,rag_bm25,"The Ottoman Empire, which had begun taking on debt with the Crimean War, was forced to declare bankruptcy in 1875.",Walter Bagehot's Physics and Politics (1872)
-qa,5727d7e3ff5b5019007d96b7,rag_dense,anthropologists and biologists,Walter Bagehot's Physics and Politics (1872)
-qa,5727d7e3ff5b5019007d96b7,rag_hybrid,anthropologists and biologists,Walter Bagehot's Physics and Politics (1872)
+qa,5727d7e3ff5b5019007d96b7,rag_dense,anthropologist,Walter Bagehot's Physics and Politics (1872)
+qa,5727d7e3ff5b5019007d96b7,rag_hybrid,Darwin,Walter Bagehot's Physics and Politics (1872)
 qa,572778a2708984140094de89,llm,a senate,European countries
 qa,572778a2708984140094de89,rag_bm25,French as an official language,European countries
 qa,572778a2708984140094de89,rag_dense,I don't know,European countries
-qa,572778a2708984140094de89,rag_hybrid,Israel,European countries
+qa,572778a2708984140094de89,rag_hybrid,a crime,European countries
 qa,5709cbff6d058f1900182bb0,llm,a stagflation and the decline of the U.S. dollar,increase the money supply
 qa,5709cbff6d058f1900182bb0,rag_bm25,German,increase the money supply
 qa,5709cbff6d058f1900182bb0,rag_dense,[3],increase the money supply
 qa,5709cbff6d058f1900182bb0,rag_hybrid,[3],increase the money supply
 qa,572a3398af94a219006aa88d,llm,a syringe,"cereal grains, plants and to a variable extent domesticated animals and animal products."
-qa,572a3398af94a219006aa88d,rag_bm25,British government's reliance on the British government's reliance on the British government's reliance on the British government's reliance on the British government's reliance on the British government's reliance on the British government's reliance on the British government's reliance on the British government's reliance on the British government's reliance on the British government's reliance on the British government's reliance on the British government's reliance on the British government's reliance on the British government's reliance on the British government's reliance on the,"cereal grains, plants and to a variable extent domesticated animals and animal products."
+qa,572a3398af94a219006aa88d,rag_bm25,"agrarian diets vary by region, season, available local plant and animal resources and degree of pastoralism and hunting","cereal grains, plants and to a variable extent domesticated animals and animal products."
 qa,572a3398af94a219006aa88d,rag_dense,increase yields,"cereal grains, plants and to a variable extent domesticated animals and animal products."
-qa,572a3398af94a219006aa88d,rag_hybrid,agrarian diets,"cereal grains, plants and to a variable extent domesticated animals and animal products."
+qa,572a3398af94a219006aa88d,rag_hybrid,rely on agricultural diversity to replant the land with something new,"cereal grains, plants and to a variable extent domesticated animals and animal products."
 qa,57277c71dd62a815002e9e65,llm,Grauman's Chinese Theater,Grauman's Egyptian Theater
 qa,57277c71dd62a815002e9e65,rag_bm25,[3],Grauman's Egyptian Theater
-qa,57277c71dd62a815002e9e65,rag_dense,"TCM, the film industry is a mix of Indochinese (Burma, Cambodia, Laos and Thailand) and Chinese (Singapore and Vietnam).",Grauman's Egyptian Theater
+qa,57277c71dd62a815002e9e65,rag_dense,Hollywood,Grauman's Egyptian Theater
 qa,57277c71dd62a815002e9e65,rag_hybrid,"TCM, the film industry is a mix of Indochinese (Burma, Cambodia, Laos and Thailand) and Chinese (Singapore and Vietnam).",Grauman's Egyptian Theater
 qa,5729606d1d0469140077934b,llm,I don't know.,to ignore the test results
 qa,5729606d1d0469140077934b,rag_bm25,I don't know,to ignore the test results
 qa,5729606d1d0469140077934b,rag_dense,[3],to ignore the test results
-qa,5729606d1d0469140077934b,rag_hybrid,NBCUniversal was in talks to buy NBCUniversal.,to ignore the test results
+qa,5729606d1d0469140077934b,rag_hybrid,[3],to ignore the test results
 qa,56f9df829b226e1400dd15d8,llm,"December 1, 2001",1983
-qa,56f9df829b226e1400dd15d8,rag_bm25,[3],1983
-qa,56f9df829b226e1400dd15d8,rag_dense,I don't know,1983
-qa,56f9df829b226e1400dd15d8,rag_hybrid,[3],1983
+qa,56f9df829b226e1400dd15d8,rag_bm25,[4],1983
+qa,56f9df829b226e1400dd15d8,rag_dense,Europe,1983
+qa,56f9df829b226e1400dd15d8,rag_hybrid,Alexandra Palace,1983
 qa,56cfeae2234ae51400d9c0b9,llm,I don't know.,Church of the Madeleine
-qa,56cfeae2234ae51400d9c0b9,rag_bm25,Greeks,Church of the Madeleine
-qa,56cfeae2234ae51400d9c0b9,rag_dense,"Charles Dickinson, died in London in 1837",Church of the Madeleine
-qa,56cfeae2234ae51400d9c0b9,rag_hybrid,"Charles Dickens, was a composer and composer",Church of the Madeleine
+qa,56cfeae2234ae51400d9c0b9,rag_bm25,[3],Church of the Madeleine
+qa,56cfeae2234ae51400d9c0b9,rag_dense,[3],Church of the Madeleine
+qa,56cfeae2234ae51400d9c0b9,rag_hybrid,3],Church of the Madeleine
 qa,56cf593eaab44d1400b890bf,llm,"University of California, Berkeley",University of Notre Dame
-qa,56cf593eaab44d1400b890bf,rag_bm25,[3],University of Notre Dame
+qa,56cf593eaab44d1400b890bf,rag_bm25,"'s been a gift to the entire world. As a model of good writing and humane sensibility, this book will be read and studied forever.""",University of Notre Dame
 qa,56cf593eaab44d1400b890bf,rag_dense,Departments of study,University of Notre Dame
 qa,56cf593eaab44d1400b890bf,rag_hybrid,[3],University of Notre Dame
 qa,56f75185aef2371900625b0b,llm,1899,2007
 qa,56f75185aef2371900625b0b,rag_bm25,[3],2007
-qa,56f75185aef2371900625b0b,rag_dense,Ostsiedlung),2007
-qa,56f75185aef2371900625b0b,rag_hybrid,[3],2007
+qa,56f75185aef2371900625b0b,rag_dense,"Slavic languages have not undergone the deliberate highlighting of minor linguistic differences in the name of nationalism as has occurred in the Bosnian, Serbian and Croatian standards of Serbo-Croatian",2007
+qa,56f75185aef2371900625b0b,rag_hybrid,3,2007
 qa,57270e2b708984140094d90d,llm,a dimmer,very high absorption
-qa,57270e2b708984140094d90d,rag_bm25,a capacitor,very high absorption
-qa,57270e2b708984140094d90d,rag_dense,Pomerania,very high absorption
-qa,57270e2b708984140094d90d,rag_hybrid,a capacitor,very high absorption
+qa,57270e2b708984140094d90d,rag_bm25,[3],very high absorption
+qa,57270e2b708984140094d90d,rag_dense,[3],very high absorption
+qa,57270e2b708984140094d90d,rag_hybrid,[3],very high absorption
 qa,5726afd2dd62a815002e8cf8,llm,a slender slender,polygonal
-qa,5726afd2dd62a815002e8cf8,rag_bm25,hemlock,polygonal
-qa,5726afd2dd62a815002e8cf8,rag_dense,Gulf of Mexico,polygonal
-qa,5726afd2dd62a815002e8cf8,rag_hybrid,Europe,polygonal
+qa,5726afd2dd62a815002e8cf8,rag_bm25,insect attacks,polygonal
+qa,5726afd2dd62a815002e8cf8,rag_dense,"museums, public museums",polygonal
+qa,5726afd2dd62a815002e8cf8,rag_hybrid,I don't know,polygonal
 qa,5727f0a62ca10214002d9a06,llm,1830,the 12th century
 qa,5727f0a62ca10214002d9a06,rag_bm25,143 universities,the 12th century
 qa,5727f0a62ca10214002d9a06,rag_dense,Greek and Arabic texts,the 12th century
-qa,5727f0a62ca10214002d9a06,rag_hybrid,143 universities,the 12th century
+qa,5727f0a62ca10214002d9a06,rag_hybrid,Greek and Arabic texts,the 12th century
 qa,572623d0ec44d21400f3d95d,llm,Japan,Korean police force
 qa,572623d0ec44d21400f3d95d,rag_bm25,Barbara Baker,Korean police force
-qa,572623d0ec44d21400f3d95d,rag_dense,[3],Korean police force
+qa,572623d0ec44d21400f3d95d,rag_dense,Northern Marianas were occupied by the Japanese military,Korean police force
 qa,572623d0ec44d21400f3d95d,rag_hybrid,[3],Korean police force
 qa,57275b6edd62a815002e9ba8,llm,Because it was cold.,to make sure that fertility could return in spring
 qa,57275b6edd62a815002e9ba8,rag_bm25,"Von Neumann entered government service (Manhattan Project) primarily because he felt that, if freedom and civilization were to survive, it would have to be because the US would triumph over totalitarianism from Nazism, Fascism and Soviet Communism.",to make sure that fertility could return in spring
@@ -848,63 +848,63 @@ qa,57282bb1ff5b5019007d9e75,rag_bm25,Soviets were doing similar work because the
 qa,57282bb1ff5b5019007d9e75,rag_dense,[3],von Neumann did not claim that his proof completely ruled out hidden variable theories
 qa,57282bb1ff5b5019007d9e75,rag_hybrid,Soviets were doing similar work because the CIA interviewed German rocket scientists who were allowed to return to Germany,von Neumann did not claim that his proof completely ruled out hidden variable theories
 qa,570e1a2a0dc6ce1900204dbf,llm,ten,1150
-qa,570e1a2a0dc6ce1900204dbf,rag_bm25,fungi,1150
-qa,570e1a2a0dc6ce1900204dbf,rag_dense,fungi,1150
-qa,570e1a2a0dc6ce1900204dbf,rag_hybrid,fungi,1150
+qa,570e1a2a0dc6ce1900204dbf,rag_bm25,marine fishes,1150
+qa,570e1a2a0dc6ce1900204dbf,rag_dense,"Xylophaga may play a role in the degradation of sunken wood; while bacteria such as Alphaproteobacteria, Flavobacteria, Actinobacteria, Clostridia, and Bacteroidetes have been detected in wood submerged over a year.",1150
+qa,570e1a2a0dc6ce1900204dbf,rag_hybrid,marine fishes,1150
 qa,573059852461fd1900a9cdb7,llm,I don't know.,the stoppage of the Daily Worker and The Week; the Communist newspaper and journal.
-qa,573059852461fd1900a9cdb7,rag_bm25,"May 21, 1988, Kamran Baghirov was replaced by Abdulrahman Vezirov as First Secretary of the Azerbaijan Communist Party",the stoppage of the Daily Worker and The Week; the Communist newspaper and journal.
-qa,573059852461fd1900a9cdb7,rag_dense,"Bleiburg""",the stoppage of the Daily Worker and The Week; the Communist newspaper and journal.
-qa,573059852461fd1900a9cdb7,rag_hybrid,"May 21, 1988, Kamran Baghirov was replaced by Abdulrahman Vezirov as First Secretary of the Azerbaijan Communist Party",the stoppage of the Daily Worker and The Week; the Communist newspaper and journal.
+qa,573059852461fd1900a9cdb7,rag_bm25,"Coventry Blitz"" was deemed important enough for Herbert Morrison to order, with the support of the Cabinet, the stoppage of the Daily Worker and The Week; the Communist newspaper and journal.",the stoppage of the Daily Worker and The Week; the Communist newspaper and journal.
+qa,573059852461fd1900a9cdb7,rag_dense,[3],the stoppage of the Daily Worker and The Week; the Communist newspaper and journal.
+qa,573059852461fd1900a9cdb7,rag_hybrid,[3],the stoppage of the Daily Worker and The Week; the Communist newspaper and journal.
 qa,56d37bf859d6e414001464f6,llm,"$500,000",$45 million
 qa,56d37bf859d6e414001464f6,rag_bm25,[3],$45 million
 qa,56d37bf859d6e414001464f6,rag_dense,[3],$45 million
-qa,56d37bf859d6e414001464f6,rag_hybrid,a Constitution that states that the United States should have a Constitution that states that the United States should have a Constitution that states that the United States should have a Constitution that states that the United States should have a Constitution that states that the United States should have a Constitution that states that the United States should have a Constitution that states that the United States should have a Constitution that states that the United States should have a Constitution that states that the United States should have a Constitution that states that the United States should have a Constitution that states that the United States should have a Constitution that states that the,$45 million
+qa,56d37bf859d6e414001464f6,rag_hybrid,[3],$45 million
 qa,56df61a08bc80c19004e4b78,llm,John C. Kennedy,Sir Patrick Abercrombie
-qa,56df61a08bc80c19004e4b78,rag_bm25,a graze to the head from a policeman's bullet,Sir Patrick Abercrombie
-qa,56df61a08bc80c19004e4b78,rag_dense,Plymouth's population,Sir Patrick Abercrombie
-qa,56df61a08bc80c19004e4b78,rag_hybrid,Nasser,Sir Patrick Abercrombie
+qa,56df61a08bc80c19004e4b78,rag_bm25,[2],Sir Patrick Abercrombie
+qa,56df61a08bc80c19004e4b78,rag_dense,28 parks with an average size of [2],Sir Patrick Abercrombie
+qa,56df61a08bc80c19004e4b78,rag_hybrid,[2],Sir Patrick Abercrombie
 qa,5728f93c4b864d190016514a,llm,I don't know.,Patrick Modiano
-qa,5728f93c4b864d190016514a,rag_bm25,I don't know,Patrick Modiano
-qa,5728f93c4b864d190016514a,rag_dense,[3],Patrick Modiano
+qa,5728f93c4b864d190016514a,rag_bm25,[4],Patrick Modiano
+qa,5728f93c4b864d190016514a,rag_dense,[2],Patrick Modiano
 qa,5728f93c4b864d190016514a,rag_hybrid,[3],Patrick Modiano
 qa,572772ab708984140094ddcb,llm,Because the plaintiffs were a sex dealer.,the Students for Fair Admissions lawsuit makes similar allegations
-qa,572772ab708984140094ddcb,rag_bm25,India,the Students for Fair Admissions lawsuit makes similar allegations
+qa,572772ab708984140094ddcb,rag_bm25,Harvard students,the Students for Fair Admissions lawsuit makes similar allegations
 qa,572772ab708984140094ddcb,rag_dense,"A.L.A. Schechter Poultry Corp. v. United States, 295 U.S. 495 (1935), Congress could not authorize the president to formulate codes of ""fair competition.""",the Students for Fair Admissions lawsuit makes similar allegations
-qa,572772ab708984140094ddcb,rag_hybrid,"Arnold Schwarzenegger, he was able to return to his father's funeral.",the Students for Fair Admissions lawsuit makes similar allegations
+qa,572772ab708984140094ddcb,rag_hybrid,"over the issue, turned to the Communist Party.",the Students for Fair Admissions lawsuit makes similar allegations
 qa,56d347fb59d6e4140014629f,llm,May,December
-qa,56d347fb59d6e4140014629f,rag_bm25,Paris apartment,December
-qa,56d347fb59d6e4140014629f,rag_dense,Paris apartment,December
-qa,56d347fb59d6e4140014629f,rag_hybrid,Paris apartment,December
+qa,56d347fb59d6e4140014629f,rag_bm25,French,December
+qa,56d347fb59d6e4140014629f,rag_dense,[3],December
+qa,56d347fb59d6e4140014629f,rag_hybrid,Sand,December
 qa,572fb32704bcaa1900d76c05,llm,a data breach,unauthorized users from viewing or updating the database
-qa,572fb32704bcaa1900d76c05,rag_bm25,eat them,unauthorized users from viewing or updating the database
-qa,572fb32704bcaa1900d76c05,rag_dense,"Astra 2D satellite was able to receive BBC channels ""free-to-air"" over much of Western Europe",unauthorized users from viewing or updating the database
-qa,572fb32704bcaa1900d76c05,rag_hybrid,British MI5,unauthorized users from viewing or updating the database
+qa,572fb32704bcaa1900d76c05,rag_bm25,plants,unauthorized users from viewing or updating the database
+qa,572fb32704bcaa1900d76c05,rag_dense,Astra 2D,unauthorized users from viewing or updating the database
+qa,572fb32704bcaa1900d76c05,rag_hybrid,IBM announced that company executives would forgo bonuses for fiscal year 2013.,unauthorized users from viewing or updating the database
 qa,572e9100c246551400ce4351,llm,U.S. National Bird Protection Act,Bald Eagle Protection Act of 1940
-qa,572e9100c246551400ce4351,rag_bm25,[4],Bald Eagle Protection Act of 1940
+qa,572e9100c246551400ce4351,rag_bm25,The Constitution provides that Congress is able to provide for the United States to provide for the United States to provide for the United States to provide for the United States to provide for the United States to provide for the United States to provide for the United States to provide for the United States to provide for the United States to provide for the United States to provide for the United States to provide for the United States to provide for the United States to provide for the United States to provide for the United States to provide for the United States to provide for the United States to provide for the United States to provide for the United States to provide for the United States,Bald Eagle Protection Act of 1940
 qa,572e9100c246551400ce4351,rag_dense,Hunting,Bald Eagle Protection Act of 1940
 qa,572e9100c246551400ce4351,rag_hybrid,The Lacey Act of 1900,Bald Eagle Protection Act of 1940
 qa,56cee6a3aab44d1400b88c3b,llm,1897,1898
-qa,56cee6a3aab44d1400b88c3b,rag_bm25,[3],1898
+qa,56cee6a3aab44d1400b88c3b,rag_bm25,New York City were able to compete in the World Series,1898
 qa,56cee6a3aab44d1400b88c3b,rag_dense,New York City,1898
-qa,56cee6a3aab44d1400b88c3b,rag_hybrid,New York City,1898
+qa,56cee6a3aab44d1400b88c3b,rag_hybrid,New York City in 1898,1898
 qa,57310199a5e9cc1400cdbb94,llm,a.,inequality
-qa,57310199a5e9cc1400cdbb94,rag_bm25,I don't know,inequality
-qa,57310199a5e9cc1400cdbb94,rag_dense,Nigerian GDP,inequality
+qa,57310199a5e9cc1400cdbb94,rag_bm25,Canada,inequality
+qa,57310199a5e9cc1400cdbb94,rag_dense,Nigerian economy,inequality
 qa,57310199a5e9cc1400cdbb94,rag_hybrid,[3],inequality
 qa,570d45acb3d812140066d613,llm,architecture,modern
-qa,570d45acb3d812140066d613,rag_bm25,Alvin Plantinga,modern
+qa,570d45acb3d812140066d613,rag_bm25,[3],modern
 qa,570d45acb3d812140066d613,rag_dense,[3],modern
-qa,570d45acb3d812140066d613,rag_hybrid,"George V's wife Queen Mary was a connoisseur of the arts, and took a keen interest in the Royal Collection of furniture and art, both restoring and adding to it.",modern
+qa,570d45acb3d812140066d613,rag_hybrid,[2],modern
 qa,5726e257708984140094d4b5,llm,1897,1964
 qa,5726e257708984140094d4b5,rag_bm25,Catholic Church,1964
-qa,5726e257708984140094d4b5,rag_dense,"Pope Gregory VII and Emperor Henry IV, who initially clashed over episcopal appointments",1964
-qa,5726e257708984140094d4b5,rag_hybrid,English Separatist,1964
+qa,5726e257708984140094d4b5,rag_dense,[3],1964
+qa,5726e257708984140094d4b5,rag_hybrid,Pope Leo XIII,1964
 qa,56fae0a58f12f31900630219,llm,Saint Paul,Minneapolis
 qa,56fae0a58f12f31900630219,rag_bm25,United States,Minneapolis
 qa,56fae0a58f12f31900630219,rag_dense,Brooklyn,Minneapolis
 qa,56fae0a58f12f31900630219,rag_hybrid,North Oklahoma City,Minneapolis
 qa,5727acb32ca10214002d9365,llm,"December 1, 2017",2034
-qa,5727acb32ca10214002d9365,rag_bm25,"Eisenhower's realism, he was unable to re-establish his position as president",2034
+qa,5727acb32ca10214002d9365,rag_bm25,Schwarzenegger,2034
 qa,5727acb32ca10214002d9365,rag_dense,the Swabian War of 1499,2034
 qa,5727acb32ca10214002d9365,rag_hybrid,Soviet Union,2034
 qa,5729f6b13f37b31900478619,llm,a tectonics drive,thermal energy
@@ -913,74 +913,74 @@ qa,5729f6b13f37b31900478619,rag_dense,Rocky Mountains,thermal energy
 qa,5729f6b13f37b31900478619,rag_hybrid,BYU's Museum of Art,thermal energy
 qa,5727ddfc3acd2414000dee7c,llm,after the Viking invasion,about 950
 qa,5727ddfc3acd2414000dee7c,rag_bm25,adolescence,about 950
-qa,5727ddfc3acd2414000dee7c,rag_dense,The Vikings established Danelaw over much of the eastern and northern part of England with its boundary roughly stretching from London to Chester,about 950
-qa,5727ddfc3acd2414000dee7c,rag_hybrid,"During the 18th century, brewers fought back by increasing the number of alehouses.",about 950
+qa,5727ddfc3acd2414000dee7c,rag_dense,I don't know,about 950
+qa,5727ddfc3acd2414000dee7c,rag_hybrid,gin,about 950
 qa,5725c87b89a1e219009abe9b,llm,ten,protecting millions of children from death at the hands of preventable diseases
 qa,5725c87b89a1e219009abe9b,rag_bm25,British government,protecting millions of children from death at the hands of preventable diseases
 qa,5725c87b89a1e219009abe9b,rag_dense,Chinese and Japanese descent,protecting millions of children from death at the hands of preventable diseases
-qa,5725c87b89a1e219009abe9b,rag_hybrid,British column,protecting millions of children from death at the hands of preventable diseases
+qa,5725c87b89a1e219009abe9b,rag_hybrid,German Army,protecting millions of children from death at the hands of preventable diseases
 qa,56de43294396321400ee2736,llm,The report was a rewrite of the report.,unavailability of certain crucial data
-qa,56de43294396321400ee2736,rag_bm25,3% limit was a requirement for the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of the granting of,unavailability of certain crucial data
-qa,56de43294396321400ee2736,rag_dense,Russia had previously obtained recognition from the Ottoman Empire of the Tsar's role as special guardian of the Orthodox Christians in Moldavia and Wallachia.,unavailability of certain crucial data
-qa,56de43294396321400ee2736,rag_hybrid,report was published in the journal of the International Business Times,unavailability of certain crucial data
+qa,56de43294396321400ee2736,rag_bm25,[1],unavailability of certain crucial data
+qa,56de43294396321400ee2736,rag_dense,unavailability of certain crucial data,unavailability of certain crucial data
+qa,56de43294396321400ee2736,rag_hybrid,Saudi Arabia,unavailability of certain crucial data
 qa,572771def1498d1400e8f84a,llm,I don't know.,Jewish sages
 qa,572771def1498d1400e8f84a,rag_bm25,European imperialism,Jewish sages
 qa,572771def1498d1400e8f84a,rag_dense,"Witnesses believe that the Bible condemns the mixing of religions, on the basis that there can only be one truth from God, and therefore reject interfaith and ecumenical movements. They believe that only their religion represents true Christianity, and that other religions fail to meet all the requirements set by God and will soon be destroyed.",Jewish sages
 qa,572771def1498d1400e8f84a,rag_hybrid,Jerusalem,Jewish sages
 qa,57313f7b497a881900248cd7,llm,Saxony,European states
 qa,57313f7b497a881900248cd7,rag_bm25,[3],European states
-qa,57313f7b497a881900248cd7,rag_dense,Chinese dynasty,European states
+qa,57313f7b497a881900248cd7,rag_dense,"British Empire, the x were a major factor in the growth of the economy.",European states
 qa,57313f7b497a881900248cd7,rag_hybrid,I don't know.,European states
 qa,570e67a80b85d914000d7e94,llm,Melbourne's population strategy,Melbourne @ Five Million strategy
-qa,570e67a80b85d914000d7e94,rag_bm25,CIA,Melbourne @ Five Million strategy
+qa,570e67a80b85d914000d7e94,rag_bm25,Greece) was a sovereign country,Melbourne @ Five Million strategy
 qa,570e67a80b85d914000d7e94,rag_dense,Hunting,Melbourne @ Five Million strategy
-qa,570e67a80b85d914000d7e94,rag_hybrid,I don't know,Melbourne @ Five Million strategy
+qa,570e67a80b85d914000d7e94,rag_hybrid,2000),Melbourne @ Five Million strategy
 qa,57340eded058e614000b68c6,llm,a few hundred miles,"1,430 km (889 mi)"
-qa,57340eded058e614000b68c6,rag_bm25,are the first trophic level.,"1,430 km (889 mi)"
-qa,57340eded058e614000b68c6,rag_dense,[4],"1,430 km (889 mi)"
-qa,57340eded058e614000b68c6,rag_hybrid,"Early Modern period, the universities of Europe would see a tremendous amount of growth, productivity and innovative research.","1,430 km (889 mi)"
+qa,57340eded058e614000b68c6,rag_bm25,I don't know,"1,430 km (889 mi)"
+qa,57340eded058e614000b68c6,rag_dense,[5],"1,430 km (889 mi)"
+qa,57340eded058e614000b68c6,rag_hybrid,I don't know,"1,430 km (889 mi)"
 qa,570b3f0fec8fbc190045b910,llm,"September 11, 2001",January 2002
 qa,570b3f0fec8fbc190045b910,rag_bm25,Second Boer War,January 2002
 qa,570b3f0fec8fbc190045b910,rag_dense,[2],January 2002
 qa,570b3f0fec8fbc190045b910,rag_hybrid,U.S. to combat the Filipino Islamist groups is to help the Philippines to combat the Filipino Islamist groups.,January 2002
 qa,57312bcd05b4da19006bce30,llm,a battle,triumph
-qa,57312bcd05b4da19006bce30,rag_bm25,a cloak,triumph
+qa,57312bcd05b4da19006bce30,rag_bm25,Schwarzenegger,triumph
 qa,57312bcd05b4da19006bce30,rag_dense,Roman general,triumph
 qa,57312bcd05b4da19006bce30,rag_hybrid,German soldiers from the 1st and 2nd armies charged up the heights,triumph
 qa,56cf1988aab44d1400b88d71,llm,Saltbox,Pieter Claesen Wyckoff House
 qa,56cf1988aab44d1400b88d71,rag_bm25,[3],Pieter Claesen Wyckoff House
-qa,56cf1988aab44d1400b88d71,rag_dense,corals,Pieter Claesen Wyckoff House
+qa,56cf1988aab44d1400b88d71,rag_dense,Salter's Hall controversy,Pieter Claesen Wyckoff House
 qa,56cf1988aab44d1400b88d71,rag_hybrid,Israel,Pieter Claesen Wyckoff House
 qa,573137fba5e9cc1400cdbd15,llm,a stag,rouge d'Adrinople
 qa,573137fba5e9cc1400cdbd15,rag_bm25,[3],rouge d'Adrinople
-qa,573137fba5e9cc1400cdbd15,rag_dense,"Several people from Strasbourg were incorporated in the German Army against their will, and were sent to the eastern front, those young men and women were called Malgré-nous. Many tried to escape from the incorporation, join the French Resistance, or desert the Wehrmacht but many couldn't because they were running the risk.",rouge d'Adrinople
+qa,573137fba5e9cc1400cdbd15,rag_dense,[3],rouge d'Adrinople
 qa,573137fba5e9cc1400cdbd15,rag_hybrid,Roman general,rouge d'Adrinople
 qa,5730168bb2c2fd140056883e,llm,President Carter,Ronald Reagan
-qa,5730168bb2c2fd140056883e,rag_bm25,IMF have helped the country to become a global market for oil and gas.,Ronald Reagan
+qa,5730168bb2c2fd140056883e,rag_bm25,Nigeria is the United States' largest trading partner in sub-Saharan Africa and the New York Giants,Ronald Reagan
 qa,5730168bb2c2fd140056883e,rag_dense,[3],Ronald Reagan
-qa,5730168bb2c2fd140056883e,rag_hybrid,"Russell's ministry, though",Ronald Reagan
+qa,5730168bb2c2fd140056883e,rag_hybrid,[3],Ronald Reagan
 qa,572e6ada03f9891900756686,llm,National Association of American Football,AllMusic
 qa,572e6ada03f9891900756686,rag_bm25,no-empirical domain of theology,AllMusic
 qa,572e6ada03f9891900756686,rag_dense,I don't know,AllMusic
-qa,572e6ada03f9891900756686,rag_hybrid,Mississippi prison,AllMusic
+qa,572e6ada03f9891900756686,rag_hybrid,James Madison and Thomas Jefferson,AllMusic
 qa,57069d2c75f01819005e7c4e,llm,2,three
-qa,57069d2c75f01819005e7c4e,rag_bm25,Michael Scotus,three
-qa,57069d2c75f01819005e7c4e,rag_dense,[3],three
+qa,57069d2c75f01819005e7c4e,rag_bm25,a total of 66,three
+qa,57069d2c75f01819005e7c4e,rag_dense,3,three
 qa,57069d2c75f01819005e7c4e,rag_hybrid,[3],three
 qa,572f97a804bcaa1900d76ac3,llm,I don't know.,A 3-digit sequence number
 qa,572f97a804bcaa1900d76ac3,rag_bm25,[3],A 3-digit sequence number
-qa,572f97a804bcaa1900d76ac3,rag_dense,[3],A 3-digit sequence number
+qa,572f97a804bcaa1900d76ac3,rag_dense,[5],A 3-digit sequence number
 qa,572f97a804bcaa1900d76ac3,rag_hybrid,[3],A 3-digit sequence number
 qa,570d3c0eb3d812140066d5a5,llm,New York City,"Fort Irwin, California"
-qa,570d3c0eb3d812140066d5a5,rag_bm25,South Oklahoma City,"Fort Irwin, California"
-qa,570d3c0eb3d812140066d5a5,rag_dense,North America,"Fort Irwin, California"
+qa,570d3c0eb3d812140066d5a5,rag_bm25,ARFORGEN,"Fort Irwin, California"
+qa,570d3c0eb3d812140066d5a5,rag_dense,"Fort Irwin, California","Fort Irwin, California"
 qa,570d3c0eb3d812140066d5a5,rag_hybrid,North America,"Fort Irwin, California"
 qa,573077742461fd1900a9ce38,llm,Because it is a place to live.,the vast expected hydrocarbons off the Greenlandic coast.
 qa,573077742461fd1900a9ce38,rag_bm25,[3],the vast expected hydrocarbons off the Greenlandic coast.
-qa,573077742461fd1900a9ce38,rag_dense,Nigeria was ranked 30th in the world,the vast expected hydrocarbons off the Greenlandic coast.
-qa,573077742461fd1900a9ce38,rag_hybrid,"France was very much interested in colonial expansion and was willing to exploit the vulnerability of Hanover in war against Great Britain, but it had no desire to divert forces to central Europe for Prussia's interest.",the vast expected hydrocarbons off the Greenlandic coast.
+qa,573077742461fd1900a9ce38,rag_dense,The vast natural resources of the island,the vast expected hydrocarbons off the Greenlandic coast.
+qa,573077742461fd1900a9ce38,rag_hybrid,I don't know,the vast expected hydrocarbons off the Greenlandic coast.
 qa,57285d3a3acd2414000df95c,llm,a slain slain slain slain slain slain slain slain slain slain slain slain slain slain slain slain slain slain slain slain slain slain slain slain slain slain slain slain slain slain slain s,King Porus
-qa,57285d3a3acd2414000df95c,rag_bm25,"Quebec Act of 1774, similarly intended to win over the loyalty of French Canadians, also spurred resentment among American colonists",King Porus
+qa,57285d3a3acd2414000df95c,rag_bm25,United States,King Porus
 qa,57285d3a3acd2414000df95c,rag_dense,Punjab,King Porus
 qa,57285d3a3acd2414000df95c,rag_hybrid,[3],King Porus
 qa,56de83454396321400ee29ba,llm,2,seven
@@ -988,13 +988,13 @@ qa,56de83454396321400ee29ba,rag_bm25,[3],seven
 qa,56de83454396321400ee29ba,rag_dense,[3],seven
 qa,56de83454396321400ee29ba,rag_hybrid,[3],seven
 qa,56de7a464396321400ee2942,llm,I don't know.,Mickey Mouse
-qa,56de7a464396321400ee2942,rag_bm25,NES was able to produce a syncing device.,Mickey Mouse
+qa,56de7a464396321400ee2942,rag_bm25,BBC,Mickey Mouse
 qa,56de7a464396321400ee2942,rag_dense,"BBC Television is a slang term, it is not a slang term.",Mickey Mouse
-qa,56de7a464396321400ee2942,rag_hybrid,"S4C is a slang term, it is not a slang term.",Mickey Mouse
+qa,56de7a464396321400ee2942,rag_hybrid,BBC Scotland,Mickey Mouse
 qa,570f8a7d5ab6b81900390f07,llm,No,Scientists do not know the exact cause of sexual orientation
 qa,570f8a7d5ab6b81900390f07,rag_bm25,"genetic, hormonal, and environmental influences are involved.",Scientists do not know the exact cause of sexual orientation
 qa,570f8a7d5ab6b81900390f07,rag_dense,Nazi eugenics program,Scientists do not know the exact cause of sexual orientation
-qa,570f8a7d5ab6b81900390f07,rag_hybrid,genes,Scientists do not know the exact cause of sexual orientation
+qa,570f8a7d5ab6b81900390f07,rag_hybrid,"genetic factors, the early uterine environment, both, or the inclusion of genetic and social factors",Scientists do not know the exact cause of sexual orientation
 qa,5726c86bf1498d1400e8eb21,llm,I don't know,Norfolk TV
 qa,5726c86bf1498d1400e8eb21,rag_bm25,[4],Norfolk TV
 qa,5726c86bf1498d1400e8eb21,rag_dense,[4],Norfolk TV
@@ -1004,25 +1004,25 @@ qa,56f8e8659e9bad19000a06f6,rag_bm25,Indus Valley Civilization,the Balkan region
 qa,56f8e8659e9bad19000a06f6,rag_dense,Byzantine Empire,the Balkan region
 qa,56f8e8659e9bad19000a06f6,rag_hybrid,I don't know.,the Balkan region
 qa,5731320c497a881900248c42,llm,China,Ming
-qa,5731320c497a881900248c42,rag_bm25,"Virginia's most important events, the Manchus entered ""China proper"" because Dorgon responded decisively to Wu Sangui's appeal.",Ming
+qa,5731320c497a881900248c42,rag_bm25,I don't know,Ming
 qa,5731320c497a881900248c42,rag_dense,Manchus,Ming
-qa,5731320c497a881900248c42,rag_hybrid,resentment,Ming
+qa,5731320c497a881900248c42,rag_hybrid,Japanese military,Ming
 qa,57108592b654c5140001f953,llm,a symphony,reason
 qa,57108592b654c5140001f953,rag_bm25,I don't know,reason
-qa,57108592b654c5140001f953,rag_dense,I don't know.,reason
-qa,57108592b654c5140001f953,rag_hybrid,England,reason
+qa,57108592b654c5140001f953,rag_dense,[2],reason
+qa,57108592b654c5140001f953,rag_hybrid,European imperialism is a political and economic argument.,reason
 qa,56fb85aab28b3419009f1df9,llm,1530,1049
 qa,56fb85aab28b3419009f1df9,rag_bm25,[3],1049
 qa,56fb85aab28b3419009f1df9,rag_dense,Montevideo,1049
 qa,56fb85aab28b3419009f1df9,rag_hybrid,[3],1049
 qa,5727cb3f2ca10214002d966f,llm,a digital disc,"a ""purist"" transcription"
-qa,5727cb3f2ca10214002d966f,rag_bm25,"German soldiers were sent to the eastern front, those young men and women were called Malgré-nous.","a ""purist"" transcription"
-qa,5727cb3f2ca10214002d966f,rag_dense,RCA Victor introduced their vinyl-based Victrolac compound as a material for some unusual-format and special-purpose records,"a ""purist"" transcription"
-qa,5727cb3f2ca10214002d966f,rag_hybrid,[3],"a ""purist"" transcription"
+qa,5727cb3f2ca10214002d966f,rag_bm25,"London, Berlin and Vienna","a ""purist"" transcription"
+qa,5727cb3f2ca10214002d966f,rag_dense,"RCA Victor, the RCA Victors were able to produce a record that was able to be played back using a complementary inverse curve.","a ""purist"" transcription"
+qa,5727cb3f2ca10214002d966f,rag_hybrid,[2],"a ""purist"" transcription"
 qa,57284581ff5b5019007da08b,llm,To protect the country,combating Filipino Islamist groups
-qa,57284581ff5b5019007da08b,rag_bm25,I don't know,combating Filipino Islamist groups
-qa,57284581ff5b5019007da08b,rag_dense,"U.S. sent more than 1,200 troops (later raised to 2,000) to assist the Armed Forces of the Philippines in combating terrorist groups linked to al-Qaida, such as Abu Sayyaf, under Operation Enduring Freedom - Philippines",combating Filipino Islamist groups
-qa,57284581ff5b5019007da08b,rag_hybrid,I don't know,combating Filipino Islamist groups
+qa,57284581ff5b5019007da08b,rag_bm25,"Von Neumann is credited with the equilibrium strategy of mutual assured destruction, providing the deliberately humorous acronym, MAD.",combating Filipino Islamist groups
+qa,57284581ff5b5019007da08b,rag_dense,"IJM""",combating Filipino Islamist groups
+qa,57284581ff5b5019007da08b,rag_hybrid,[3],combating Filipino Islamist groups
 qa,5726ba7c5951b619008f7c10,llm,art,avant-garde
 qa,5726ba7c5951b619008f7c10,rag_bm25,I don't know,avant-garde
 qa,5726ba7c5951b619008f7c10,rag_dense,[3],avant-garde
@@ -1033,10 +1033,10 @@ qa,5726d55edd62a815002e91af,rag_dense,[3],Ch'ongch'on River
 qa,5726d55edd62a815002e91af,rag_hybrid,I don't know,Ch'ongch'on River
 qa,573358f2d058e614000b58a9,llm,entity,"an entity is not merely a sum of its relations, but also a valuation of them and reaction to them"
 qa,573358f2d058e614000b58a9,rag_bm25,Whitehead,"an entity is not merely a sum of its relations, but also a valuation of them and reaction to them"
-qa,573358f2d058e614000b58a9,rag_dense,"a ""defining essence"" or a ""core identity"" that is unchanging, and describes what the thing or person really is","an entity is not merely a sum of its relations, but also a valuation of them and reaction to them"
+qa,573358f2d058e614000b58a9,rag_dense,I don't know,"an entity is not merely a sum of its relations, but also a valuation of them and reaction to them"
 qa,573358f2d058e614000b58a9,rag_hybrid,I don't know.,"an entity is not merely a sum of its relations, but also a valuation of them and reaction to them"
 qa,56f8db919b226e1400dd1105,llm,a syringe,sense of smell
-qa,56f8db919b226e1400dd1105,rag_bm25,[3],sense of smell
+qa,56f8db919b226e1400dd1105,rag_bm25,"""",sense of smell
 qa,56f8db919b226e1400dd1105,rag_dense,a symbiotic relationship between the two,sense of smell
 qa,56f8db919b226e1400dd1105,rag_hybrid,(II),sense of smell
 qa,57111f13b654c5140001fb78,llm,Until the end of the Korean War,1998
@@ -1050,135 +1050,135 @@ qa,572f7f37b2c2fd1400568195,rag_hybrid,[3],securing the seaward approaches to Qu
 qa,572e80e8cb0c0d14000f11fd,llm,ten,"44,000"
 qa,572e80e8cb0c0d14000f11fd,rag_bm25,[3],"44,000"
 qa,572e80e8cb0c0d14000f11fd,rag_dense,Statistics of Cyprus,"44,000"
-qa,572e80e8cb0c0d14000f11fd,rag_hybrid,"English monarchy in 1660, the East India Company received a royal charter giving it the sole right to fortify and colonise the island","44,000"
+qa,572e80e8cb0c0d14000f11fd,rag_hybrid,Saint Helena,"44,000"
 qa,57308a07396df9190009619d,llm,1897,August 1919
 qa,57308a07396df9190009619d,rag_bm25,I don't know,August 1919
 qa,57308a07396df9190009619d,rag_dense,a popular place,August 1919
 qa,57308a07396df9190009619d,rag_hybrid,[3],August 1919
 qa,56d97560dc89441400fdb4aa,llm,a slam,plastic Olympic flames
-qa,56d97560dc89441400fdb4aa,rag_bm25,opium,plastic Olympic flames
-qa,56d97560dc89441400fdb4aa,rag_dense,Communist Party,plastic Olympic flames
-qa,56d97560dc89441400fdb4aa,rag_hybrid,opium,plastic Olympic flames
+qa,56d97560dc89441400fdb4aa,rag_bm25,Hong Kong Alliance in Support of Patriotic Democratic Movements in China,plastic Olympic flames
+qa,56d97560dc89441400fdb4aa,rag_dense,[1],plastic Olympic flames
+qa,56d97560dc89441400fdb4aa,rag_hybrid,[1],plastic Olympic flames
 qa,572700addd62a815002e9763,llm,"$500,000",$1.31 billion
 qa,572700addd62a815002e9763,rag_bm25,[2],$1.31 billion
-qa,572700addd62a815002e9763,rag_dense,"MTV, Madonna's emergence occurred during the advent of MTV; Chris Nelson from The New York Times spoke of pop artists like Madonna saying, ""MTV, with its almost exclusively lip-synched videos, ushered in an era in which average music fans might happily spend hours a day, every day, watching singers just mouth the words.""",$1.31 billion
-qa,572700addd62a815002e9763,rag_hybrid,[2],$1.31 billion
+qa,572700addd62a815002e9763,rag_dense,[3],$1.31 billion
+qa,572700addd62a815002e9763,rag_hybrid,"MTV, Madonna's emergence occurred during the advent of MTV; Chris Nelson from The New York Times spoke of pop artists like Madonna saying, ""MTV, with its almost exclusively lip-synched videos, ushered in an era in which average music fans might happily spend hours a day, every day, watching singers just mouth the words.""",$1.31 billion
 qa,5727d4703acd2414000ded85,llm,"October 1, 1891",2010
 qa,5727d4703acd2414000ded85,rag_bm25,"Victoria's self-imposed isolation from the public diminished the popularity of the monarchy, and encouraged the growth of the republican movement.",2010
 qa,5727d4703acd2414000ded85,rag_dense,[3],2010
-qa,5727d4703acd2414000ded85,rag_hybrid,[1],2010
+qa,5727d4703acd2414000ded85,rag_hybrid,North Oklahoma City and South Oklahoma City,2010
 qa,5731edafe17f3d140042255a,llm,John Paul II,John Smyth
-qa,5731edafe17f3d140042255a,rag_bm25,Matthias,John Smyth
-qa,5731edafe17f3d140042255a,rag_dense,"the Protestant Church, not only because they wanted to block official churches but because they wanted to keep the spiritual and secular worlds apart.""",John Smyth
+qa,5731edafe17f3d140042255a,rag_bm25,"Hungarians, Hunyadi succeeded during the Siege of Belgrade in 1456 against the Ottomans, the biggest victory against that empire in decades.",John Smyth
+qa,5731edafe17f3d140042255a,rag_dense,[3],John Smyth
 qa,5731edafe17f3d140042255a,rag_hybrid,[3],John Smyth
 qa,5732845206a3a419008acabf,llm,"Central, California",Little Rock
-qa,5732845206a3a419008acabf,rag_bm25,[3],Little Rock
-qa,5732845206a3a419008acabf,rag_dense,ten years,Little Rock
-qa,5732845206a3a419008acabf,rag_hybrid,"In China, urbanization increased as the population grew and as the division of labor grew more complex.",Little Rock
+qa,5732845206a3a419008acabf,rag_bm25,Vietnam Veterans Against the War,Little Rock
+qa,5732845206a3a419008acabf,rag_dense,[3],Little Rock
+qa,5732845206a3a419008acabf,rag_hybrid,New Delhi,Little Rock
 qa,5709de964103511400d5948e,llm,a sacrificial note,Federal Reserve Note
-qa,5709de964103511400d5948e,rag_bm25,Pulitzer Prize was a remark.,Federal Reserve Note
+qa,5709de964103511400d5948e,rag_bm25,[3],Federal Reserve Note
 qa,5709de964103511400d5948e,rag_dense,stagflation,Federal Reserve Note
 qa,5709de964103511400d5948e,rag_hybrid,[3],Federal Reserve Note
 qa,572ac054111d821400f38d1e,llm,grad rates have fallen,increased
 qa,572ac054111d821400f38d1e,rag_bm25,[3],increased
 qa,572ac054111d821400f38d1e,rag_dense,[3],increased
-qa,572ac054111d821400f38d1e,rag_hybrid,65%,increased
+qa,572ac054111d821400f38d1e,rag_hybrid,[1],increased
 qa,573417154776f41900661848,llm,Islam,Catholicism
-qa,573417154776f41900661848,rag_bm25,[3],Catholicism
-qa,573417154776f41900661848,rag_dense,4,Catholicism
+qa,573417154776f41900661848,rag_bm25,"cosmology is that the only thing or person is seen as having a ""defining essence"" or a ""core identity"" that is unchanging, and describes what the thing or person really is.",Catholicism
+qa,573417154776f41900661848,rag_dense,Catholicism,Catholicism
 qa,573417154776f41900661848,rag_hybrid,I don't know,Catholicism
 qa,56de39a6cffd8e1900b4b698,llm,1891,1935
-qa,56de39a6cffd8e1900b4b698,rag_bm25,Spicheren,1935
-qa,56de39a6cffd8e1900b4b698,rag_dense,"the Supreme Court, is to ensure that the Supreme Court is not a judicial system that is a matter of public policy, first, as a matter of fundamental fairness, and second, because in the absence of case law, it would be completely unworkable for every minor issue in every legal case to be briefed, argued, and decided from first principles (such as relevant statutes, constitutional provisions, and underlying public policies), which in turn would create hopeless inefficiency, instability, and unpredictability, and thereby undermine the rule of law.""",1935
+qa,56de39a6cffd8e1900b4b698,rag_bm25,Japan's food,1935
+qa,56de39a6cffd8e1900b4b698,rag_dense,"plebeians.""",1935
 qa,56de39a6cffd8e1900b4b698,rag_hybrid,Federal Reserve Banks to issue Federal Reserve Banks,1935
 qa,570bc5976b8089140040fa27,llm,a variety of alleles,Interspecific crop diversity
 qa,570bc5976b8089140040fa27,rag_bm25,[3],Interspecific crop diversity
-qa,570bc5976b8089140040fa27,rag_dense,[4],Interspecific crop diversity
+qa,570bc5976b8089140040fa27,rag_dense,Intraspecific diversity,Interspecific crop diversity
 qa,570bc5976b8089140040fa27,rag_hybrid,[3],Interspecific crop diversity
 qa,57269c97708984140094cbbf,llm,North America,Russia
-qa,57269c97708984140094cbbf,rag_bm25,chemists and manufacturers sought new red dyes that could be used for large-scale manufacture of textiles,Russia
+qa,57269c97708984140094cbbf,rag_bm25,[3],Russia
 qa,57269c97708984140094cbbf,rag_dense,American Revolution,Russia
 qa,57269c97708984140094cbbf,rag_hybrid,chemists and manufacturers sought new red dyes that could be used for large-scale manufacture of textiles,Russia
 qa,56fa621f8f12f31900630141,llm,wood,sunken
 qa,56fa621f8f12f31900630141,rag_bm25,I don't know,sunken
-qa,56fa621f8f12f31900630141,rag_dense,Xylophaga,sunken
-qa,56fa621f8f12f31900630141,rag_hybrid,cellulose,sunken
+qa,56fa621f8f12f31900630141,rag_dense,[3],sunken
+qa,56fa621f8f12f31900630141,rag_hybrid,"Xylophaga, the tree's crown becomes more open and the annual wood production is lessened",sunken
 qa,57289dff2ca10214002da4cb,llm,the 19th century,Jurassic Period (210-140 million years ago)
-qa,57289dff2ca10214002da4cb,rag_bm25,hysteresis,Jurassic Period (210-140 million years ago)
-qa,57289dff2ca10214002da4cb,rag_dense,BYU's.,Jurassic Period (210-140 million years ago)
-qa,57289dff2ca10214002da4cb,rag_hybrid,BYU's.,Jurassic Period (210-140 million years ago)
+qa,57289dff2ca10214002da4cb,rag_bm25,BYU athletes,Jurassic Period (210-140 million years ago)
+qa,57289dff2ca10214002da4cb,rag_dense,"BYU's varsity teams, they are a lot more likely to be a mascot.",Jurassic Period (210-140 million years ago)
+qa,57289dff2ca10214002da4cb,rag_hybrid,BYU athletes,Jurassic Period (210-140 million years ago)
 qa,5731d3b3e17f3d140042245d,llm,a fire pit,Vesta's flame
 qa,5731d3b3e17f3d140042245d,rag_bm25,[3],Vesta's flame
-qa,5731d3b3e17f3d140042245d,rag_dense,rites,Vesta's flame
+qa,5731d3b3e17f3d140042245d,rag_dense,pig iron,Vesta's flame
 qa,5731d3b3e17f3d140042245d,rag_hybrid,"Human and many other mammals, new neurons are created mainly before birth, and the infant brain contains substantially more neurons than the adult brain.",Vesta's flame
 qa,5727cbf64b864d1900163d46,llm,1950s,1880s
-qa,5727cbf64b864d1900163d46,rag_bm25,"Plymouth's early history extends to the Bronze Age, when a first settlement emerged at Mount Batten.",1880s
+qa,5727cbf64b864d1900163d46,rag_bm25,Mohammad Reza Pahlavi to face trial in the court of the new regime,1880s
 qa,5727cbf64b864d1900163d46,rag_dense,I don't know.,1880s
-qa,5727cbf64b864d1900163d46,rag_hybrid,[3],1880s
+qa,5727cbf64b864d1900163d46,rag_hybrid,"It has managed to survive the years without preamble.""",1880s
 qa,56e0cbfe7aa994140058e709,llm,a browser,Firefox
-qa,56e0cbfe7aa994140058e709,rag_bm25,Paris,Firefox
-qa,56e0cbfe7aa994140058e709,rag_dense,Plymouth,Firefox
+qa,56e0cbfe7aa994140058e709,rag_bm25,Britain,Firefox
+qa,56e0cbfe7aa994140058e709,rag_dense,Vivendi,Firefox
 qa,56e0cbfe7aa994140058e709,rag_hybrid,[3],Firefox
 qa,57266a1ef1498d1400e8df01,llm,Conservative Party,Whig
 qa,57266a1ef1498d1400e8df01,rag_bm25,[3],Whig
-qa,57266a1ef1498d1400e8df01,rag_dense,"Britain, were criticized for their lacklustre condition of British forces deployed in Crimea.",Whig
+qa,57266a1ef1498d1400e8df01,rag_dense,[3],Whig
 qa,57266a1ef1498d1400e8df01,rag_hybrid,Darwin,Whig
 qa,56f8c4f09e9bad19000a0462,llm,a chromosome,two copies of each chromosome
 qa,56f8c4f09e9bad19000a0462,rag_bm25,[3],two copies of each chromosome
-qa,56f8c4f09e9bad19000a0462,rag_dense,[3],two copies of each chromosome
-qa,56f8c4f09e9bad19000a0462,rag_hybrid,[4],two copies of each chromosome
+qa,56f8c4f09e9bad19000a0462,rag_dense,[4],two copies of each chromosome
+qa,56f8c4f09e9bad19000a0462,rag_hybrid,[3],two copies of each chromosome
 qa,5706c2b22eaba6190074acf1,llm,9%,43%
-qa,5706c2b22eaba6190074acf1,rag_bm25,Plymouth,43%
-qa,5706c2b22eaba6190074acf1,rag_dense,"Ann Arbor has grappled with the effects of sharply rising land values, gentrification, and urban sprawl stretching into outlying countryside, voters approved a greenbelt plan under which the city government bought development rights on agricultural parcels of land adjacent to Ann Arbor to preserve them from sprawling development.",43%
-qa,5706c2b22eaba6190074acf1,rag_hybrid,Barbados.,43%
+qa,5706c2b22eaba6190074acf1,rag_bm25,Plymouth was re-opened,43%
+qa,5706c2b22eaba6190074acf1,rag_dense,Ann Arbor,43%
+qa,5706c2b22eaba6190074acf1,rag_hybrid,[2],43%
 qa,56d4cde92ccc5a1400d83237,llm,ten,one million
-qa,56d4cde92ccc5a1400d83237,rag_bm25,[2],one million
-qa,56d4cde92ccc5a1400d83237,rag_dense,[2],one million
-qa,56d4cde92ccc5a1400d83237,rag_hybrid,[2],one million
+qa,56d4cde92ccc5a1400d83237,rag_bm25,Beyoncé,one million
+qa,56d4cde92ccc5a1400d83237,rag_dense,Beyoncé,one million
+qa,56d4cde92ccc5a1400d83237,rag_hybrid,Beyoncé,one million
 qa,5727279cf1498d1400e8f429,llm,British overseas possessions,the telegraph
 qa,5727279cf1498d1400e8f429,rag_bm25,[3],the telegraph
-qa,5727279cf1498d1400e8f429,rag_dense,"Britain and the Russian Empire vied to fill the power vacuums that had been left by the declining Ottoman Empire, Qajar dynasty and Qing Dynasty",the telegraph
+qa,5727279cf1498d1400e8f429,rag_dense,Britain was a great player in the war against France,the telegraph
 qa,5727279cf1498d1400e8f429,rag_hybrid,British troops were called to participate in European theatres,the telegraph
 qa,56ddea8366d3e219004dae05,llm,Cardinals,secular affairs.
-qa,56ddea8366d3e219004dae05,rag_bm25,[3],secular affairs.
+qa,56ddea8366d3e219004dae05,rag_bm25,I don't know,secular affairs.
 qa,56ddea8366d3e219004dae05,rag_dense,Catholicism,secular affairs.
 qa,56ddea8366d3e219004dae05,rag_hybrid,the poor,secular affairs.
 qa,572714e2dd62a815002e98c7,llm,a castle,Åland Islands
-qa,572714e2dd62a815002e98c7,rag_bm25,Crimean War ended.,Åland Islands
-qa,572714e2dd62a815002e98c7,rag_dense,German troops were spotted in Forbach,Åland Islands
-qa,572714e2dd62a815002e98c7,rag_hybrid,Council of Ministers–Government (1978–1991),Åland Islands
+qa,572714e2dd62a815002e98c7,rag_bm25,[3],Åland Islands
+qa,572714e2dd62a815002e98c7,rag_dense,German 2nd Army,Åland Islands
+qa,572714e2dd62a815002e98c7,rag_hybrid,Russian Army,Åland Islands
 qa,5728f7636aef0514001548f8,llm,"October 27, 1897",1470
 qa,5728f7636aef0514001548f8,rag_bm25,[2],1470
 qa,5728f7636aef0514001548f8,rag_dense,[2],1470
 qa,5728f7636aef0514001548f8,rag_hybrid,[2],1470
 qa,570df2080dc6ce1900204d39,llm,I don't know.,distress
-qa,570df2080dc6ce1900204d39,rag_bm25,3] is adolescent is adolescent is adolescent is adolescent is adolescent is adolescent is adolescent is adolescent is adolescent is adolescent is adolescent is adolescent is adolescent is adolescent is adolescent is adolescent is adolescent is adolescent,distress
+qa,570df2080dc6ce1900204d39,rag_bm25,Croatian Zagreb grammarians in 1854,distress
 qa,570df2080dc6ce1900204d39,rag_dense,"""Neo-Eriksonian"" identity status paradigm is.",distress
-qa,570df2080dc6ce1900204d39,rag_hybrid,time,distress
+qa,570df2080dc6ce1900204d39,rag_hybrid,adolescent should be able to identify the self-concept as a cultural entity,distress
 qa,572ecaddc246551400ce4696,llm,English,English
-qa,572ecaddc246551400ce4696,rag_bm25,"the ""standard"" or ""proper"" version of a language",English
+qa,572ecaddc246551400ce4696,rag_bm25,I don't know,English
 qa,572ecaddc246551400ce4696,rag_dense,Persian Gulf,English
-qa,572ecaddc246551400ce4696,rag_hybrid,"King Porus in the Battle of the Hydaspes (near modern-day Jhelum, Pakistan) and conquered much of the Punjab.",English
+qa,572ecaddc246551400ce4696,rag_hybrid,I don't know.,English
 qa,572b7c07f75d5e190021fe00,llm,QA system,messages transmitted along the nerves to the seat of consciousness
 qa,572b7c07f75d5e190021fe00,rag_bm25,[3],messages transmitted along the nerves to the seat of consciousness
-qa,572b7c07f75d5e190021fe00,rag_dense,ccTLD,messages transmitted along the nerves to the seat of consciousness
+qa,572b7c07f75d5e190021fe00,rag_dense,Radio Norfolk 89.9FM,messages transmitted along the nerves to the seat of consciousness
 qa,572b7c07f75d5e190021fe00,rag_hybrid,I don't know,messages transmitted along the nerves to the seat of consciousness
 qa,57323214b9d445190005e8af,llm,a small percentage,travel around the country to speak on behalf of party candidates; and they encourage incumbent colleagues to make significant financial contributions
 qa,57323214b9d445190005e8af,rag_bm25,"Armenians, Gorbachev refused to make any changes to the status of Nagorno Karabakh",travel around the country to speak on behalf of party candidates; and they encourage incumbent colleagues to make significant financial contributions
-qa,57323214b9d445190005e8af,rag_dense,[2],travel around the country to speak on behalf of party candidates; and they encourage incumbent colleagues to make significant financial contributions
+qa,57323214b9d445190005e8af,rag_dense,[3],travel around the country to speak on behalf of party candidates; and they encourage incumbent colleagues to make significant financial contributions
 qa,57323214b9d445190005e8af,rag_hybrid,[2],travel around the country to speak on behalf of party candidates; and they encourage incumbent colleagues to make significant financial contributions
 qa,57267d4ef1498d1400e8e178,llm,1861 and 1863,1645 and 1648
-qa,57267d4ef1498d1400e8e178,rag_bm25,Anglican Church,1645 and 1648
-qa,57267d4ef1498d1400e8e178,rag_dense,Anglican Church,1645 and 1648
-qa,57267d4ef1498d1400e8e178,rag_hybrid,Anglican Church,1645 and 1648
+qa,57267d4ef1498d1400e8e178,rag_bm25,Northern Ireland,1645 and 1648
+qa,57267d4ef1498d1400e8e178,rag_dense,Northern Ireland,1645 and 1648
+qa,57267d4ef1498d1400e8e178,rag_hybrid,Northern Ireland,1645 and 1648
 qa,572cb45af182dd1900d7c827,llm,Because the rule of precedent was a statutory requirement.,"in the absence of case law, it would be completely unworkable for every minor issue in every legal case to be briefed, argued, and decided"
-qa,572cb45af182dd1900d7c827,rag_bm25,the Greeks,"in the absence of case law, it would be completely unworkable for every minor issue in every legal case to be briefed, argued, and decided"
-qa,572cb45af182dd1900d7c827,rag_dense,[3],"in the absence of case law, it would be completely unworkable for every minor issue in every legal case to be briefed, argued, and decided"
-qa,572cb45af182dd1900d7c827,rag_hybrid,"Hitler, the King and Queen greeted Chamberlain on his return to the Kingdom.","in the absence of case law, it would be completely unworkable for every minor issue in every legal case to be briefed, argued, and decided"
+qa,572cb45af182dd1900d7c827,rag_bm25,the Greek Peninsula,"in the absence of case law, it would be completely unworkable for every minor issue in every legal case to be briefed, argued, and decided"
+qa,572cb45af182dd1900d7c827,rag_dense,I don't know,"in the absence of case law, it would be completely unworkable for every minor issue in every legal case to be briefed, argued, and decided"
+qa,572cb45af182dd1900d7c827,rag_hybrid,I don't know,"in the absence of case law, it would be completely unworkable for every minor issue in every legal case to be briefed, argued, and decided"
 qa,57324b720fdd8d15006c6926,llm,a gift of the Spirit,charismata
-qa,57324b720fdd8d15006c6926,rag_bm25,The Sovere,charismata
+qa,57324b720fdd8d15006c6926,rag_bm25,"defining essence"" or a ""core identity"" that is unchanging",charismata
 qa,57324b720fdd8d15006c6926,rag_dense,Germanic tribes,charismata
-qa,57324b720fdd8d15006c6926,rag_hybrid,cosmology,charismata
+qa,57324b720fdd8d15006c6926,rag_hybrid,"Apollo's mother, Leto, was worshipped on the coasts of Asia Minor.",charismata
 qa,56df4fb48bc80c19004e4a61,llm,I don't know.,North Oklahoma City
 qa,56df4fb48bc80c19004e4a61,rag_bm25,3],North Oklahoma City
 qa,56df4fb48bc80c19004e4a61,rag_dense,I don't know,North Oklahoma City
@@ -1188,11 +1188,11 @@ qa,57279998dd62a815002ea1a4,rag_bm25,[2],Abdulrahman Vezirov
 qa,57279998dd62a815002ea1a4,rag_dense,[3],Abdulrahman Vezirov
 qa,57279998dd62a815002ea1a4,rag_hybrid,"SFSR was scheduled to sign a New Union Treaty that would have converted the Soviet Union into a federation of independent republics with a common president, foreign policy and military",Abdulrahman Vezirov
 qa,5733f9ac4776f4190066160e,llm,Punjab,Harrapa
-qa,5733f9ac4776f4190066160e,rag_bm25,Amazon,Harrapa
-qa,5733f9ac4776f4190066160e,rag_dense,textiles and minting,Harrapa
+qa,5733f9ac4776f4190066160e,rag_bm25,New York Mets,Harrapa
+qa,5733f9ac4776f4190066160e,rag_dense,Nanjing has been an industrial centre for textiles and minting owing to its strategic geographical location and convenient transportation.,Harrapa
 qa,5733f9ac4776f4190066160e,rag_hybrid,Ming dynasty,Harrapa
 qa,5728479e2ca10214002da235,llm,,Mahabharata
-qa,5728479e2ca10214002da235,rag_bm25,I don't know,Mahabharata
+qa,5728479e2ca10214002da235,rag_bm25,555 feet (169 m),Mahabharata
 qa,5728479e2ca10214002da235,rag_dense,I don't know,Mahabharata
 qa,5728479e2ca10214002da235,rag_hybrid,[2],Mahabharata
 qa,57299db76aef051400155033,llm,a million,100 to 300 mi
@@ -1208,27 +1208,27 @@ qa,572993a5af94a219006aa522,rag_bm25,[3],philopatry
 qa,572993a5af94a219006aa522,rag_dense,[3],philopatry
 qa,572993a5af94a219006aa522,rag_hybrid,[3],philopatry
 qa,56dff407231d4119001abef7,llm,I don't know.,themed bars
-qa,56dff407231d4119001abef7,rag_bm25,[3],themed bars
+qa,56dff407231d4119001abef7,rag_bm25,[4],themed bars
 qa,56dff407231d4119001abef7,rag_dense,I don't know,themed bars
-qa,56dff407231d4119001abef7,rag_hybrid,[3],themed bars
+qa,56dff407231d4119001abef7,rag_hybrid,Plymouth Colony,themed bars
 qa,570f2b2b80d9841400ab3547,llm,a fox,Arctic animals
 qa,570f2b2b80d9841400ab3547,rag_bm25,U.S. President Barack Obama,Arctic animals
-qa,570f2b2b80d9841400ab3547,rag_dense,endemic to Antarctica,Arctic animals
+qa,570f2b2b80d9841400ab3547,rag_dense,fungi,Arctic animals
 qa,570f2b2b80d9841400ab3547,rag_hybrid,fungi,Arctic animals
 qa,5726a33e708984140094cc9e,llm,1897,2010
 qa,5726a33e708984140094cc9e,rag_bm25,I don't know.,2010
-qa,5726a33e708984140094cc9e,rag_dense,Plymouth,2010
-qa,5726a33e708984140094cc9e,rag_hybrid,[2],2010
+qa,5726a33e708984140094cc9e,rag_dense,2010,2010
+qa,5726a33e708984140094cc9e,rag_hybrid,Plymouth Hoe,2010
 qa,5727a85fff5b5019007d9212,llm,CDC,American Thoracic Society
-qa,5727a85fff5b5019007d9212,rag_bm25,"All students and faculty, regardless of religion, are required to agree to adhere to an honor code",American Thoracic Society
+qa,5727a85fff5b5019007d9212,rag_bm25,AC and DC circuits,American Thoracic Society
 qa,5727a85fff5b5019007d9212,rag_dense,[3],American Thoracic Society
 qa,5727a85fff5b5019007d9212,rag_hybrid,"ganglia, the brain is enlarged and more complex, with visible hindbrain, midbrain and forebrain sections.",American Thoracic Society
 qa,56e0f150231d4119001ac484,llm,Canon,cane
-qa,56e0f150231d4119001ac484,rag_bm25,[3],cane
+qa,56e0f150231d4119001ac484,rag_bm25,I don't know.,cane
 qa,56e0f150231d4119001ac484,rag_dense,Serb and Croat lands were still part of the Ottoman and Austrian Empires.,cane
 qa,56e0f150231d4119001ac484,rag_hybrid,I don't know.,cane
 qa,572a1096af94a219006aa799,llm,"Milan, Italy",Dubrovnik
-qa,572a1096af94a219006aa799,rag_bm25,I don't know,Dubrovnik
+qa,572a1096af94a219006aa799,rag_bm25,"Dubrovnik, the olfactory bulb is involved in the sense of smell, and the dentate gyrus of the hippocampus, where there is evidence that the new neurons play a role in storing newly acquired memories.",Dubrovnik
 qa,572a1096af94a219006aa799,rag_dense,[3],Dubrovnik
 qa,572a1096af94a219006aa799,rag_hybrid,a dielectric,Dubrovnik
 qa,56d3e4762ccc5a1400d82f21,llm,Nobel Prize,the Pulitzer Prize
@@ -1244,35 +1244,35 @@ qa,57281ba43acd2414000df4af,rag_bm25,Bazaine was too late,Spanish and Italian
 qa,57281ba43acd2414000df4af,rag_dense,Italy,Spanish and Italian
 qa,57281ba43acd2414000df4af,rag_hybrid,[3],Spanish and Italian
 qa,56fa104bf34c681400b0bf9b,llm,rot-producing fungi,spalting
-qa,56fa104bf34c681400b0bf9b,rag_bm25,Switzerland,spalting
+qa,56fa104bf34c681400b0bf9b,rag_bm25,"if a tree grows all its life in the open and the conditions of soil and site remain unchanged, it will make its most rapid growth in youth, and gradually decline. The annual rings of growth are for many years quite wide, but later they become narrower and narrower. Since each succeeding ring is laid down on the outside of the wood previously formed, it follows that unless a tree materially increases its production of wood from year to year, the rings must necessarily become thinner as the trunk gets wider.",spalting
 qa,56fa104bf34c681400b0bf9b,rag_dense,"able to penetrate the lacquer seal layer and chemically attack the metalized reflective aluminium layer, causing it to oxidize and lose its reflective characteristics",spalting
 qa,56fa104bf34c681400b0bf9b,rag_hybrid,fungi,spalting
 qa,5731a7740fdd8d15006c642e,llm,I don't know.,earlier explorers and colonists
-qa,5731a7740fdd8d15006c642e,rag_bm25,"""",earlier explorers and colonists
+qa,5731a7740fdd8d15006c642e,rag_bm25,avert prejudice and fear,earlier explorers and colonists
 qa,5731a7740fdd8d15006c642e,rag_dense,I don't know.,earlier explorers and colonists
-qa,5731a7740fdd8d15006c642e,rag_hybrid,"""",earlier explorers and colonists
+qa,5731a7740fdd8d15006c642e,rag_hybrid,Bosnian/Croatian/Serbian (BCS),earlier explorers and colonists
 qa,5728d4442ca10214002da8d0,llm,a sexy woman,Leto
-qa,5728d4442ca10214002da8d0,rag_bm25,I don't know).,Leto
-qa,5728d4442ca10214002da8d0,rag_dense,During the late Bronze Age the island experienced two waves of Greek settlement. The first wave consisted of Mycenaean Greek traders who started visiting Cyprus around 1400 BC.,Leto
-qa,5728d4442ca10214002da8d0,rag_hybrid,[3],Leto
+qa,5728d4442ca10214002da8d0,rag_bm25,"New York City teams played each other, known as a Subway Series and occurring most recently in 2000",Leto
+qa,5728d4442ca10214002da8d0,rag_dense,Greek,Leto
+qa,5728d4442ca10214002da8d0,rag_hybrid,I don't know,Leto
 qa,572c0233dfb02c14005c6b4f,llm,aristocrat,Charles Bradlaugh
-qa,572c0233dfb02c14005c6b4f,rag_bm25,The Ottoman Empire,Charles Bradlaugh
-qa,572c0233dfb02c14005c6b4f,rag_dense,"carnivores, were able to be fixed according to the divine plan",Charles Bradlaugh
-qa,572c0233dfb02c14005c6b4f,rag_hybrid,[3],Charles Bradlaugh
+qa,572c0233dfb02c14005c6b4f,rag_bm25,"The Ottoman state attempted to modernize its infrastructure and army in response to threats from the outside, it also opened itself up",Charles Bradlaugh
+qa,572c0233dfb02c14005c6b4f,rag_dense,[1],Charles Bradlaugh
+qa,572c0233dfb02c14005c6b4f,rag_hybrid,3],Charles Bradlaugh
 qa,5727c9e62ca10214002d9640,llm,retail,state of the art shopping centres and family owned local shops
-qa,5727c9e62ca10214002d9640,rag_bm25,"brain are created mainly before birth, and the infant brain contains substantially more neurons than the adult brain",state of the art shopping centres and family owned local shops
-qa,5727c9e62ca10214002d9640,rag_dense,I don't know,state of the art shopping centres and family owned local shops
-qa,5727c9e62ca10214002d9640,rag_hybrid,a variety of marine fishes,state of the art shopping centres and family owned local shops
+qa,5727c9e62ca10214002d9640,rag_bm25,Catholic,state of the art shopping centres and family owned local shops
+qa,5727c9e62ca10214002d9640,rag_dense,[3],state of the art shopping centres and family owned local shops
+qa,5727c9e62ca10214002d9640,rag_hybrid,I don't know,state of the art shopping centres and family owned local shops
 qa,56de708bcffd8e1900b4b8d7,llm,a woman,Barbara Baker
 qa,56de708bcffd8e1900b4b8d7,rag_bm25,[3],Barbara Baker
 qa,56de708bcffd8e1900b4b8d7,rag_dense,[3],Barbara Baker
 qa,56de708bcffd8e1900b4b8d7,rag_hybrid,Arnold was a shrewd and shrewd man.,Barbara Baker
 qa,56d4e17f2ccc5a1400d832e4,llm,a sleazy,The Mamas
-qa,56d4e17f2ccc5a1400d832e4,rag_bm25,[2],The Mamas
+qa,56d4e17f2ccc5a1400d832e4,rag_bm25,[3],The Mamas
 qa,56d4e17f2ccc5a1400d832e4,rag_dense,[3],The Mamas
-qa,56d4e17f2ccc5a1400d832e4,rag_hybrid,Lotte,The Mamas
+qa,56d4e17f2ccc5a1400d832e4,rag_hybrid,"[1] mostly still during her toughest singing parts and [leaves] the dance routines to her backup troupe ... [r]ather than try to croon and dance up a storm at the same time.""",The Mamas
 qa,5731a5bfe99e3014001e61a8,llm,Romans,patron
-qa,5731a5bfe99e3014001e61a8,rag_bm25,Forbach,patron
+qa,5731a5bfe99e3014001e61a8,rag_bm25,Plymouth,patron
 qa,5731a5bfe99e3014001e61a8,rag_dense,Tibur was a sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sacrificial sa,patron
 qa,5731a5bfe99e3014001e61a8,rag_hybrid,[3],patron
 qa,56e02e807aa994140058e306,llm,1897,1659
@@ -1281,7 +1281,7 @@ qa,56e02e807aa994140058e306,rag_dense,[3],1659
 qa,56e02e807aa994140058e306,rag_hybrid,I don't know,1659
 qa,5706e5b49e06ca38007e9205,llm,I don't know,hormones
 qa,5706e5b49e06ca38007e9205,rag_bm25,adolescence,hormones
-qa,5706e5b49e06ca38007e9205,rag_dense,I don't know,hormones
+qa,5706e5b49e06ca38007e9205,rag_dense,[5],hormones
 qa,5706e5b49e06ca38007e9205,rag_hybrid,adolescence,hormones
 qa,573075b12461fd1900a9ce26,llm,I don't know.,Two Stars for Peace
 qa,573075b12461fd1900a9ce26,rag_bm25,I don't know.,Two Stars for Peace
@@ -1296,15 +1296,15 @@ qa,5729c7dd3f37b31900478556,rag_bm25,[3],15
 qa,5729c7dd3f37b31900478556,rag_dense,IBM announced that company executives would forgo bonuses for fiscal year 2013.,15
 qa,5729c7dd3f37b31900478556,rag_hybrid,[3],15
 qa,5727f18cff5b5019007d98fc,llm,a lot of people use the standard.,programming sounded more lifelike.
-qa,5727f18cff5b5019007d98fc,rag_bm25,"Firefox, the Mozilla Foundation launched what to become the Mozilla Foundation in an attempt to produce a competitive browser using the open source software model",programming sounded more lifelike.
+qa,5727f18cff5b5019007d98fc,rag_bm25,"""defining essence"" or a ""core identity"" that is unchanging, and describes what the thing or person really is",programming sounded more lifelike.
 qa,5727f18cff5b5019007d98fc,rag_dense,telecommunications,programming sounded more lifelike.
-qa,5727f18cff5b5019007d98fc,rag_hybrid,LDs,programming sounded more lifelike.
+qa,5727f18cff5b5019007d98fc,rag_hybrid,[3],programming sounded more lifelike.
 qa,56fac6d48f12f319006301a1,llm,a government,home owners' associations and city government
 qa,56fac6d48f12f319006301a1,rag_bm25,Protestant,home owners' associations and city government
-qa,56fac6d48f12f319006301a1,rag_dense,720p resolution,home owners' associations and city government
-qa,56fac6d48f12f319006301a1,rag_hybrid,I don't know.,home owners' associations and city government
+qa,56fac6d48f12f319006301a1,rag_dense,Astra 2D satellite,home owners' associations and city government
+qa,56fac6d48f12f319006301a1,rag_hybrid,I don't know,home owners' associations and city government
 qa,572eb8ccc246551400ce4567,llm,Mexico,"Some of the urban areas with a high Venezuelan community include Miami, New York City, Los Angeles, and Washington, D.C."
-qa,572eb8ccc246551400ce4567,rag_bm25,[4],"Some of the urban areas with a high Venezuelan community include Miami, New York City, Los Angeles, and Washington, D.C."
+qa,572eb8ccc246551400ce4567,rag_bm25,New neurons,"Some of the urban areas with a high Venezuelan community include Miami, New York City, Los Angeles, and Washington, D.C."
 qa,572eb8ccc246551400ce4567,rag_dense,[3],"Some of the urban areas with a high Venezuelan community include Miami, New York City, Los Angeles, and Washington, D.C."
 qa,572eb8ccc246551400ce4567,rag_hybrid,[3],"Some of the urban areas with a high Venezuelan community include Miami, New York City, Los Angeles, and Washington, D.C."
 qa,5730807e069b531400832129,llm,a new standard of translation,accuracy and style
@@ -1313,158 +1313,158 @@ qa,5730807e069b531400832129,rag_dense,Islamist community began with the birth of
 qa,5730807e069b531400832129,rag_hybrid,[3],accuracy and style
 qa,5726b53b708984140094ce7d,llm,a lot of people,drought
 qa,5726b53b708984140094ce7d,rag_bm25,I don't know,drought
-qa,5726b53b708984140094ce7d,rag_dense,a Buddhist,drought
-qa,5726b53b708984140094ce7d,rag_hybrid,Plains,drought
+qa,5726b53b708984140094ce7d,rag_dense,[4],drought
+qa,5726b53b708984140094ce7d,rag_hybrid,I don't know.,drought
 qa,572ec2cedfa6aa1500f8d355,llm,I don't know.,"Ruling by decree, the RCC maintained the monarchy's ban on political parties,"
-qa,572ec2cedfa6aa1500f8d355,rag_bm25,gold,"Ruling by decree, the RCC maintained the monarchy's ban on political parties,"
-qa,572ec2cedfa6aa1500f8d355,rag_dense,[1],"Ruling by decree, the RCC maintained the monarchy's ban on political parties,"
-qa,572ec2cedfa6aa1500f8d355,rag_hybrid,"Council of Ministers–Government (1917–1946), Council of Ministers–Government (1978–1991)","Ruling by decree, the RCC maintained the monarchy's ban on political parties,"
+qa,572ec2cedfa6aa1500f8d355,rag_bm25,European imperialism,"Ruling by decree, the RCC maintained the monarchy's ban on political parties,"
+qa,572ec2cedfa6aa1500f8d355,rag_dense,[2],"Ruling by decree, the RCC maintained the monarchy's ban on political parties,"
+qa,572ec2cedfa6aa1500f8d355,rag_hybrid,a subject of cultural studies,"Ruling by decree, the RCC maintained the monarchy's ban on political parties,"
 qa,56e014a37aa994140058e2c7,llm,Japanese comics,manga
 qa,56e014a37aa994140058e2c7,rag_bm25,occupied by the Japanese military,manga
-qa,56e014a37aa994140058e2c7,rag_dense,[3],manga
+qa,56e014a37aa994140058e2c7,rag_dense,"Japan, it is more widely accepted that the Pacific War itself started in early December 1941, with the Sino-Japanese War then becoming part of it as a theater of the greater World War II.",manga
 qa,56e014a37aa994140058e2c7,rag_hybrid,occupied by the Japanese military,manga
 qa,5726e1755951b619008f813e,llm,1850,In October 1745
-qa,5726e1755951b619008f813e,rag_bm25,2],In October 1745
+qa,5726e1755951b619008f813e,rag_bm25,hysteresis is a time-dependent process.,In October 1745
 qa,5726e1755951b619008f813e,rag_dense,hysteresis,In October 1745
 qa,5726e1755951b619008f813e,rag_hybrid,Maadi,In October 1745
 qa,570c376aec8fbc190045bddb,llm,69,675
 qa,570c376aec8fbc190045bddb,rag_bm25,I don't know,675
-qa,570c376aec8fbc190045bddb,rag_dense,Muslims,675
+qa,570c376aec8fbc190045bddb,rag_dense,fewer than 240 wealthy Europeans held all the pastoral licences then issued in Victoria and became a powerful political and economic force in Victoria for generations to come.,675
 qa,570c376aec8fbc190045bddb,rag_hybrid,[3],675
 qa,57277421708984140094ddfa,llm,Italy,Italy
 qa,57277421708984140094ddfa,rag_bm25,English East India Company received a royal charter giving it the sole right to fortify and colonise the island,Italy
 qa,57277421708984140094ddfa,rag_dense,"Caribbean colony of Bermuda, the vicariate was promoted to the Metropolitan of the suffragan sees of Canelones, Florida, Maldonado–Punta del Este, Melo, Mercedes, Minas, Salto, San José de Mayo, Tacuarembó.",Italy
 qa,57277421708984140094ddfa,rag_hybrid,James Fort,Italy
 qa,572a1dd76aef0514001552b0,llm,1897,late nineteenth century
-qa,572a1dd76aef0514001552b0,rag_bm25,[3],late nineteenth century
+qa,572a1dd76aef0514001552b0,rag_bm25,the systematic study of color theory,late nineteenth century
 qa,572a1dd76aef0514001552b0,rag_dense,I don't know,late nineteenth century
 qa,572a1dd76aef0514001552b0,rag_hybrid,"The old quantum theory was a collection of results which predate modern quantum mechanics, but were never complete or self-consistent",late nineteenth century
 qa,5726b9d1f1498d1400e8e8fd,llm,a 'food chain',first trophic level
-qa,5726b9d1f1498d1400e8e8fd,rag_bm25,"Hunting) reduces intraspecific competition for food and shelter, reducing mortality among the remaining animals",first trophic level
-qa,5726b9d1f1498d1400e8e8fd,rag_dense,agrarian diet,first trophic level
-qa,5726b9d1f1498d1400e8e8fd,rag_hybrid,"Hunting) reduces intraspecific competition for food and shelter, reducing mortality among the remaining animals",first trophic level
+qa,5726b9d1f1498d1400e8e8fd,rag_bm25,[3],first trophic level
+qa,5726b9d1f1498d1400e8e8fd,rag_dense,[4],first trophic level
+qa,5726b9d1f1498d1400e8e8fd,rag_hybrid,Hunting advocates,first trophic level
 qa,57071c5c9e06ca38007e9440,llm,California,western
 qa,57071c5c9e06ca38007e9440,rag_bm25,BYU's Museum of Art,western
 qa,57071c5c9e06ca38007e9440,rag_dense,"Montana, the great Mississippi system discharges southward to the Gulf of Mexico",western
 qa,57071c5c9e06ca38007e9440,rag_hybrid,"Montana, the great Mississippi system discharges southward to the Gulf of Mexico",western
 qa,56cf3eabaab44d1400b88eda,llm,The Hildebrand Rarity,For Your Eyes Only
 qa,56cf3eabaab44d1400b88eda,rag_bm25,[2],For Your Eyes Only
-qa,56cf3eabaab44d1400b88eda,rag_dense,[3],For Your Eyes Only
+qa,56cf3eabaab44d1400b88eda,rag_dense,[4],For Your Eyes Only
 qa,56cf3eabaab44d1400b88eda,rag_hybrid,[3],For Your Eyes Only
 qa,56e119bdcd28a01900c675ab,llm,a city,Trimountaine
-qa,56e119bdcd28a01900c675ab,rag_bm25,Africans and Englanders,Trimountaine
+qa,56e119bdcd28a01900c675ab,rag_bm25,"Plymouth Colony was a trading post for the Roman Empire, until it was surpassed by the more prosperous village of Sutton, now called Plymouth.",Trimountaine
 qa,56e119bdcd28a01900c675ab,rag_dense,Catholic Church was able to settle in South Carolina,Trimountaine
-qa,56e119bdcd28a01900c675ab,rag_hybrid,"Plymouth's early history extends to the Bronze Age, when a first settlement emerged at Mount Batten. This settlement continued as a trading post for the Roman Empire, until it was surpassed by the more prosperous village of Sutton, now called Plymouth.",Trimountaine
+qa,56e119bdcd28a01900c675ab,rag_hybrid,Catholic Church was able to settle in South Carolina,Trimountaine
 qa,56f72a1d3d8e2e1400e373be,llm,Yugoslavs,Soviet troops
 qa,56f72a1d3d8e2e1400e373be,rag_bm25,[3],Soviet troops
-qa,56f72a1d3d8e2e1400e373be,rag_dense,I don't know,Soviet troops
+qa,56f72a1d3d8e2e1400e373be,rag_dense,[3],Soviet troops
 qa,56f72a1d3d8e2e1400e373be,rag_hybrid,I don't know,Soviet troops
 qa,5726ad725951b619008f79f1,llm,Norfolk Island,Phillip Island
-qa,5726ad725951b619008f79f1,rag_bm25,I don't know,Phillip Island
+qa,5726ad725951b619008f79f1,rag_bm25,Radio Norfolk 89,Phillip Island
 qa,5726ad725951b619008f79f1,rag_dense,South East Asia,Phillip Island
-qa,5726ad725951b619008f79f1,rag_hybrid,Willow,Phillip Island
+qa,5726ad725951b619008f79f1,rag_hybrid,[3],Phillip Island
 qa,5726618d5951b619008f70ff,llm,Chickens are a variety of foods.,"fresh or frozen, as whole birds or as joints (cuts), bone-in or deboned, seasoned in various ways, raw or ready cooked."
-qa,5726618d5951b619008f70ff,rag_bm25,Poultry,"fresh or frozen, as whole birds or as joints (cuts), bone-in or deboned, seasoned in various ways, raw or ready cooked."
+qa,5726618d5951b619008f70ff,rag_bm25,fossils,"fresh or frozen, as whole birds or as joints (cuts), bone-in or deboned, seasoned in various ways, raw or ready cooked."
 qa,5726618d5951b619008f70ff,rag_dense,a staple in the diet of residents near the coast,"fresh or frozen, as whole birds or as joints (cuts), bone-in or deboned, seasoned in various ways, raw or ready cooked."
 qa,5726618d5951b619008f70ff,rag_hybrid,[3],"fresh or frozen, as whole birds or as joints (cuts), bone-in or deboned, seasoned in various ways, raw or ready cooked."
 qa,572f8e33a23a5019007fc740,llm,a military unit,embargoes
-qa,572f8e33a23a5019007fc740,rag_bm25,Indonesia,embargoes
+qa,572f8e33a23a5019007fc740,rag_bm25,[3],embargoes
 qa,572f8e33a23a5019007fc740,rag_dense,[3],embargoes
 qa,572f8e33a23a5019007fc740,rag_hybrid,"Second Sino-Japanese War, Japan used Korea's food, livestock, and metals for their war effort.",embargoes
 qa,56fa04db8f12f31900630098,llm,lessened,lessened
 qa,56fa04db8f12f31900630098,rag_bm25,"a tree grows all its life in the open and the conditions of soil and site remain unchanged, it will make its most rapid growth in youth, and gradually decline.",lessened
-qa,56fa04db8f12f31900630098,rag_dense,a diseased condition,lessened
-qa,56fa04db8f12f31900630098,rag_hybrid,a diseased condition,lessened
+qa,56fa04db8f12f31900630098,rag_dense,[4],lessened
+qa,56fa04db8f12f31900630098,rag_hybrid,[3],lessened
 qa,5728d59e3acd2414000dffbd,llm,a year,minimum of 12 months
 qa,5728d59e3acd2414000dffbd,rag_bm25,"Jews lived almost exclusively in shtetls, maintained a strong system of education for males, heeded rabbinic leadership, and scorned the life-style of their neighbors; and all of these tendencies increased with every outbreak of antisemitism.",minimum of 12 months
-qa,5728d59e3acd2414000dffbd,rag_dense,Alaska,minimum of 12 months
-qa,5728d59e3acd2414000dffbd,rag_hybrid,Israel,minimum of 12 months
+qa,5728d59e3acd2414000dffbd,rag_dense,[3],minimum of 12 months
+qa,5728d59e3acd2414000dffbd,rag_hybrid,IMF project economic growth of 9% in 2008 and 8.3% in 2009.,minimum of 12 months
 qa,5709633fed30961900e84063,llm,self-psychology,how identity is maintained
 qa,5709633fed30961900e84063,rag_bm25,God is a remark,how identity is maintained
 qa,5709633fed30961900e84063,rag_dense,I don't know.,how identity is maintained
 qa,5709633fed30961900e84063,rag_hybrid,God is a remark,how identity is maintained
 qa,5733d4c24776f41900661306,llm,I don't know.,"start of World War II,"
 qa,5733d4c24776f41900661306,rag_bm25,"Seleucid Empire is a part of the Persian Gulf, it is not clear whether the Seleucid Empire is part of the Seleucid Empire.","start of World War II,"
-qa,5733d4c24776f41900661306,rag_dense,RCA Victor introduced their vinyl-based Victrolac compound as a material for some unusual-format and special-purpose records,"start of World War II,"
+qa,5733d4c24776f41900661306,rag_dense,the discovery of the first naturally derived antibiotic,"start of World War II,"
 qa,5733d4c24776f41900661306,rag_hybrid,[3],"start of World War II,"
 qa,5726d4285951b619008f7f41,llm,The Evangelical Church of Samoa,Christian Congregational Church of Samoa
 qa,5726d4285951b619008f7f41,rag_bm25,Church of England,Christian Congregational Church of Samoa
 qa,5726d4285951b619008f7f41,rag_dense,[3],Christian Congregational Church of Samoa
-qa,5726d4285951b619008f7f41,rag_hybrid,[3],Christian Congregational Church of Samoa
+qa,5726d4285951b619008f7f41,rag_hybrid,Catholic Church was established in Uruguay,Christian Congregational Church of Samoa
 qa,5735d07d012e2f140011a089,llm,84,"25,000"
-qa,5735d07d012e2f140011a089,rag_bm25,Kathmandu,"25,000"
-qa,5735d07d012e2f140011a089,rag_dense,Major League Baseball World Series and 73 pennants won by New York teams,"25,000"
+qa,5735d07d012e2f140011a089,rag_bm25,[3],"25,000"
+qa,5735d07d012e2f140011a089,rag_dense,[5],"25,000"
 qa,5735d07d012e2f140011a089,rag_hybrid,[3],"25,000"
 qa,57262b3438643c19005ad295,llm,Southeast Asia,East Indies
-qa,57262b3438643c19005ad295,rag_bm25,I don't know,East Indies
+qa,57262b3438643c19005ad295,rag_bm25,"Punjab was the city of Harrapa, it was not the archaeological site of the city of Harrapa.",East Indies
 qa,57262b3438643c19005ad295,rag_dense,Second Sino-Japanese War between the Empire of Japan and the Republic of China,East Indies
 qa,57262b3438643c19005ad295,rag_hybrid,"Punjab was the city of Harrapa, it was not the archaeological site of the city of Harrapa.",East Indies
 qa,57309b8f396df91900096206,llm,a rethink,defining essence
 qa,57309b8f396df91900096206,rag_bm25,I don't know,defining essence
-qa,57309b8f396df91900096206,rag_dense,race is a logical and logical conceptualization of race.,defining essence
-qa,57309b8f396df91900096206,rag_hybrid,I don't know,defining essence
+qa,57309b8f396df91900096206,rag_dense,[3],defining essence
+qa,57309b8f396df91900096206,rag_hybrid,"""N"" is a naive or simplistic way of thinking, but it is often used in a naive or simplistic way.",defining essence
 qa,56dfb5977aa994140058e02b,llm,blue,maroon
 qa,56dfb5977aa994140058e02b,rag_bm25,[3],maroon
 qa,56dfb5977aa994140058e02b,rag_dense,"tetrahedral wings were named Cygnet I, II and III, and were flown both unmanned and manned (Cygnet I crashed during a flight carrying Selfridge) in the period from 1907–1912",maroon
 qa,56dfb5977aa994140058e02b,rag_hybrid,[3],maroon
 qa,56e8253a37bdd419002c446f,llm,a democrat,low
-qa,56e8253a37bdd419002c446f,rag_bm25,natural selection.,low
+qa,56e8253a37bdd419002c446f,rag_bm25,"I don't know.""",low
 qa,56e8253a37bdd419002c446f,rag_dense,"Polish, is a common destination for Polish immigrants",low
-qa,56e8253a37bdd419002c446f,rag_hybrid,Croatian and Serbian,low
+qa,56e8253a37bdd419002c446f,rag_hybrid,I don't know,low
 qa,572eaae1dfa6aa1500f8d289,llm,The Quran,Arabic
 qa,572eaae1dfa6aa1500f8d289,rag_bm25,New York City,Arabic
 qa,572eaae1dfa6aa1500f8d289,rag_dense,Al-Aqsa Mosque,Arabic
-qa,572eaae1dfa6aa1500f8d289,rag_hybrid,"The Crimean War also saw the first tactical use of railways and other modern inventions, such as the electric telegraph, with the first ""live"" war reporting to The Times by William Howard Russell.",Arabic
+qa,572eaae1dfa6aa1500f8d289,rag_hybrid,"The European universities aided materially in the translation and propagation of these texts and started a new infrastructure which was needed for scientific communities. In fact, European university put many works about the natural world and the study of nature at the center of its curriculum, with the result that the ""medieval university laid far greater emphasis on science than does its modern counterpart and descendent.""",Arabic
 qa,56cd97f862d2951400fa676c,llm,adam scott,Satoru Iwata
 qa,56cd97f862d2951400fa676c,rag_bm25,[3],Satoru Iwata
 qa,56cd97f862d2951400fa676c,rag_dense,Twin Famicom,Satoru Iwata
 qa,56cd97f862d2951400fa676c,rag_hybrid,[3],Satoru Iwata
 qa,5719c35b10f8ca1400304e54,llm,Boeing,Boeing
-qa,5719c35b10f8ca1400304e54,rag_bm25,"Walter Bagehot's Physics and Politics (1872), attempted to extend the idea of natural selection to competition between nations and between human races.",Boeing
-qa,5719c35b10f8ca1400304e54,rag_dense,Congress was able to impose a law that would allow the state to impose a law that would allow the state to impose a law that would allow the state to impose a law that would allow the state to impose a law that would allow the state to impose a law that would allow the state to impose a law that would allow the state to impose a law that would allow the state to impose a law that would allow the state to impose a law that would allow the state to impose a law that would allow the state to impose,Boeing
-qa,5719c35b10f8ca1400304e54,rag_hybrid,I don't know,Boeing
+qa,5719c35b10f8ca1400304e54,rag_bm25,I don't know,Boeing
+qa,5719c35b10f8ca1400304e54,rag_dense,Boeing,Boeing
+qa,5719c35b10f8ca1400304e54,rag_hybrid,U.S. dollar,Boeing
 qa,5709c499ed30961900e84484,llm,green,black
 qa,5709c499ed30961900e84484,rag_bm25,chemists and manufacturers sought new red dyes that could be used for large-scale manufacture of textiles,black
 qa,5709c499ed30961900e84484,rag_dense,[3],black
 qa,5709c499ed30961900e84484,rag_hybrid,[3],black
 qa,570a82f14103511400d597d1,llm,Everton,Nike
-qa,570a82f14103511400d597d1,rag_bm25,"During the 18th century, the European empires gradually expanded across the world, as European states developed.",Nike
+qa,570a82f14103511400d597d1,rag_bm25,German Army was a major military force in the 18th century,Nike
 qa,570a82f14103511400d597d1,rag_dense,"Arsenal's parent company, Arsenal Holdings plc, operates as a non-quoted public limited company, whose ownership is considerably different from that of other football clubs",Nike
 qa,570a82f14103511400d597d1,rag_hybrid,"The crest was poorly received by supporters, with a poll on an Everton fan site registering a 91% negative response to the crest",Nike
 qa,57316e8ae6313a140071cf2f,llm,London,Piccadilly
 qa,57316e8ae6313a140071cf2f,rag_bm25,Alfred the Great,Piccadilly
 qa,57316e8ae6313a140071cf2f,rag_dense,"Mohammad Abdul Salam bin Hamed bin Mohammad, was known as Abu Meniar (died 1985), and his mother was named Aisha (died 1978); Abu Meniar earned a meager subsistence as a goat and camel herder",Piccadilly
-qa,57316e8ae6313a140071cf2f,rag_hybrid,Libyans,Piccadilly
+qa,57316e8ae6313a140071cf2f,rag_hybrid,Libyans were raped and imprisoned,Piccadilly
 qa,57274f575951b619008f880d,llm,2,731
 qa,57274f575951b619008f880d,rag_bm25,[3],731
-qa,57274f575951b619008f880d,rag_dense,"62,217 shares",731
-qa,57274f575951b619008f880d,rag_hybrid,"62,217 shares",731
+qa,57274f575951b619008f880d,rag_dense,"Arsenal's parent company, Arsenal Holdings plc, operates as a non-quoted public limited company, whose ownership is considerably different from that of other football clubs.",731
+qa,57274f575951b619008f880d,rag_hybrid,UEFA Europa League,731
 qa,56e151c2cd28a01900c677c1,llm,a conservatory,the New England Conservatory
 qa,56e151c2cd28a01900c677c1,rag_bm25,"50,000",the New England Conservatory
-qa,56e151c2cd28a01900c677c1,rag_dense,[3],the New England Conservatory
+qa,56e151c2cd28a01900c677c1,rag_dense,New England Conservatory,the New England Conservatory
 qa,56e151c2cd28a01900c677c1,rag_hybrid,Jesus,the New England Conservatory
 qa,57323785b9d445190005e8dc,llm,I don't know.,Shima
-qa,57323785b9d445190005e8dc,rag_bm25,Alexander the Great,Shima
-qa,57323785b9d445190005e8dc,rag_dense,[1],Shima
-qa,57323785b9d445190005e8dc,rag_hybrid,[3],Shima
+qa,57323785b9d445190005e8dc,rag_bm25,[2],Shima
+qa,57323785b9d445190005e8dc,rag_dense,Yamashiro sank at 04:19. Only one of Nishimura's force of seven ships survived the engagement.,Shima
+qa,57323785b9d445190005e8dc,rag_hybrid,"The Northern Mariana Islands had become a Japanese protectorate before the war. Japanese forces in Korea increased from 46,000 soldiers in 1941 to 300,000 in 1945. Japanese Korea conscripted 2.6 million forced laborers controlled with a collaborationist Korean police force; some 723,000 people were sent to work in the overseas empire and in metropolitan Japan. By 1942, Korean men were being conscripted into the Imperial Japanese Army. By January 1945, other world powers did not recognize Japanese rule in Korea and Taiwan.",Shima
 qa,5728a249ff5b5019007da36b,llm,I don't know,Sunday
-qa,5728a249ff5b5019007da36b,rag_bm25,[2],Sunday
-qa,5728a249ff5b5019007da36b,rag_dense,BYU has 21 NCAA varsity teams,Sunday
-qa,5728a249ff5b5019007da36b,rag_hybrid,[2],Sunday
+qa,5728a249ff5b5019007da36b,rag_bm25,[3],Sunday
+qa,5728a249ff5b5019007da36b,rag_dense,faculty found in violation of standards are either warned or called to meet with representatives of the Honor Council.,Sunday
+qa,5728a249ff5b5019007da36b,rag_hybrid,[3],Sunday
 qa,57276a1b5951b619008f898d,llm,I don't know.,Switzer
-qa,57276a1b5951b619008f898d,rag_bm25,Plymouth was besieged between 1642 and 1646,Switzer
+qa,57276a1b5951b619008f898d,rag_bm25,I don't know,Switzer
 qa,57276a1b5951b619008f898d,rag_dense,[3],Switzer
 qa,57276a1b5951b619008f898d,rag_hybrid,[3],Switzer
 qa,5732521e0fdd8d15006c6993,llm,"October 1, 1899",starting in the late 1980s
-qa,5732521e0fdd8d15006c6993,rag_bm25,"The French were unaware of German numerical superiority at the beginning of the battle as the German 2nd Army did not attack all at once. Treating the oncoming attacks as merely skirmishes, Fross",starting in the late 1980s
+qa,5732521e0fdd8d15006c6993,rag_bm25,[3],starting in the late 1980s
 qa,5732521e0fdd8d15006c6993,rag_dense,[3],starting in the late 1980s
-qa,5732521e0fdd8d15006c6993,rag_hybrid,Canadians a resentment,starting in the late 1980s
+qa,5732521e0fdd8d15006c6993,rag_hybrid,"The British government was close to bankruptcy, and Britain now faced the delicate task of pacifying its new French-Canadian subjects as well as the many American Indian tribes who had supported France.",starting in the late 1980s
 qa,572eda9dcb0c0d14000f1601,llm,English,New Mexico's laws are promulgated bilingually in Spanish and English.
 qa,572eda9dcb0c0d14000f1601,rag_bm25,[3],New Mexico's laws are promulgated bilingually in Spanish and English.
 qa,572eda9dcb0c0d14000f1601,rag_dense,Catalan was the first language in Catalonia to be recognized as an official language.,New Mexico's laws are promulgated bilingually in Spanish and English.
 qa,572eda9dcb0c0d14000f1601,rag_hybrid,Spain,New Mexico's laws are promulgated bilingually in Spanish and English.
 qa,5706bd3e0eeca41400aa0dd3,llm,69.0,35 years
-qa,5706bd3e0eeca41400aa0dd3,rag_bm25,Atlantic City,35 years
+qa,5706bd3e0eeca41400aa0dd3,rag_bm25,[3],35 years
 qa,5706bd3e0eeca41400aa0dd3,rag_dense,New Jersey,35 years
 qa,5706bd3e0eeca41400aa0dd3,rag_hybrid,[3],35 years
 qa,57316bfea5e9cc1400cdbf3e,llm,"September 11, 2001",1978
@@ -1472,32 +1472,32 @@ qa,57316bfea5e9cc1400cdbf3e,rag_bm25,[2],1978
 qa,57316bfea5e9cc1400cdbf3e,rag_dense,[2],1978
 qa,57316bfea5e9cc1400cdbf3e,rag_hybrid,[2],1978
 qa,5727973bf1498d1400e8fd00,llm,2001,1931
-qa,5727973bf1498d1400e8fd00,rag_bm25,RCA Victor,1931
-qa,5727973bf1498d1400e8fd00,rag_dense,RCA Victor,1931
-qa,5727973bf1498d1400e8fd00,rag_hybrid,RCA Victor,1931
+qa,5727973bf1498d1400e8fd00,rag_bm25,Pulitzer Prize,1931
+qa,5727973bf1498d1400e8fd00,rag_dense,"RCA Victor began offering special transparent red vinyl De Luxe pressings of some classical 78s, at a de luxe price",1931
+qa,5727973bf1498d1400e8fd00,rag_hybrid,tyrothricin could not be used systemically because of toxicity,1931
 qa,57325c4ab9d445190005eaa4,llm,United States,Germany
 qa,57325c4ab9d445190005eaa4,rag_bm25,pointing-based interface was a key to the development of the Wii.,Germany
-qa,57325c4ab9d445190005eaa4,rag_dense,Ellis Island and Ellis Island,Germany
+qa,57325c4ab9d445190005eaa4,rag_dense,Germany,Germany
 qa,57325c4ab9d445190005eaa4,rag_hybrid,[2],Germany
 qa,570d3aa2b3d812140066d591,llm,the French's reluctance to occupy the battlefield,German numerical superiority
 qa,570d3aa2b3d812140066d591,rag_bm25,Paris was the capital of French literature until the 17th century,German numerical superiority
-qa,570d3aa2b3d812140066d591,rag_dense,German 2nd Army,German numerical superiority
+qa,570d3aa2b3d812140066d591,rag_dense,[3],German numerical superiority
 qa,570d3aa2b3d812140066d591,rag_hybrid,German 2nd Army,German numerical superiority
 qa,5731daede99e3014001e6345,llm,a sluggishness,dedicated rites
 qa,5731daede99e3014001e6345,rag_bm25,[3],dedicated rites
-qa,5731daede99e3014001e6345,rag_dense,Egyptian government,dedicated rites
+qa,5731daede99e3014001e6345,rag_dense,Nasser,dedicated rites
 qa,5731daede99e3014001e6345,rag_hybrid,Byzantium,dedicated rites
 qa,5727f2323acd2414000df081,llm,$90,in excess of $472 million
 qa,5727f2323acd2414000df081,rag_bm25,"Roman Empire was reformed in the middle of the 4th century, diverting soldiers from the empire's frontier forces and allowing invaders to encroach.",in excess of $472 million
 qa,5727f2323acd2414000df081,rag_dense,"Alaskans must pay a total of $1,000 in 1982",in excess of $472 million
 qa,5727f2323acd2414000df081,rag_hybrid,[3],in excess of $472 million
 qa,5728a7b83acd2414000dfc03,llm,The National Association of Teachers,Domestic Organization
-qa,5728a7b83acd2414000dfc03,rag_bm25,[1],Domestic Organization
-qa,5728a7b83acd2414000dfc03,rag_dense,1],Domestic Organization
-qa,5728a7b83acd2414000dfc03,rag_hybrid,a student protested against a statement made four days prior by UK foreign minister Samuel Hoare,Domestic Organization
+qa,5728a7b83acd2414000dfc03,rag_bm25,German soldiers to the eastern front,Domestic Organization
+qa,5728a7b83acd2414000dfc03,rag_dense,[3],Domestic Organization
+qa,5728a7b83acd2414000dfc03,rag_hybrid,[3],Domestic Organization
 qa,5729052baf94a219006a9f60,llm,eugenics,scientific racism
-qa,5729052baf94a219006a9f60,rag_bm25,evolution,scientific racism
-qa,5729052baf94a219006a9f60,rag_dense,Moritz,scientific racism
+qa,5729052baf94a219006a9f60,rag_bm25,cultural texts,scientific racism
+qa,5729052baf94a219006a9f60,rag_dense,"he opposed polygenism, the idea that human races were fundamentally distinct and did not share a recent common ancestry",scientific racism
 qa,5729052baf94a219006a9f60,rag_hybrid,evolution,scientific racism
 qa,572e97d3dfa6aa1500f8d1b3,llm,Han,Liu Bang
 qa,572e97d3dfa6aa1500f8d1b3,rag_bm25,[3],Liu Bang
@@ -1506,34 +1506,34 @@ qa,572e97d3dfa6aa1500f8d1b3,rag_hybrid,Naraka,Liu Bang
 qa,57268eb1dd62a815002e8978,llm,2,twice
 qa,57268eb1dd62a815002e8978,rag_bm25,[3],twice
 qa,57268eb1dd62a815002e8978,rag_dense,[3],twice
-qa,57268eb1dd62a815002e8978,rag_hybrid,[3],twice
+qa,57268eb1dd62a815002e8978,rag_hybrid,MTV Video Music Awards,twice
 qa,572f1aaecb0c0d14000f1774,llm,Santa Monica,"Christian saint, Monica"
-qa,572f1aaecb0c0d14000f1774,rag_bm25,I don't know.,"Christian saint, Monica"
+qa,572f1aaecb0c0d14000f1774,rag_bm25,[3],"Christian saint, Monica"
 qa,572f1aaecb0c0d14000f1774,rag_dense,"Boston's early European settlers had first called the area Trimountaine (after its ""three mountains""—only","Christian saint, Monica"
 qa,572f1aaecb0c0d14000f1774,rag_hybrid,[1],"Christian saint, Monica"
 qa,57290af96aef0514001549e5,llm,I don't know.,the most important being the pagoda festival
-qa,57290af96aef0514001549e5,rag_bm25,"Harper Lee's novel To Kill a Mockingbird was in its 41st week on the bestseller list, it was awarded the Pulitzer Prize, stunning Lee.",the most important being the pagoda festival
-qa,57290af96aef0514001549e5,rag_dense,Indonesian country.,the most important being the pagoda festival
-qa,57290af96aef0514001549e5,rag_hybrid,Chindits operating against the Japanese lines of communication,the most important being the pagoda festival
+qa,57290af96aef0514001549e5,rag_bm25,Plymouth Colony,the most important being the pagoda festival
+qa,57290af96aef0514001549e5,rag_dense,[2],the most important being the pagoda festival
+qa,57290af96aef0514001549e5,rag_hybrid,[3],the most important being the pagoda festival
 qa,5726cac4f1498d1400e8eb66,llm,2010,1968
 qa,5726cac4f1498d1400e8eb66,rag_bm25,"Frossard was able to take the French to the battlefield, the French were able to take the French to the battlefield.",1968
 qa,5726cac4f1498d1400e8eb66,rag_dense,[3],1968
-qa,5726cac4f1498d1400e8eb66,rag_hybrid,"English is the official language of New Mexico, it is not the official language of New Mexico.",1968
+qa,5726cac4f1498d1400e8eb66,rag_hybrid,English as an official language,1968
 qa,572985b41d0469140077950d,llm,Ivan Ivan,Jacob Grimm
-qa,572985b41d0469140077950d,rag_bm25,Croatian language,Jacob Grimm
-qa,572985b41d0469140077950d,rag_dense,Croatian language,Jacob Grimm
-qa,572985b41d0469140077950d,rag_hybrid,Croatian language,Jacob Grimm
+qa,572985b41d0469140077950d,rag_bm25,Croatian,Jacob Grimm
+qa,572985b41d0469140077950d,rag_dense,I don't know.,Jacob Grimm
+qa,572985b41d0469140077950d,rag_hybrid,Croatian,Jacob Grimm
 qa,572ecc0fcb0c0d14000f157f,llm,a mile,Arctic Ocean
 qa,572ecc0fcb0c0d14000f157f,rag_bm25,[3],Arctic Ocean
 qa,572ecc0fcb0c0d14000f157f,rag_dense,I don't know,Arctic Ocean
 qa,572ecc0fcb0c0d14000f157f,rag_hybrid,North and South Oklahoma City,Arctic Ocean
 qa,56f8f3129e9bad19000a0764,llm,sulphur,millet
-qa,56f8f3129e9bad19000a0764,rag_bm25,Arctic Ocean,millet
+qa,56f8f3129e9bad19000a0764,rag_bm25,[3],millet
 qa,56f8f3129e9bad19000a0764,rag_dense,eat them,millet
-qa,56f8f3129e9bad19000a0764,rag_hybrid,Arctic Ocean,millet
+qa,56f8f3129e9bad19000a0764,rag_hybrid,[2],millet
 qa,573192cde6313a140071d0c3,llm,The Three Musketeers,Indiana Jones and the Last Crusade
-qa,573192cde6313a140071d0c3,rag_bm25,[2],Indiana Jones and the Last Crusade
-qa,573192cde6313a140071d0c3,rag_dense,[1],Indiana Jones and the Last Crusade
+qa,573192cde6313a140071d0c3,rag_bm25,Hollywood film,Indiana Jones and the Last Crusade
+qa,573192cde6313a140071d0c3,rag_dense,Algiers),Indiana Jones and the Last Crusade
 qa,573192cde6313a140071d0c3,rag_hybrid,Hollywood film,Indiana Jones and the Last Crusade
 qa,5725bd6f271a42140099d0f7,llm,I don't know.,"IJM stated that Project Lantern had led to ""an increase in law enforcement activity in sex trafficking cases"
 qa,5725bd6f271a42140099d0f7,rag_bm25,[3],"IJM stated that Project Lantern had led to ""an increase in law enforcement activity in sex trafficking cases"
@@ -1542,23 +1542,23 @@ qa,5725bd6f271a42140099d0f7,rag_hybrid,pointing-based interface,"IJM stated that
 qa,56de818dcffd8e1900b4b99b,llm,Gaelic,Eòrpa and Dè a-nis?
 qa,56de818dcffd8e1900b4b99b,rag_bm25,"a buck or a pound sterling, is often used to refer to dollars of various nations, including the U.S. dollar.",Eòrpa and Dè a-nis?
 qa,56de818dcffd8e1900b4b99b,rag_dense,[3],Eòrpa and Dè a-nis?
-qa,56de818dcffd8e1900b4b99b,rag_hybrid,Punjab,Eòrpa and Dè a-nis?
+qa,56de818dcffd8e1900b4b99b,rag_hybrid,University,Eòrpa and Dè a-nis?
 qa,57096d4bed30961900e840f4,llm,a person's identity,any individual's sense of identity
 qa,57096d4bed30961900e840f4,rag_bm25,thoracic,any individual's sense of identity
-qa,57096d4bed30961900e840f4,rag_dense,I,any individual's sense of identity
+qa,57096d4bed30961900e840f4,rag_dense,"Identities do not define people, people define identities. Everything changes from moment to moment, and to think of anything as having an ""enduring essence"" misses the fact that ""all things flow"", though it is often a useful way of speaking.",any individual's sense of identity
 qa,57096d4bed30961900e840f4,rag_hybrid,I,any individual's sense of identity
 qa,57318cb8a5e9cc1400cdc049,llm,"September 27, 2001",25 October
 qa,57318cb8a5e9cc1400cdc049,rag_bm25,Muammar Gaddafi,25 October
 qa,57318cb8a5e9cc1400cdc049,rag_dense,Muammar Gaddafi,25 October
 qa,57318cb8a5e9cc1400cdc049,rag_hybrid,Muammar Gaddafi,25 October
 qa,5725c6cd271a42140099d19b,llm,ten,six
-qa,5725c6cd271a42140099d19b,rag_bm25,Byzantium,six
+qa,5725c6cd271a42140099d19b,rag_bm25,I don't know.,six
 qa,5725c6cd271a42140099d19b,rag_dense,I don't know,six
 qa,5725c6cd271a42140099d19b,rag_hybrid,East African and black people live in Israel,six
 qa,57264c97dd62a815002e80db,llm,The Baltic Union,Catholic German Teutonic Knights
 qa,57264c97dd62a815002e80db,rag_bm25,I don't know.,Catholic German Teutonic Knights
-qa,57264c97dd62a815002e80db,rag_dense,"The Allies fired over 20,000 shells but failed to defeat the Russian batteries",Catholic German Teutonic Knights
-qa,57264c97dd62a815002e80db,rag_hybrid,I don't know.,Catholic German Teutonic Knights
+qa,57264c97dd62a815002e80db,rag_dense,German fleet were able to escape the fortress.,Catholic German Teutonic Knights
+qa,57264c97dd62a815002e80db,rag_hybrid,Slavic,Catholic German Teutonic Knights
 qa,56e19ab0e3433e1400423002,llm,a molecule,Hydrocarbons
 qa,56e19ab0e3433e1400423002,rag_bm25,Mozilla Foundation,Hydrocarbons
 qa,56e19ab0e3433e1400423002,rag_dense,[3],Hydrocarbons
@@ -1573,29 +1573,29 @@ qa,571d13cbdd7acb1400e4c215,rag_dense,[3],over US$1 billion
 qa,571d13cbdd7acb1400e4c215,rag_hybrid,[3],over US$1 billion
 qa,572846473acd2414000df84d,llm,He was a member of the House of Representatives.,"felt that, if freedom and civilization were to survive, it would have to be because the US would triumph over totalitarianism"
 qa,572846473acd2414000df84d,rag_bm25,CIA,"felt that, if freedom and civilization were to survive, it would have to be because the US would triumph over totalitarianism"
-qa,572846473acd2414000df84d,rag_dense,"Von Neumann entered government service (Manhattan Project) primarily because he felt that, if freedom and civilization were to survive, it would have to be because the US would triumph over totalitarianism from Nazism, Fascism and Soviet Communism","felt that, if freedom and civilization were to survive, it would have to be because the US would triumph over totalitarianism"
-qa,572846473acd2414000df84d,rag_hybrid,CIA,"felt that, if freedom and civilization were to survive, it would have to be because the US would triumph over totalitarianism"
+qa,572846473acd2414000df84d,rag_dense,ICBMs were the ne plus ultra of weapons,"felt that, if freedom and civilization were to survive, it would have to be because the US would triumph over totalitarianism"
+qa,572846473acd2414000df84d,rag_hybrid,"Von Neumann entered government service (Manhattan Project) primarily because he felt that, if freedom and civilization were to survive, it would have to be because the US would triumph over totalitarianism from Nazism, Fascism and Soviet Communism","felt that, if freedom and civilization were to survive, it would have to be because the US would triumph over totalitarianism"
 qa,5732275d0fdd8d15006c67f9,llm,Airfield of the North Carolina Air Force,Myitkyina
 qa,5732275d0fdd8d15006c67f9,rag_bm25,"British government included Norfolk Island as an auxiliary settlement, as proposed by John Call, in its plan for colonisation of New South Wales.",Myitkyina
-qa,5732275d0fdd8d15006c67f9,rag_dense,American destroyers had destroyed 17 of 25 submarines out of Ozawa's screening force.,Myitkyina
+qa,5732275d0fdd8d15006c67f9,rag_dense,The Partisans converged in the largest sea battle of World War II up to that point.,Myitkyina
 qa,5732275d0fdd8d15006c67f9,rag_hybrid,AA defences were no match for the German attack,Myitkyina
 qa,572a24703f37b31900478732,llm,the Ottomans,The Somali Muslim Ajuran Empire
 qa,572a24703f37b31900478732,rag_bm25,"Alexander the Great, was a savage and savage savage.",The Somali Muslim Ajuran Empire
 qa,572a24703f37b31900478732,rag_dense,I don't know,The Somali Muslim Ajuran Empire
 qa,572a24703f37b31900478732,rag_hybrid,Indonesia,The Somali Muslim Ajuran Empire
 qa,56db6c7ce7c41114004b50d8,llm,"20,000","between 2,000 and 10,000"
-qa,56db6c7ce7c41114004b50d8,rag_bm25,[1],"between 2,000 and 10,000"
-qa,56db6c7ce7c41114004b50d8,rag_dense,[2],"between 2,000 and 10,000"
-qa,56db6c7ce7c41114004b50d8,rag_hybrid,[2],"between 2,000 and 10,000"
+qa,56db6c7ce7c41114004b50d8,rag_bm25,Chinese supporters,"between 2,000 and 10,000"
+qa,56db6c7ce7c41114004b50d8,rag_dense,Chinese supporters,"between 2,000 and 10,000"
+qa,56db6c7ce7c41114004b50d8,rag_hybrid,Chinese supporters,"between 2,000 and 10,000"
 qa,5705f41752bb891400689726,llm,National Assembly,the Central Government of India
-qa,5705f41752bb891400689726,rag_bm25,English name,the Central Government of India
+qa,5705f41752bb891400689726,rag_bm25,"Ottoman state began taking on debt with the Crimean War, was forced to declare bankruptcy in 1875.",the Central Government of India
 qa,5705f41752bb891400689726,rag_dense,Camillus,the Central Government of India
 qa,5705f41752bb891400689726,rag_hybrid,France,the Central Government of India
 qa,57268a5d708984140094c95b,llm,History of the Soviet Union,history of economic plants
 qa,57268a5d708984140094c95b,rag_bm25,Plymouth,history of economic plants
-qa,57268a5d708984140094c95b,rag_dense,Slavic,history of economic plants
-qa,57268a5d708984140094c95b,rag_hybrid,Caucasians have argued that action was needed to correct social and economic inequities to level the playing field before natural selection could improve humanity further,history of economic plants
+qa,57268a5d708984140094c95b,rag_dense,I don't know,history of economic plants
+qa,57268a5d708984140094c95b,rag_hybrid,I don't know,history of economic plants
 qa,57271305f1498d1400e8f32f,llm,NBC,General Electric
-qa,57271305f1498d1400e8f32f,rag_bm25,France,General Electric
-qa,57271305f1498d1400e8f32f,rag_dense,Comcast was in talks to buy NBCUniversal,General Electric
-qa,57271305f1498d1400e8f32f,rag_hybrid,GM,General Electric
+qa,57271305f1498d1400e8f32f,rag_bm25,Arsenal Holdings plc,General Electric
+qa,57271305f1498d1400e8f32f,rag_dense,NBCUniversal,General Electric
+qa,57271305f1498d1400e8f32f,rag_hybrid,GE would maintain 49% control of the new company,General Electric
