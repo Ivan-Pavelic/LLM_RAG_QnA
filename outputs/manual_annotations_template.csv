@@ -1,193 +1,265 @@
 task,id,system,prediction,reference,rougeL_f1,exact_match_norm,manual_label
-qa,572851ba4b864d190016493e,llm,Laser rot,black spots that looked like mold or burned plastic which cause the disc to skip and the movie to exhibit excessive speckling noise,0.0,0.0,
-qa,572851ba4b864d190016493e,rag_bm25,"Virgin""",black spots that looked like mold or burned plastic which cause the disc to skip and the movie to exhibit excessive speckling noise,0.0,0.0,
-qa,572851ba4b864d190016493e,rag_dense,LDs,black spots that looked like mold or burned plastic which cause the disc to skip and the movie to exhibit excessive speckling noise,0.0,0.0,
-qa,5725f37fec44d21400f3d782,llm,New York City,Bahrain,0.0,0.0,
-qa,5725f37fec44d21400f3d782,rag_bm25,France was very much interested in colonial expansion and was willing to exploit the vulnerability of Hanover in war against Great Britain,Bahrain,0.0,0.0,
-qa,5725f37fec44d21400f3d782,rag_dense,I don't know,Bahrain,0.0,0.0,
-qa,57267762708984140094c71e,llm,New York City,"Centum City, Busan",0.3333333333333333,0.0,
-qa,57267762708984140094c71e,rag_bm25,I don't know,"Centum City, Busan",0.0,0.0,
-qa,57267762708984140094c71e,rag_dense,Africa,"Centum City, Busan",0.0,0.0,
-qa,56e962d799e8941900975f79,llm,59.8,39.2%,0.0,0.0,
-qa,56e962d799e8941900975f79,rag_bm25,"Plymouth's early history extends to the Bronze Age, when a first settlement emerged at Mount Batten.",39.2%,0.0,0.0,
-qa,56e962d799e8941900975f79,rag_dense,"about 50,418 or (39.2%)",39.2%,0.5,0.0,
-qa,56d28d3d59d6e4140014609c,llm,ten,487 million,0.0,0.0,
-qa,56d28d3d59d6e4140014609c,rag_bm25,Bangladesh,487 million,0.0,0.0,
-qa,56d28d3d59d6e4140014609c,rag_dense,Buddhism,487 million,0.0,0.0,
-qa,572c101b2babe914003c298b,llm,I don't know,Pascal,0.0,0.0,
-qa,572c101b2babe914003c298b,rag_bm25,[3],Pascal,0.0,0.0,
-qa,572c101b2babe914003c298b,rag_dense,cultural phenomena or cultural texts,Pascal,0.0,0.0,
-qa,572838743acd2414000df741,llm,I don't know,Ukrainian Greek Catholic Church,0.0,0.0,
-qa,572838743acd2414000df741,rag_bm25,[2],Ukrainian Greek Catholic Church,0.0,0.0,
-qa,572838743acd2414000df741,rag_dense,3,Ukrainian Greek Catholic Church,0.0,0.0,
-qa,57267cb7dd62a815002e86ed,llm,Victoria,General Gordon,0.0,0.0,
-qa,57267cb7dd62a815002e86ed,rag_bm25,"Apple did not develop the iPod software entirely in-house, instead using PortalPlayer's reference platform based on two ARM cores.",General Gordon,0.0,0.0,
-qa,57267cb7dd62a815002e86ed,rag_dense,Queen Victoria,General Gordon,0.0,0.0,
-qa,56de679e4396321400ee2895,llm,2,240,0.0,0.0,
-qa,56de679e4396321400ee2895,rag_bm25,Paris was the capital of French literature until the 17th century,240,0.0,0.0,
-qa,56de679e4396321400ee2895,rag_dense,[3],240,0.0,0.0,
-qa,572b6d5934ae481900deadfb,llm,Czech,Slovak,0.0,0.0,
-qa,572b6d5934ae481900deadfb,rag_bm25,Christianity,Slovak,0.0,0.0,
-qa,572b6d5934ae481900deadfb,rag_dense,Russia,Slovak,0.0,0.0,
-qa,57270c73f1498d1400e8f29d,llm,a capacitor,excess electric fields,0.0,0.0,
-qa,57270c73f1498d1400e8f29d,rag_bm25,Plymouth was built.,excess electric fields,0.0,0.0,
-qa,57270c73f1498d1400e8f29d,rag_dense,[3],excess electric fields,0.0,0.0,
-qa,570d94dfb3d812140066da6c,llm,ten,3,0.0,0.0,
-qa,570d94dfb3d812140066da6c,rag_bm25,paper,3,0.0,0.0,
-qa,570d94dfb3d812140066da6c,rag_dense,"The first overseas deployment of Canadian military forces occurred during the Second Boer War, when several units were raised to serve under British command.",3,0.0,0.0,
-qa,5728f7636aef0514001548f9,llm,English,Latin,0.0,0.0,
-qa,5728f7636aef0514001548f9,rag_bm25,Plymouth,Latin,0.0,0.0,
-qa,5728f7636aef0514001548f9,rag_dense,China,Latin,0.0,0.0,
-qa,56de65324396321400ee2882,llm,1830,1646,0.0,0.0,
-qa,56de65324396321400ee2882,rag_bm25,Plymouth Colony,1646,0.0,0.0,
-qa,56de65324396321400ee2882,rag_dense,British,1646,0.0,0.0,
-qa,56cc655c6d243a140015ef92,llm,acoustic,Bass,0.0,0.0,
-qa,56cc655c6d243a140015ef92,rag_bm25,[4],Bass,0.0,0.0,
-qa,56cc655c6d243a140015ef92,rag_dense,LDs were not manufactured properly; sometimes a substandard adhesive was used to sandwich together the two sides of the disc,Bass,0.0,0.0,
-qa,56cc36926d243a140015eecf,llm,I don't know.,The Yarlung rulers of Tibet,0.0,0.0,
-qa,56cc36926d243a140015eecf,rag_bm25,Israel,The Yarlung rulers of Tibet,0.0,0.0,
-qa,56cc36926d243a140015eecf,rag_dense,[3],The Yarlung rulers of Tibet,0.0,0.0,
-qa,570ce29dfed7b91900d45a74,llm,Luke,1:34,0.0,0.0,
-qa,570ce29dfed7b91900d45a74,rag_bm25,"Royal Collection of furniture and art, both restoring and adding to it.",1:34,0.0,0.0,
-qa,570ce29dfed7b91900d45a74,rag_dense,[3],1:34,0.0,0.0,
-qa,572684db5951b619008f7553,llm,I don't know.,Bill Nicholson,0.0,0.0,
-qa,572684db5951b619008f7553,rag_bm25,[1],Bill Nicholson,0.0,0.0,
-qa,572684db5951b619008f7553,rag_dense,[3],Bill Nicholson,0.0,0.0,
+qa,56d63b901c8504140094703c,llm,a sandstone,bronze dog figurines.,0.0,0.0,
+qa,56d63b901c8504140094703c,rag_bm25,Plymouth was renamed,bronze dog figurines.,0.0,0.0,
+qa,56d63b901c8504140094703c,rag_dense,"Parilia, Parentalia and Fordicidia",bronze dog figurines.,0.0,0.0,
+qa,56d63b901c8504140094703c,rag_hybrid,[3],bronze dog figurines.,0.0,0.0,
+qa,5726213938643c19005ad068,llm,The Queen Mary collection,Royal Collection of furniture and art,0.2,0.0,
+qa,5726213938643c19005ad068,rag_bm25,Windsor Castle,Royal Collection of furniture and art,0.0,0.0,
+qa,5726213938643c19005ad068,rag_dense,"Victoria's self-imposed isolation from the public diminished the popularity of the monarchy, and encouraged the growth of the republican movement.",Royal Collection of furniture and art,0.14285714285714288,0.0,
+qa,5726213938643c19005ad068,rag_hybrid,Windsor Castle,Royal Collection of furniture and art,0.0,0.0,
+qa,5728d0114b864d1900164ea5,llm,Soviet Union,Germans and Jewish minorities,0.0,0.0,
+qa,5728d0114b864d1900164ea5,rag_bm25,I don't know,Germans and Jewish minorities,0.0,0.0,
+qa,5728d0114b864d1900164ea5,rag_dense,Russia was the first Patriarchate of the Russian Orthodox Church.,Germans and Jewish minorities,0.0,0.0,
+qa,5728d0114b864d1900164ea5,rag_hybrid,"I don't know.""",Germans and Jewish minorities,0.0,0.0,
+qa,5728e3113acd2414000e0121,llm,I don't know.,"improvements in civil liberties and political rights, the release of political prisoners, and a loosening of restrictions.",0.0,0.0,
+qa,5728e3113acd2414000e0121,rag_bm25,I don't know,"improvements in civil liberties and political rights, the release of political prisoners, and a loosening of restrictions.",0.0,0.0,
+qa,5728e3113acd2414000e0121,rag_dense,"Myanmar is a mix of Indochinese (Burma, Cambodia, Laos and Thailand) and Chinese (Singapore and Vietnam).","improvements in civil liberties and political rights, the release of political prisoners, and a loosening of restrictions.",0.12121212121212122,0.0,
+qa,5728e3113acd2414000e0121,rag_hybrid,[2],"improvements in civil liberties and political rights, the release of political prisoners, and a loosening of restrictions.",0.0,0.0,
 qa,572fcaa9947a6a140053ccc0,llm,2,four phases,0.0,0.0,
-qa,572fcaa9947a6a140053ccc0,rag_bm25,"Pakistan, Buddhism has grown from 138 million adherents in 1910, of which 137 million were in Asia, to 495 million in 2010, of which 487 million were in Asia",four phases,0.0,0.0,
-qa,572fcaa9947a6a140053ccc0,rag_dense,[3],four phases,0.0,0.0,
-qa,56df5a4d8bc80c19004e4af0,llm,ranked 3rd,42nd,0.0,0.0,
-qa,56df5a4d8bc80c19004e4af0,rag_bm25,Plymouth Colony,42nd,0.0,0.0,
-qa,56df5a4d8bc80c19004e4af0,rag_dense,[2],42nd,0.0,0.0,
-qa,5727a4f1ff5b5019007d91cc,llm,I don't know.,political obstacles,0.0,0.0,
-qa,5727a4f1ff5b5019007d91cc,rag_bm25,Jews are a Christian,political obstacles,0.0,0.0,
-qa,5727a4f1ff5b5019007d91cc,rag_dense,I don't know,political obstacles,0.0,0.0,
-qa,56e427248c00841900fbaf02,llm,Japan,the northeastern coast of Estonia,0.0,0.0,
-qa,56e427248c00841900fbaf02,rag_bm25,sands,the northeastern coast of Estonia,0.0,0.0,
-qa,56e427248c00841900fbaf02,rag_dense,Greek,the northeastern coast of Estonia,0.0,0.0,
-qa,570b212d6b8089140040f761,llm,Xbox Live,EA Sports games,0.0,0.0,
-qa,570b212d6b8089140040f761,rag_bm25,[3],EA Sports games,0.0,0.0,
-qa,570b212d6b8089140040f761,rag_dense,Arsenal shareholder announced that it would sell the shares of the company to Arsenal Holdings plc,EA Sports games,0.0,0.0,
-qa,5728110f4b864d1900164387,llm,1872,23 November 1944,0.0,0.0,
-qa,5728110f4b864d1900164387,rag_bm25,I don't know,23 November 1944,0.0,0.0,
-qa,5728110f4b864d1900164387,rag_dense,international relations,23 November 1944,0.0,0.0,
-qa,572bff5edfb02c14005c6b2d,llm,They agree on the physics of the universe.,"God is omnipotent, omniscient, and benevolent,",0.0,0.0,
-qa,572bff5edfb02c14005c6b2d,rag_bm25,adverbial,"God is omnipotent, omniscient, and benevolent,",0.0,0.0,
-qa,572bff5edfb02c14005c6b2d,rag_dense,adverbial,"God is omnipotent, omniscient, and benevolent,",0.0,0.0,
-qa,572ea842dfa6aa1500f8d26f,llm,It is a genus of fungi.,higher internal heating,0.0,0.0,
-qa,572ea842dfa6aa1500f8d26f,rag_bm25,Neptune),higher internal heating,0.0,0.0,
-qa,572ea842dfa6aa1500f8d26f,rag_dense,[3],higher internal heating,0.0,0.0,
-qa,57070b1490286e26004fc83e,llm,adolescent,socio-political constructs,0.0,0.0,
-qa,57070b1490286e26004fc83e,rag_bm25,entomologist,socio-political constructs,0.0,0.0,
-qa,57070b1490286e26004fc83e,rag_dense,I don't know,socio-political constructs,0.0,0.0,
-qa,572a35beaf94a219006aa8a5,llm,a landslide,the detriment of local Ottoman interests,0.0,0.0,
-qa,572a35beaf94a219006aa8a5,rag_bm25,Britain moved to pre-empt this by invading Afghanistan,the detriment of local Ottoman interests,0.0,0.0,
-qa,572a35beaf94a219006aa8a5,rag_dense,I don't know).,the detriment of local Ottoman interests,0.0,0.0,
-qa,5731cb92e99e3014001e628c,llm,I don't know.,governmentally composed prayers for religious services,0.0,0.0,
-qa,5731cb92e99e3014001e628c,rag_bm25,[3],governmentally composed prayers for religious services,0.0,0.0,
-qa,5731cb92e99e3014001e628c,rag_dense,Plymouth Colony,governmentally composed prayers for religious services,0.0,0.0,
-qa,5726a91c5951b619008f7962,llm,festival,Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton,0.11764705882352941,0.0,
-qa,5726a91c5951b619008f7962,rag_bm25,Jesus' conception,Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton,0.0,0.0,
-qa,5726a91c5951b619008f7962,rag_dense,George V,Glastonbury also gives its name to an annual open-air rock festival held in nearby Pilton,0.0,0.0,
-sum,611,llm,South Africa's Freedom Day is celebrated in South Africa on April 27.,"South Africa marks 21 years since the first free election .
-Nation celebrates amid recent violent attack on immigrants .",0.2580645161290323,0.0,
-sum,611,rag_bm25,[1] iconic South African freedom fighter Nelson Mandela.,"South Africa marks 21 years since the first free election .
-Nation celebrates amid recent violent attack on immigrants .",0.07692307692307691,0.0,
-sum,611,rag_dense,[1] iconic South African freedom fighter Nelson Mandela.,"South Africa marks 21 years since the first free election .
-Nation celebrates amid recent violent attack on immigrants .",0.07692307692307691,0.0,
+qa,572fcaa9947a6a140053ccc0,rag_bm25,lag phase,four phases,0.5,0.0,
+qa,572fcaa9947a6a140053ccc0,rag_dense,cellulose,four phases,0.0,0.0,
+qa,572fcaa9947a6a140053ccc0,rag_hybrid,lag phase,four phases,0.5,0.0,
+qa,571d0e925efbb31900334e91,llm,0.8,>95%,0.0,0.0,
+qa,571d0e925efbb31900334e91,rag_bm25,"Bazaine, Frossard erroneously believed that he was in grave danger of being outflanked as German soldiers under General von Glume were spotted in Forbach.",>95%,0.0,0.0,
+qa,571d0e925efbb31900334e91,rag_dense,"I don't know.""",>95%,0.0,0.0,
+qa,571d0e925efbb31900334e91,rag_hybrid,RCA Victor,>95%,0.0,0.0,
+qa,56d1070517492d1400aab779,llm,New York City,the Five Points,0.0,0.0,
+qa,56d1070517492d1400aab779,rag_bm25,[3],the Five Points,0.0,0.0,
+qa,56d1070517492d1400aab779,rag_dense,[4],the Five Points,0.0,0.0,
+qa,56d1070517492d1400aab779,rag_hybrid,"New York, California, Texas",the Five Points,0.0,0.0,
+qa,572ac956be1ee31400cb824f,llm,New York City,at an Earth Day rally,0.0,0.0,
+qa,572ac956be1ee31400cb824f,rag_bm25,North American colonies were renamed Baptists,at an Earth Day rally,0.0,0.0,
+qa,572ac956be1ee31400cb824f,rag_dense,Hansen was a spokesman.,at an Earth Day rally,0.0,0.0,
+qa,572ac956be1ee31400cb824f,rag_hybrid,Hansen was a spokesman.,at an Earth Day rally,0.0,0.0,
+qa,56d120b717492d1400aaba07,llm,I don't know.,by following the Buddhist path,0.0,0.0,
+qa,56d120b717492d1400aaba07,rag_bm25,from the Soviets,by following the Buddhist path,0.25,0.0,
+qa,56d120b717492d1400aaba07,rag_dense,Azerbaijani soldiers were killed,by following the Buddhist path,0.0,0.0,
+qa,56d120b717492d1400aaba07,rag_hybrid,agent-cause,by following the Buddhist path,0.0,0.0,
+qa,570dea310b85d914000d7bcb,llm,less,less,1.0,1.0,
+qa,570dea310b85d914000d7bcb,rag_bm25,Dumbwaiters is a common characteristic of adolescents,less,0.0,0.0,
+qa,570dea310b85d914000d7bcb,rag_dense,Venezuelans who emigrated to the United States,less,0.0,0.0,
+qa,570dea310b85d914000d7bcb,rag_hybrid,Dumbwaiters),less,0.0,0.0,
+qa,572ffa37947a6a140053cecb,llm,a century,three centuries,0.5,0.0,
+qa,572ffa37947a6a140053cecb,rag_bm25,U.S.,three centuries,0.0,0.0,
+qa,572ffa37947a6a140053cecb,rag_dense,Alexander the Great,three centuries,0.0,0.0,
+qa,572ffa37947a6a140053cecb,rag_hybrid,Roman society,three centuries,0.0,0.0,
+qa,572771def1498d1400e8f84a,llm,I don't know.,Jewish sages,0.0,0.0,
+qa,572771def1498d1400e8f84a,rag_bm25,European imperialism,Jewish sages,0.0,0.0,
+qa,572771def1498d1400e8f84a,rag_dense,"Witnesses believe that the Bible condemns the mixing of religions, on the basis that there can only be one truth from God, and therefore reject interfaith and ecumenical movements. They believe that only their religion represents true Christianity, and that other religions fail to meet all the requirements set by God and will soon be destroyed.",Jewish sages,0.0,0.0,
+qa,572771def1498d1400e8f84a,rag_hybrid,Jerusalem,Jewish sages,0.0,0.0,
+qa,570b3f0fec8fbc190045b910,llm,"September 11, 2001",January 2002,0.0,0.0,
+qa,570b3f0fec8fbc190045b910,rag_bm25,Second Boer War,January 2002,0.0,0.0,
+qa,570b3f0fec8fbc190045b910,rag_dense,[2],January 2002,0.0,0.0,
+qa,570b3f0fec8fbc190045b910,rag_hybrid,U.S. to combat the Filipino Islamist groups is to help the Philippines to combat the Filipino Islamist groups.,January 2002,0.0,0.0,
+qa,572f7f37b2c2fd1400568195,llm,Canada,securing the seaward approaches to Quebec.,0.0,0.0,
+qa,572f7f37b2c2fd1400568195,rag_bm25,I don't know,securing the seaward approaches to Quebec.,0.0,0.0,
+qa,572f7f37b2c2fd1400568195,rag_dense,[3],securing the seaward approaches to Quebec.,0.0,0.0,
+qa,572f7f37b2c2fd1400568195,rag_hybrid,[3],securing the seaward approaches to Quebec.,0.0,0.0,
+qa,570f2b2b80d9841400ab3547,llm,a fox,Arctic animals,0.0,0.0,
+qa,570f2b2b80d9841400ab3547,rag_bm25,U.S. President Barack Obama,Arctic animals,0.0,0.0,
+qa,570f2b2b80d9841400ab3547,rag_dense,endemic to Antarctica,Arctic animals,0.0,0.0,
+qa,570f2b2b80d9841400ab3547,rag_hybrid,fungi,Arctic animals,0.0,0.0,
+qa,5726a33e708984140094cc9e,llm,1897,2010,0.0,0.0,
+qa,5726a33e708984140094cc9e,rag_bm25,I don't know.,2010,0.0,0.0,
+qa,5726a33e708984140094cc9e,rag_dense,Plymouth,2010,0.0,0.0,
+qa,5726a33e708984140094cc9e,rag_hybrid,[2],2010,0.0,0.0,
+qa,5727a85fff5b5019007d9212,llm,CDC,American Thoracic Society,0.0,0.0,
+qa,5727a85fff5b5019007d9212,rag_bm25,"All students and faculty, regardless of religion, are required to agree to adhere to an honor code",American Thoracic Society,0.0,0.0,
+qa,5727a85fff5b5019007d9212,rag_dense,[3],American Thoracic Society,0.0,0.0,
+qa,5727a85fff5b5019007d9212,rag_hybrid,"ganglia, the brain is enlarged and more complex, with visible hindbrain, midbrain and forebrain sections.",American Thoracic Society,0.0,0.0,
+qa,56e02e807aa994140058e306,llm,1897,1659,0.0,0.0,
+qa,56e02e807aa994140058e306,rag_bm25,[3],1659,0.0,0.0,
+qa,56e02e807aa994140058e306,rag_dense,[3],1659,0.0,0.0,
+qa,56e02e807aa994140058e306,rag_hybrid,I don't know,1659,0.0,0.0,
+qa,5706e5b49e06ca38007e9205,llm,I don't know,hormones,0.0,0.0,
+qa,5706e5b49e06ca38007e9205,rag_bm25,adolescence,hormones,0.0,0.0,
+qa,5706e5b49e06ca38007e9205,rag_dense,I don't know,hormones,0.0,0.0,
+qa,5706e5b49e06ca38007e9205,rag_hybrid,adolescence,hormones,0.0,0.0,
+qa,573075b12461fd1900a9ce26,llm,I don't know.,Two Stars for Peace,0.0,0.0,
+qa,573075b12461fd1900a9ce26,rag_bm25,I don't know.,Two Stars for Peace,0.0,0.0,
+qa,573075b12461fd1900a9ce26,rag_dense,"Voltaire, Jean-Jacques Rousseau, Pierre de Marivaux, and Beaumarchais",Two Stars for Peace,0.0,0.0,
+qa,573075b12461fd1900a9ce26,rag_hybrid,[2],Two Stars for Peace,0.0,0.0,
+qa,5729c7dd3f37b31900478556,llm,2,15,0.0,0.0,
+qa,5729c7dd3f37b31900478556,rag_bm25,[3],15,0.0,0.0,
+qa,5729c7dd3f37b31900478556,rag_dense,IBM announced that company executives would forgo bonuses for fiscal year 2013.,15,0.0,0.0,
+qa,5729c7dd3f37b31900478556,rag_hybrid,[3],15,0.0,0.0,
+qa,5730807e069b531400832129,llm,a new standard of translation,accuracy and style,0.0,0.0,
+qa,5730807e069b531400832129,rag_bm25,[3],accuracy and style,0.0,0.0,
+qa,5730807e069b531400832129,rag_dense,Islamist community began with the birth of medieval universities in the 12th century.,accuracy and style,0.0,0.0,
+qa,5730807e069b531400832129,rag_hybrid,[3],accuracy and style,0.0,0.0,
+qa,570c376aec8fbc190045bddb,llm,69,675,0.0,0.0,
+qa,570c376aec8fbc190045bddb,rag_bm25,I don't know,675,0.0,0.0,
+qa,570c376aec8fbc190045bddb,rag_dense,Muslims,675,0.0,0.0,
+qa,570c376aec8fbc190045bddb,rag_hybrid,[3],675,0.0,0.0,
+qa,572eaae1dfa6aa1500f8d289,llm,The Quran,Arabic,0.0,0.0,
+qa,572eaae1dfa6aa1500f8d289,rag_bm25,New York City,Arabic,0.0,0.0,
+qa,572eaae1dfa6aa1500f8d289,rag_dense,Al-Aqsa Mosque,Arabic,0.0,0.0,
+qa,572eaae1dfa6aa1500f8d289,rag_hybrid,"The Crimean War also saw the first tactical use of railways and other modern inventions, such as the electric telegraph, with the first ""live"" war reporting to The Times by William Howard Russell.",Arabic,0.0,0.0,
+qa,5719c35b10f8ca1400304e54,llm,Boeing,Boeing,1.0,1.0,
+qa,5719c35b10f8ca1400304e54,rag_bm25,"Walter Bagehot's Physics and Politics (1872), attempted to extend the idea of natural selection to competition between nations and between human races.",Boeing,0.0,0.0,
+qa,5719c35b10f8ca1400304e54,rag_dense,Congress was able to impose a law that would allow the state to impose a law that would allow the state to impose a law that would allow the state to impose a law that would allow the state to impose a law that would allow the state to impose a law that would allow the state to impose a law that would allow the state to impose a law that would allow the state to impose a law that would allow the state to impose a law that would allow the state to impose a law that would allow the state to impose,Boeing,0.0,0.0,
+qa,5719c35b10f8ca1400304e54,rag_hybrid,I don't know,Boeing,0.0,0.0,
+qa,57323785b9d445190005e8dc,llm,I don't know.,Shima,0.0,0.0,
+qa,57323785b9d445190005e8dc,rag_bm25,Alexander the Great,Shima,0.0,0.0,
+qa,57323785b9d445190005e8dc,rag_dense,[1],Shima,0.0,0.0,
+qa,57323785b9d445190005e8dc,rag_hybrid,[3],Shima,0.0,0.0,
+qa,572985b41d0469140077950d,llm,Ivan Ivan,Jacob Grimm,0.0,0.0,
+qa,572985b41d0469140077950d,rag_bm25,Croatian language,Jacob Grimm,0.0,0.0,
+qa,572985b41d0469140077950d,rag_dense,Croatian language,Jacob Grimm,0.0,0.0,
+qa,572985b41d0469140077950d,rag_hybrid,Croatian language,Jacob Grimm,0.0,0.0,
+qa,5725bd6f271a42140099d0f7,llm,I don't know.,"IJM stated that Project Lantern had led to ""an increase in law enforcement activity in sex trafficking cases",0.0,0.0,
+qa,5725bd6f271a42140099d0f7,rag_bm25,[3],"IJM stated that Project Lantern had led to ""an increase in law enforcement activity in sex trafficking cases",0.0,0.0,
+qa,5725bd6f271a42140099d0f7,rag_dense,IBM are the ability to make a computer that can be used to make a computer.,"IJM stated that Project Lantern had led to ""an increase in law enforcement activity in sex trafficking cases",0.11764705882352941,0.0,
+qa,5725bd6f271a42140099d0f7,rag_hybrid,pointing-based interface,"IJM stated that Project Lantern had led to ""an increase in law enforcement activity in sex trafficking cases",0.0,0.0,
+qa,56e19ab0e3433e1400423002,llm,a molecule,Hydrocarbons,0.0,0.0,
+qa,56e19ab0e3433e1400423002,rag_bm25,Mozilla Foundation,Hydrocarbons,0.0,0.0,
+qa,56e19ab0e3433e1400423002,rag_dense,[3],Hydrocarbons,0.0,0.0,
+qa,56e19ab0e3433e1400423002,rag_hybrid,"Plants and other photonthetic organisms are at the base of most food chains because they use the energy from the sun and nutrients from the soil and atmosphere, converting them into a form that can be used by animals",Hydrocarbons,0.0,0.0,
+qa,5732275d0fdd8d15006c67f9,llm,Airfield of the North Carolina Air Force,Myitkyina,0.0,0.0,
+qa,5732275d0fdd8d15006c67f9,rag_bm25,"British government included Norfolk Island as an auxiliary settlement, as proposed by John Call, in its plan for colonisation of New South Wales.",Myitkyina,0.0,0.0,
+qa,5732275d0fdd8d15006c67f9,rag_dense,American destroyers had destroyed 17 of 25 submarines out of Ozawa's screening force.,Myitkyina,0.0,0.0,
+qa,5732275d0fdd8d15006c67f9,rag_hybrid,AA defences were no match for the German attack,Myitkyina,0.0,0.0,
 sum,2384,llm,Nico Rosberg's team-mate. Hamilton was a 'strange' driver in the first round of the Chinese Grand Prix. Rosberg was a 'strange' driver.,"Nico Rosberg was the last driver out of the pit-lane and was forced to turn in a quicker out-lap than he would have liked ahead of his final shot at pole .
 The German narrowly lost out  to his team-mate Lewis Hamilton .
 Rosberg was just 0.042secs slower than his Mercedes rival .
 Rosberg also said: 'Oh, come on, guys', over the team radio after he was informed he'd missed out on pole for Sunday's Chinese Grand Prix .",0.1904761904761905,0.0,
-sum,2384,rag_bm25,Hamilton's fastest lap in the first round of the race. Hamilton will start from the front of the pack with Jenson Button 17th and Fernando Alonso 18th. Hamilton will start from the front of the pack with Jenson Button 17th and Fernando Alonso 18th.,"Nico Rosberg was the last driver out of the pit-lane and was forced to turn in a quicker out-lap than he would have liked ahead of his final shot at pole .
+sum,2384,rag_bm25,Lewis Hamilton's first public criticism of his team. Hamilton will start from the front of the pack as he bids to win his fourth grand prix in China. Hamilton will start behind pole-sitter Lewis Hamilton with Sebastian Vettel third on the grid.,"Nico Rosberg was the last driver out of the pit-lane and was forced to turn in a quicker out-lap than he would have liked ahead of his final shot at pole .
 The German narrowly lost out  to his team-mate Lewis Hamilton .
 Rosberg was just 0.042secs slower than his Mercedes rival .
-Rosberg also said: 'Oh, come on, guys', over the team radio after he was informed he'd missed out on pole for Sunday's Chinese Grand Prix .",0.1111111111111111,0.0,
-sum,2384,rag_dense,"Hamilton will start from the front of the pack as he bids to win his fourth grand prix in China. Hamilton will start from the front of the pack as he bids to win his fourth grand prix in China. Hamilton will start from the front of the pack as he bids to win his fourth grand prix in China. The German has now been out-qualified by Hamilton at each of the three races this season. Hamilton, who is customarily gracious in defeat, fell slightly short of Hamilton’s mark and was grumpy afterwards. He said: ’It was not ideal to put me","Nico Rosberg was the last driver out of the pit-lane and was forced to turn in a quicker out-lap than he would have liked ahead of his final shot at pole .
+Rosberg also said: 'Oh, come on, guys', over the team radio after he was informed he'd missed out on pole for Sunday's Chinese Grand Prix .",0.15999999999999998,0.0,
+sum,2384,rag_dense,Lewis Hamilton's first public criticism of his team. Hamilton will start from the front of the pack as he bids to win his fourth grand prix in China. Hamilton will start behind pole-sitter Lewis Hamilton with Sebastian Vettel third on the grid.,"Nico Rosberg was the last driver out of the pit-lane and was forced to turn in a quicker out-lap than he would have liked ahead of his final shot at pole .
 The German narrowly lost out  to his team-mate Lewis Hamilton .
 Rosberg was just 0.042secs slower than his Mercedes rival .
-Rosberg also said: 'Oh, come on, guys', over the team radio after he was informed he'd missed out on pole for Sunday's Chinese Grand Prix .",0.16216216216216214,0.0,
-sum,8241,llm,A hate preacher who was invited to speak at the Oxford Union has been refused a passport.,"Preacher Trevor Brooks has been refused a passport by the Home Office .
-Brooks, 39, is an associate of Islamist firebrand preacher Anjem Choudary .
-A Home Office letter said he is linked to banned group Al Muhajiroun .
-It added he was assessed as being likely to travel to Syria to fight for ISIS .",0.1739130434782609,0.0,
-sum,8241,rag_bm25,A radical Muslim preacher has been refused a passport after the Home Office accused him of planning to join Islamic State.,"Preacher Trevor Brooks has been refused a passport by the Home Office .
-Brooks, 39, is an associate of Islamist firebrand preacher Anjem Choudary .
-A Home Office letter said he is linked to banned group Al Muhajiroun .
-It added he was assessed as being likely to travel to Syria to fight for ISIS .",0.3013698630136986,0.0,
-sum,8241,rag_dense,A radical Muslim preacher has been refused a passport after the Home Office accused him of planning to join Islamic State.,"Preacher Trevor Brooks has been refused a passport by the Home Office .
-Brooks, 39, is an associate of Islamist firebrand preacher Anjem Choudary .
-A Home Office letter said he is linked to banned group Al Muhajiroun .
-It added he was assessed as being likely to travel to Syria to fight for ISIS .",0.3013698630136986,0.0,
-sum,1850,llm,Derby want Sean Dyche to replace Steve McClaren. Dyche has been linked with a move to Newcastle. Derby want McClaren to replace Steve McClaren.,"Steve McClaren has been linked with a number of jobs including Newcastle .
-Derby are chasing a play-off place and are sixth in the Championship .
-The rams have been impressed with Sean Dyche in the Premier League .
-Derby want the Burnley boss to replace McClaren if he leaves this summer .",0.35135135135135137,0.0,
-sum,1850,rag_bm25,Derby County want Sean Dyche to replace Steve McClaren. Derby want Sean Dyche to replace Steve McClaren. Dyche has been linked with a move to Newcastle at the end of the season. McClaren has been heavily backed to replace Alan Pardew at Newcastle earlier this season.,"Steve McClaren has been linked with a number of jobs including Newcastle .
-Derby are chasing a play-off place and are sixth in the Championship .
-The rams have been impressed with Sean Dyche in the Premier League .
-Derby want the Burnley boss to replace McClaren if he leaves this summer .",0.2916666666666667,0.0,
-sum,1850,rag_dense,Derby County want Sean Dyche to replace Steve McClaren. Derby want Sean Dyche to replace Steve McClaren.,"Steve McClaren has been linked with a number of jobs including Newcastle .
-Derby are chasing a play-off place and are sixth in the Championship .
-The rams have been impressed with Sean Dyche in the Premier League .
-Derby want the Burnley boss to replace McClaren if he leaves this summer .",0.23880597014925375,0.0,
-sum,2303,llm,"Ricky Hatton's former trainer has been charged with sexual assault on a girl under the age of 16. The former two-weight world champion has been charged with a sexual assault on a girl under the age of 16. Shannon trained Hatton for just one fight, against Vyacheslav Senchenko.","Boxing trainer Bob Shannon has been charged with sexual assault .
-Shannon is best known for training Ricky Hatton in 2012 .
-Hatton lost their only fight together against Vyacheslav Senchenko in 2012 .
-Shannon will appear before magistrates in Manchester next week .",0.3111111111111111,0.0,
-sum,2303,rag_bm25,Ricky Hatton’s former trainer has been charged with sexually assaulting a girl under the age of 16.,"Boxing trainer Bob Shannon has been charged with sexual assault .
-Shannon is best known for training Ricky Hatton in 2012 .
-Hatton lost their only fight together against Vyacheslav Senchenko in 2012 .
-Shannon will appear before magistrates in Manchester next week .",0.24137931034482757,0.0,
-sum,2303,rag_dense,"[1] win the welterweight world title, under the tutelage of long-term trainer Billy Graham. Hatton’s weight fluctuations between fights eventually caught up with him and he lost super-fights against Floyd Mayweather in 2007 and Manny Pacquiao two years later, before retiring for the first time. He turned to Shannon to guide his comeback in 2012 but the Senchenko defeat was their only fight together.","Boxing trainer Bob Shannon has been charged with sexual assault .
-Shannon is best known for training Ricky Hatton in 2012 .
-Hatton lost their only fight together against Vyacheslav Senchenko in 2012 .
-Shannon will appear before magistrates in Manchester next week .",0.16822429906542055,0.0,
-sum,1842,llm,Nabil Fekir's father says he would not go to Manchester City to sit on the bench. The Lyon star has been attracting interest from Premier League clubs but his family are disappointed with his insistence on pursuing a deal with City. Fekir has been attracting interest from Premier League clubs but his family are reportedly disappointed with their insistence on pursuing a deal with City.,"Lyon star Nabil Fekir has attracted interest from Premier League clubs .
-Frontman's father believes Fekir would progress and develop at Arsenal .
-However, Fekir Snr thinks his son would be stuck on bench at Man City .",0.2549019607843137,0.0,
-sum,1842,rag_bm25,"Nabil Fekir's father said: 'Nabil would like to finish 1st or 2nd and play Champions League football with Lyon. If he leaves, it'll be for Arsenal. It's the only club that can enable him to progress, with Arsene Wenger. He will not go to Manchester City to sit on the bench.","Lyon star Nabil Fekir has attracted interest from Premier League clubs .
-Frontman's father believes Fekir would progress and develop at Arsenal .
-However, Fekir Snr thinks his son would be stuck on bench at Man City .",0.2,0.0,
-sum,1842,rag_dense,"Nabil Fekir's father insists Arsenal would be the ideal destination for his son, rather than a move to Manchester City. Fekir recently split with his agents after his family were disappointed with their insistence on pursuing a deal with City. Fekir recently split with his agents after his family were reportedly disappointed with their insistence on pursuing a deal with City. Fekir recently split with his agents after his family were reportedly disappointed with their insistence on pursuing a deal with City.","Lyon star Nabil Fekir has attracted interest from Premier League clubs .
-Frontman's father believes Fekir would progress and develop at Arsenal .
-However, Fekir Snr thinks his son would be stuck on bench at Man City .",0.15126050420168066,0.0,
-sum,8185,llm,"Study found that just one extra meal out a week raises the odds of having high blood pressure by six per cent. Eating out is associated with higher calorie, saturated fat and salt intake.","Those who often dine out are more likely to have elevated blood pressure .
-Eating out is associated with higher calorie, saturated fat and salt intake .
-Researchers found 27.4% of Singapore's population had pre-hypertension .
-Of these, more than a third ate more than 12 meals out every week .",0.38095238095238104,0.0,
-sum,8185,rag_bm25,Study found that just one extra meal out a week raised the odds of having high blood pressure by six per cent. The study found that even eating one extra meal out raised the odds of having high blood pressure by six per cent.,"Those who often dine out are more likely to have elevated blood pressure .
-Eating out is associated with higher calorie, saturated fat and salt intake .
-Researchers found 27.4% of Singapore's population had pre-hypertension .
-Of these, more than a third ate more than 12 meals out every week .",0.14893617021276598,0.0,
-sum,8185,rag_dense,Researchers in Singapore found that pre-hypertension and hypertension were more likely to eat more meals away from home than in men.,"Those who often dine out are more likely to have elevated blood pressure .
-Eating out is associated with higher calorie, saturated fat and salt intake .
-Researchers found 27.4% of Singapore's population had pre-hypertension .
-Of these, more than a third ate more than 12 meals out every week .",0.19444444444444445,0.0,
-sum,1462,llm,"Smartphones are the most popular item, with an average of 1.7 per household. Smartphones are the most popular item, with an average of 1.7 per household.","Smartphones are the most common web devices, at 1.7 per home .
-Laptops and tablets are just behind, a YouGov poll has found .
-Meanwhile, digital advertising has hit a record high of £7.2billion .",0.3225806451612903,0.0,
-sum,1462,rag_bm25,"The survey found the average Briton who is online is willing to pay a maximum of £1.53 a month for their email service, £1.33 to use search engines, £1.10 for video content, 92p for news websites, 88p.","Smartphones are the most common web devices, at 1.7 per home .
-Laptops and tablets are just behind, a YouGov poll has found .
-Meanwhile, digital advertising has hit a record high of £7.2billion .",0.1081081081081081,0.0,
-sum,1462,rag_dense,"The survey found the average Briton who is online is willing to pay a maximum of £1.53 a month for their email service, £1.33 to use search engines, £1.10 for video content, 92p for news websites, 88p.","Smartphones are the most common web devices, at 1.7 per home .
-Laptops and tablets are just behind, a YouGov poll has found .
-Meanwhile, digital advertising has hit a record high of £7.2billion .",0.1081081081081081,0.0,
+Rosberg also said: 'Oh, come on, guys', over the team radio after he was informed he'd missed out on pole for Sunday's Chinese Grand Prix .",0.15999999999999998,0.0,
+sum,2384,rag_hybrid,Lewis Hamilton's first public criticism of his team. Hamilton will start from the front of the pack as he bids to win his fourth grand prix in China. Hamilton will start behind pole-sitter Lewis Hamilton with Sebastian Vettel third on the grid.,"Nico Rosberg was the last driver out of the pit-lane and was forced to turn in a quicker out-lap than he would have liked ahead of his final shot at pole .
+The German narrowly lost out  to his team-mate Lewis Hamilton .
+Rosberg was just 0.042secs slower than his Mercedes rival .
+Rosberg also said: 'Oh, come on, guys', over the team radio after he was informed he'd missed out on pole for Sunday's Chinese Grand Prix .",0.15999999999999998,0.0,
+sum,1375,llm,Spectators were seen smiling as they watched the team of animals in action. Spectators were seen smiling as they watched the team of animals in action.,"The critters were filmed in action after getting a makeshift backboard and hoop installed in their pen .
+The zoo put on a range of Final Four activities over the weekend for visitors including a basketball-theme scavenger hunt .
+March Madness is set to come to a close tonight as the Wisconsin Badgers and Duke Blue Devils go head-to-head at the Lucas Oil Stadium .",0.10989010989010987,0.0,
+sum,1375,rag_bm25,Spectators were seen smiling as they watched the team of animals in action.,"The critters were filmed in action after getting a makeshift backboard and hoop installed in their pen .
+The zoo put on a range of Final Four activities over the weekend for visitors including a basketball-theme scavenger hunt .
+March Madness is set to come to a close tonight as the Wisconsin Badgers and Duke Blue Devils go head-to-head at the Lucas Oil Stadium .",0.07692307692307693,0.0,
+sum,1375,rag_dense,Spectators were seen smiling as they watched the team of animals in action.,"The critters were filmed in action after getting a makeshift backboard and hoop installed in their pen .
+The zoo put on a range of Final Four activities over the weekend for visitors including a basketball-theme scavenger hunt .
+March Madness is set to come to a close tonight as the Wisconsin Badgers and Duke Blue Devils go head-to-head at the Lucas Oil Stadium .",0.07692307692307693,0.0,
+sum,1375,rag_hybrid,Spectators were seen smiling as they watched the team of animals in action.,"The critters were filmed in action after getting a makeshift backboard and hoop installed in their pen .
+The zoo put on a range of Final Four activities over the weekend for visitors including a basketball-theme scavenger hunt .
+March Madness is set to come to a close tonight as the Wisconsin Badgers and Duke Blue Devils go head-to-head at the Lucas Oil Stadium .",0.07692307692307693,0.0,
 sum,138,llm,"The driver of a Lamborghini was killed in a crash at Walt Disney World Speedway in Orlando, Florida, on Sunday.","The crash occurred at the Exotic Driving Experience at Walt Disney World Speedway .
 Officials say the driver, 24-year-old Tavon Watson, lost control of a Lamborghini .
 Passenger Gary Terry, 36, died at the scene .",0.2545454545454545,0.0,
-sum,138,rag_bm25,What was supposed to be a fantasy sports car ride at Walt Disney World Speedway turned deadly when a Lamborghini crashed into a guardrail.,"The crash occurred at the Exotic Driving Experience at Walt Disney World Speedway .
+sum,138,rag_bm25,"The Lamborghini's passenger, 36-year-old Gary Terry, died at the scene, the Florida Highway Patrol said.","The crash occurred at the Exotic Driving Experience at Walt Disney World Speedway .
 Officials say the driver, 24-year-old Tavon Watson, lost control of a Lamborghini .
-Passenger Gary Terry, 36, died at the scene .",0.23728813559322035,0.0,
-sum,138,rag_dense,What was supposed to be a fantasy sports car ride at Walt Disney World Speedway turned deadly when a Lamborghini crashed into a guardrail.,"The crash occurred at the Exotic Driving Experience at Walt Disney World Speedway .
+Passenger Gary Terry, 36, died at the scene .",0.33962264150943394,0.0,
+sum,138,rag_dense,"The Lamborghini's passenger, 36-year-old Gary Terry, died at the scene, the Florida Highway Patrol said.","The crash occurred at the Exotic Driving Experience at Walt Disney World Speedway .
 Officials say the driver, 24-year-old Tavon Watson, lost control of a Lamborghini .
-Passenger Gary Terry, 36, died at the scene .",0.23728813559322035,0.0,
-sum,2820,llm,Manchester United boss says he is keen on staying at Atletico Madrid. The 30-year-old has admitted he is 'proud' to be linked with a move to Manchester United.,"Miranda has been linked with a summer move to Manchester United .
-However the Brazilian centre back is keen on staying at Atletico Madrid .
-Miranda has said he is 'proud' to be on Louis van Gaal's radar .",0.4477611940298507,0.0,
-sum,2820,rag_bm25,Manchester United target Miranda has revealed his delight at being linked with a move to Louis van Gaal's side. The 30-year-old has revealed his delight at being linked with a move to Manchester United. The Brazilian centre back is said to be on Van Gaal's summer wishlist as the Dutchman is keen on strengthening his defensive options ahead of the 2015-16 campaign.,"Miranda has been linked with a summer move to Manchester United .
-However the Brazilian centre back is keen on staying at Atletico Madrid .
-Miranda has said he is 'proud' to be on Louis van Gaal's radar .",0.40384615384615385,0.0,
-sum,2820,rag_dense,Manchester United boss says he is keen on staying at Atletico Madrid. The 30-year-old has revealed he is keen on staying at Atletico Madrid. The Brazilian centre back has revealed he is keen on staying at Atletico Madrid.,"Miranda has been linked with a summer move to Manchester United .
-However the Brazilian centre back is keen on staying at Atletico Madrid .
-Miranda has said he is 'proud' to be on Louis van Gaal's radar .",0.36363636363636365,0.0,
+Passenger Gary Terry, 36, died at the scene .",0.33962264150943394,0.0,
+sum,138,rag_hybrid,"The Lamborghini's passenger, 36-year-old Gary Terry, died at the scene, the Florida Highway Patrol said.","The crash occurred at the Exotic Driving Experience at Walt Disney World Speedway .
+Officials say the driver, 24-year-old Tavon Watson, lost control of a Lamborghini .
+Passenger Gary Terry, 36, died at the scene .",0.33962264150943394,0.0,
+sum,3744,llm,Arsenal midfielder has reportedly told the Sun he is open to a move to the Emirates. Wanyama has reportedly told the Sun he is open to a move to the Emirates.,"Victor Wanyama has starred in the heart of Southampton's midfield .
+Reports claim he has spoken to Arsene Wenger over a summer transfer .
+Team-mate Morgan Schneiderlin has also been linked with the Gunners .
+READ: Bacary Sagna insists he does not regret leaving Arsenal .
+READ: Arsenal fans should give Cesc Fabregas a good welcome .",0.2117647058823529,0.0,
+sum,3744,rag_bm25,Arsenal midfielder has reportedly told the Sun he is open to a move to the Emirates. Wanyama has reportedly not ruled out a reunion with Arsenal boss Mauricio Pochettino.,"Victor Wanyama has starred in the heart of Southampton's midfield .
+Reports claim he has spoken to Arsene Wenger over a summer transfer .
+Team-mate Morgan Schneiderlin has also been linked with the Gunners .
+READ: Bacary Sagna insists he does not regret leaving Arsenal .
+READ: Arsenal fans should give Cesc Fabregas a good welcome .",0.19277108433734938,0.0,
+sum,3744,rag_dense,Arsenal midfielder has reportedly told the Sun he is open to a move to the Emirates. Wanyama has reportedly not ruled out a reunion with Arsenal boss Mauricio Pochettino.,"Victor Wanyama has starred in the heart of Southampton's midfield .
+Reports claim he has spoken to Arsene Wenger over a summer transfer .
+Team-mate Morgan Schneiderlin has also been linked with the Gunners .
+READ: Bacary Sagna insists he does not regret leaving Arsenal .
+READ: Arsenal fans should give Cesc Fabregas a good welcome .",0.19277108433734938,0.0,
+sum,3744,rag_hybrid,Arsenal midfielder has reportedly told the Sun he is open to a move to the Emirates. Wanyama has reportedly not ruled out a reunion with Arsenal boss Mauricio Pochettino.,"Victor Wanyama has starred in the heart of Southampton's midfield .
+Reports claim he has spoken to Arsene Wenger over a summer transfer .
+Team-mate Morgan Schneiderlin has also been linked with the Gunners .
+READ: Bacary Sagna insists he does not regret leaving Arsenal .
+READ: Arsenal fans should give Cesc Fabregas a good welcome .",0.19277108433734938,0.0,
+sum,274,llm,"The film's director, Michelle MacLaren, has been confirmed as director of the upcoming ""Wonder Woman"" movie.","Michelle MacLaren is no longer set to direct the first ""Wonder Woman"" theatrical movie .
+MacLaren left the project over ""creative differences""
+Movie is currently set for 2017 .",0.27272727272727276,0.0,
+sum,274,rag_bm25,"The movie, starring Gal Gadot in the title role of the Amazon princess, is still set for release on June 23, 2017.","Michelle MacLaren is no longer set to direct the first ""Wonder Woman"" theatrical movie .
+MacLaren left the project over ""creative differences""
+Movie is currently set for 2017 .",0.2857142857142857,0.0,
+sum,274,rag_dense,"The movie, starring Gal Gadot in the title role of the Amazon princess, is still set for release on June 23, 2017.","Michelle MacLaren is no longer set to direct the first ""Wonder Woman"" theatrical movie .
+MacLaren left the project over ""creative differences""
+Movie is currently set for 2017 .",0.2857142857142857,0.0,
+sum,274,rag_hybrid,"The movie, starring Gal Gadot in the title role of the Amazon princess, is still set for release on June 23, 2017.","Michelle MacLaren is no longer set to direct the first ""Wonder Woman"" theatrical movie .
+MacLaren left the project over ""creative differences""
+Movie is currently set for 2017 .",0.2857142857142857,0.0,
+sum,2318,llm,The panel of eight medical professionals will be formed by the Football Association. The panel will be based on the advice of the Football Association. The panel will be based on the advice of the Football Association.,"Football Association have created a panel made up of concussion experts .
+The eight medical professionals will meet in May to discuss future plans .
+Game has been criticised for not dealing with head injuries properly .",0.16901408450704225,0.0,
+sum,2318,rag_bm25,The panel of eight medical professionals will be formed by the Football Association. The panel will help advise the FA on what can be done to make the game safer. The team will also be asked to help advise on how to make the game safer for players.,"Football Association have created a panel made up of concussion experts .
+The eight medical professionals will meet in May to discuss future plans .
+Game has been criticised for not dealing with head injuries properly .",0.21951219512195125,0.0,
+sum,2318,rag_dense,The panel of eight medical professionals will be formed by the Football Association. The panel will help advise the FA on what can be done to make the game safer. The team will also be asked to help advise on how to make the game safer for players.,"Football Association have created a panel made up of concussion experts .
+The eight medical professionals will meet in May to discuss future plans .
+Game has been criticised for not dealing with head injuries properly .",0.21951219512195125,0.0,
+sum,2318,rag_hybrid,The panel of eight medical professionals will be formed by the Football Association. The panel will help advise the FA on what can be done to make the game safer. The team will also be asked to help advise on how to make the game safer for players.,"Football Association have created a panel made up of concussion experts .
+The eight medical professionals will meet in May to discuss future plans .
+Game has been criticised for not dealing with head injuries properly .",0.21951219512195125,0.0,
+sum,2519,llm,NAC Breda manager Robert Maaskant tries to snatch a two-goal lead. The 46-year-old threw a devastating right hook to the side of the dugout.,"NAC Breda let slip a two-goal lead, sending boss Robert Maaskant wild .
+Their manager was so upset with what he'd seen he PUNCHED the dugout .
+The game on Saturday ended 2-2 against last-placed team FC Dordrecht .",0.23880597014925375,0.0,
+sum,2519,rag_bm25,NAC Breda manager Robert Maaskant tries to snatch a two-goal lead from the net.,"NAC Breda let slip a two-goal lead, sending boss Robert Maaskant wild .
+Their manager was so upset with what he'd seen he PUNCHED the dugout .
+The game on Saturday ended 2-2 against last-placed team FC Dordrecht .",0.2545454545454546,0.0,
+sum,2519,rag_dense,NAC Breda manager Robert Maaskant tries to snatch a two-goal lead from the net.,"NAC Breda let slip a two-goal lead, sending boss Robert Maaskant wild .
+Their manager was so upset with what he'd seen he PUNCHED the dugout .
+The game on Saturday ended 2-2 against last-placed team FC Dordrecht .",0.2545454545454546,0.0,
+sum,2519,rag_hybrid,NAC Breda manager Robert Maaskant tries to snatch a two-goal lead from the net.,"NAC Breda let slip a two-goal lead, sending boss Robert Maaskant wild .
+Their manager was so upset with what he'd seen he PUNCHED the dugout .
+The game on Saturday ended 2-2 against last-placed team FC Dordrecht .",0.2545454545454546,0.0,
+sum,8347,llm,"Conrad Clitheroe, 54, has been thrown in jail for writing down aircraft registration numbers.","Conrad Clitheroe is in a jail with friends Gary Cooper and Neil Munro .
+The 54-year-old says he has run out of a vital blood pressure medicine .
+Men arrested at Fujairah Airport after 'spotting planes and taking notes'
+They have not been charged with any offence since arrival from Dubai .",0.15384615384615385,0.0,
+sum,8347,rag_bm25,"Conrad Clitheroe, 54, and Gary Cooper, 54, were thrown in jail after being arrested for writing down aircraft registration numbers in Dubai. But his wife says he has now run out of a blood pressure medication.","Conrad Clitheroe is in a jail with friends Gary Cooper and Neil Munro .
+The 54-year-old says he has run out of a vital blood pressure medicine .
+Men arrested at Fujairah Airport after 'spotting planes and taking notes'
+They have not been charged with any offence since arrival from Dubai .",0.3218390804597701,0.0,
+sum,8347,rag_dense,"Conrad Clitheroe, 54, and Gary Cooper, 54, were thrown in jail after being arrested for writing down aircraft registration numbers in Dubai. But his wife says he has now run out of a blood pressure medication.","Conrad Clitheroe is in a jail with friends Gary Cooper and Neil Munro .
+The 54-year-old says he has run out of a vital blood pressure medicine .
+Men arrested at Fujairah Airport after 'spotting planes and taking notes'
+They have not been charged with any offence since arrival from Dubai .",0.3218390804597701,0.0,
+sum,8347,rag_hybrid,"Conrad Clitheroe, 54, and Gary Cooper, 54, were thrown in jail after being arrested for writing down aircraft registration numbers in Dubai. But his wife says he has now run out of a blood pressure medication.","Conrad Clitheroe is in a jail with friends Gary Cooper and Neil Munro .
+The 54-year-old says he has run out of a vital blood pressure medicine .
+Men arrested at Fujairah Airport after 'spotting planes and taking notes'
+They have not been charged with any offence since arrival from Dubai .",0.3218390804597701,0.0,
+sum,1997,llm,Manchester City have failed to build on a title success. Pellegrini has said City must sign a 'crack' player. The Chilean says he is not a fan of the Premier League.,"Manuel Pellegrini believes Man City need to sign a world class superstar .
+The Chilean insists it is important to splash the cash every other season .
+City brought in Eliaquim Mangala, Fernando and Bacary Sagna in summer .
+Manchester City face Crystal Palace at Selhurst Park on Monday night .",0.20512820512820512,0.0,
+sum,1997,rag_bm25,Manuel Pellegrini believes Manchester City must splash the cash in the summer. Man City are currently fourth in the Premier League. Manuel Pellegrini has said the club must splash the cash in the summer.,"Manuel Pellegrini believes Man City need to sign a world class superstar .
+The Chilean insists it is important to splash the cash every other season .
+City brought in Eliaquim Mangala, Fernando and Bacary Sagna in summer .
+Manchester City face Crystal Palace at Selhurst Park on Monday night .",0.271604938271605,0.0,
+sum,1997,rag_dense,Manuel Pellegrini believes Manchester City must splash the cash in the summer. Man City are currently fourth in the Premier League. Manuel Pellegrini has said the club must splash the cash in the summer.,"Manuel Pellegrini believes Man City need to sign a world class superstar .
+The Chilean insists it is important to splash the cash every other season .
+City brought in Eliaquim Mangala, Fernando and Bacary Sagna in summer .
+Manchester City face Crystal Palace at Selhurst Park on Monday night .",0.271604938271605,0.0,
+sum,1997,rag_hybrid,Manuel Pellegrini believes Manchester City must splash the cash in the summer. Man City are currently fourth in the Premier League. Manuel Pellegrini has said the club must splash the cash in the summer.,"Manuel Pellegrini believes Man City need to sign a world class superstar .
+The Chilean insists it is important to splash the cash every other season .
+City brought in Eliaquim Mangala, Fernando and Bacary Sagna in summer .
+Manchester City face Crystal Palace at Selhurst Park on Monday night .",0.271604938271605,0.0,
+sum,3789,llm,"Le'Veon Bell will appeal the NFL's decision to ban him for the first three games of the season. Bell was stopped in his Chevrolet Camaro last August after a police officer noticed a strong smell of marijuana. Bell will appeal the decision, says ESPN's Adam Schefter.","Bell has been banned after being found in possession of a 20 gram bag of marijuana and was hit with a DUI charge last August .
+A key piece of the Steelers offense, his absence during the play-off game with the Ravens was a key factor in the Steelers defeat .
+And they will have to start the season without the 23-year-old running back .
+LeGarrette Blount was in the vehicle with Bell and he was banned for the first game of the season earlier this week .",0.16176470588235298,0.0,
+sum,3789,rag_bm25,Le'Veon Bell will appeal the NFL's decision to ban him for the first three games of the season. Bell will miss the first three games for abusing the league's substance abuse policy and he will also be fined a game cheque.,"Bell has been banned after being found in possession of a 20 gram bag of marijuana and was hit with a DUI charge last August .
+A key piece of the Steelers offense, his absence during the play-off game with the Ravens was a key factor in the Steelers defeat .
+And they will have to start the season without the 23-year-old running back .
+LeGarrette Blount was in the vehicle with Bell and he was banned for the first game of the season earlier this week .",0.16793893129770993,0.0,
+sum,3789,rag_dense,Le'Veon Bell will appeal the NFL's decision to ban him for the first three games of the season. Bell will miss the first three games for abusing the league's substance abuse policy and he will also be fined a game cheque.,"Bell has been banned after being found in possession of a 20 gram bag of marijuana and was hit with a DUI charge last August .
+A key piece of the Steelers offense, his absence during the play-off game with the Ravens was a key factor in the Steelers defeat .
+And they will have to start the season without the 23-year-old running back .
+LeGarrette Blount was in the vehicle with Bell and he was banned for the first game of the season earlier this week .",0.16793893129770993,0.0,
+sum,3789,rag_hybrid,Le'Veon Bell will appeal the NFL's decision to ban him for the first three games of the season. Bell will miss the first three games for abusing the league's substance abuse policy and he will also be fined a game cheque.,"Bell has been banned after being found in possession of a 20 gram bag of marijuana and was hit with a DUI charge last August .
+A key piece of the Steelers offense, his absence during the play-off game with the Ravens was a key factor in the Steelers defeat .
+And they will have to start the season without the 23-year-old running back .
+LeGarrette Blount was in the vehicle with Bell and he was banned for the first game of the season earlier this week .",0.16793893129770993,0.0,

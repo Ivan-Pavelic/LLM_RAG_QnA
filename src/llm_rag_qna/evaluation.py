@@ -87,3 +87,86 @@ def correlation_manual_vs_metric(
         return float("nan")
     return float(a[ok].corr(b[ok], method="spearman"))
 
+
+def bootstrap_confidence_interval(
+    per_example_scores: Sequence[float],
+    *,
+    n_bootstrap: int = 1000,
+    ci: float = 0.95,
+    random_state: Optional[int] = None,
+) -> Tuple[float, float, float]:
+    """
+    Compute mean and bootstrap (percentile) confidence interval for a metric.
+    Returns (mean, lower_bound, upper_bound).
+    """
+    scores = np.asarray(per_example_scores, dtype=float)
+    n = len(scores)
+    if n == 0:
+        return float("nan"), float("nan"), float("nan")
+    rng = np.random.default_rng(random_state)
+    means = []
+    for _ in range(n_bootstrap):
+        idx = rng.integers(0, n, size=n)
+        means.append(float(np.mean(scores[idx])))
+    means = np.array(means)
+    alpha = (1 - ci) / 2
+    low = float(np.percentile(means, 100 * alpha))
+    high = float(np.percentile(means, 100 * (1 - alpha)))
+    return float(np.mean(scores)), low, high
+
+
+def paired_bootstrap_p_value(
+    scores_a: Sequence[float],
+    scores_b: Sequence[float],
+    *,
+    n_bootstrap: int = 1000,
+    random_state: Optional[int] = None,
+) -> Tuple[float, float]:
+    """
+    Paired bootstrap test for H0: mean(scores_a) <= mean(scores_b).
+    Returns (difference = mean_a - mean_b, p_value one-sided).
+    """
+    a = np.asarray(scores_a, dtype=float)
+    b = np.asarray(scores_b, dtype=float)
+    if len(a) != len(b) or len(a) == 0:
+        return float("nan"), float("nan")
+    diff_obs = float(np.mean(a) - np.mean(b))
+    rng = np.random.default_rng(random_state)
+    n = len(a)
+    diffs = []
+    for _ in range(n_bootstrap):
+        idx = rng.integers(0, n, size=n)
+        diffs.append(float(np.mean(a[idx]) - np.mean(b[idx])))
+    diffs = np.array(diffs)
+    # p_value: proportion of bootstrap diffs <= 0 when testing A > B
+    p_value = float(np.mean(diffs <= 0))
+    return diff_obs, p_value
+
+
+def error_analysis_breakdown(
+    df: pd.DataFrame,
+    *,
+    pred_col: str = "prediction",
+    ref_col: str = "reference",
+    id_col: str = "id",
+    system_col: str = "system",
+    correct_col: Optional[str] = None,
+) -> pd.DataFrame:
+    """
+    Build an error analysis table: per row, whether prediction matches reference
+    (normalized exact match), reference length (words), and optional system.
+    If correct_col is provided, it is used as the correctness indicator; otherwise
+    it is computed from pred_col and ref_col.
+    """
+    out = df[[id_col, system_col, pred_col, ref_col]].copy()
+    if correct_col and correct_col in df.columns:
+        out["correct"] = df[correct_col]
+    else:
+        out["correct"] = [
+            1.0 if normalize_text(p) == normalize_text(r) else 0.0
+            for p, r in zip(df[pred_col], df[ref_col])
+        ]
+    out["ref_length"] = [len(str(r).split()) for r in df[ref_col]]
+    out["pred_length"] = [len(str(p).split()) for p in df[pred_col]]
+    return out
+

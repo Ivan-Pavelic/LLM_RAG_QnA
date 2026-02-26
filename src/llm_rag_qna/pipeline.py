@@ -10,13 +10,16 @@ from .prompts import (
     build_sum_prompt,
     build_sum_rag_prompt,
 )
-from .retrievers import BM25Retriever, DenseRetriever, RetrievedChunk
+from .retrievers import BM25Retriever, DenseRetriever, HybridRetriever, RetrievedChunk
 from .utils import Chunk
 
 
 @dataclass
 class RAGConfig:
     top_k: int = 5
+    """When reranker is set, we first retrieve retrieve_candidates then rerank to top_k."""
+    retrieve_candidates: int | None = None
+    reranker: object | None = None  # RerankerProtocol, optional
 
 
 def _contexts_from_retrieval(results: List[RetrievedChunk]) -> List[str]:
@@ -36,12 +39,17 @@ def answer_qa_llm(
 def answer_qa_rag(
     question: str,
     *,
-    retriever: BM25Retriever | DenseRetriever,
+    retriever: BM25Retriever | DenseRetriever | HybridRetriever,
     rag_cfg: RAGConfig,
     generator: HFText2TextGenerator,
     gen_cfg: GenerationConfig,
 ) -> Dict[str, object]:
-    retrieved = retriever.retrieve(question, top_k=rag_cfg.top_k)
+    candidate_k = rag_cfg.retrieve_candidates if rag_cfg.retrieve_candidates is not None else rag_cfg.top_k
+    retrieved = retriever.retrieve(question, top_k=candidate_k)
+    if rag_cfg.reranker is not None and hasattr(rag_cfg.reranker, "rerank"):
+        retrieved = rag_cfg.reranker.rerank(question, retrieved, top_k=rag_cfg.top_k)
+    else:
+        retrieved = retrieved[: rag_cfg.top_k]
     prompt = build_qa_rag_prompt(question, _contexts_from_retrieval(retrieved))
     answer = generator.generate(prompt, cfg=gen_cfg)
     return {"answer": answer, "retrieved": retrieved, "prompt": prompt}
@@ -76,8 +84,12 @@ def summarize_rag_over_article(
         retriever = BM25Retriever(article_chunks)
     elif retriever_type == "dense":
         retriever = DenseRetriever(article_chunks, model_name=dense_model_name)
+    elif retriever_type == "hybrid":
+        bm25 = BM25Retriever(article_chunks)
+        dense = DenseRetriever(article_chunks, model_name=dense_model_name)
+        retriever = HybridRetriever(bm25, dense, candidate_size=min(50, len(article_chunks)), rrf_k=60)
     else:
-        raise ValueError("retriever_type must be 'bm25' or 'dense'")
+        raise ValueError("retriever_type must be 'bm25', 'dense', or 'hybrid'")
 
     retrieved = retriever.retrieve(query, top_k=rag_cfg.top_k)
     prompt = build_sum_rag_prompt(_contexts_from_retrieval(retrieved))

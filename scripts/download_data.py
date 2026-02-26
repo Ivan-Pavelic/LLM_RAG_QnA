@@ -35,8 +35,8 @@ except ModuleNotFoundError:  # pragma: no cover
 def main(
     *,
     seed: int = 13,
-    qa_n: int = 80,
-    sum_n: int = 25,
+    qa_n: int = 400,
+    sum_n: int = 100,
 ) -> None:
     set_seed(seed)
     random.seed(seed)
@@ -113,6 +113,21 @@ def main(
     print(f"Output directory: {out_dir.resolve()}")
 
 
+def _parse_args():
+    import argparse
+    p = argparse.ArgumentParser(description="Download and sample SQuAD and CNN/DailyMail for LLM vs RAG experiments.")
+    p.add_argument("--seed", type=int, default=13, help="Random seed for reproducibility.")
+    p.add_argument("--qa-n", type=int, default=400, help="Number of SQuAD QA pairs to sample (default 400 for robustness).")
+    p.add_argument("--sum-n", type=int, default=100, help="Number of CNN/DailyMail articles to sample (default 100).")
+    p.add_argument("--large", action="store_true", help="Use a very large sample: 2000 QA pairs and 200 articles (SQuAD train has 87K; CNN/DM test has 11K+).")
+    args = p.parse_args()
+    if args.large:
+        args.qa_n = 2000
+        args.sum_n = 200
+    return args
+
+
 if __name__ == "__main__":
-    main()
+    args = _parse_args()
+    main(seed=args.seed, qa_n=args.qa_n, sum_n=args.sum_n)
 

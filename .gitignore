@@ -21,6 +21,11 @@ data/raw/
 data/cache/
 data/indices/
 
+# Secrets (never commit API keys)
+.env
+.env.local
+*.key
+
 # OS
 Thumbs.db
 Desktop.ini

@@ -4,13 +4,16 @@ This repository supports an undergraduate NLP research project:
 **Comparative Analysis of LLM and Retrieval-Augmented Generation (RAG) Systems for Question Answering and Document Summarization**.
 
 ## What you will run
-- **LLM baseline**: answer questions / summarize articles without retrieval.
-- **RAG-BM25**: sparse retrieval with BM25 + the same generator.
-- **RAG-Dense**: dense retrieval with SentenceTransformers + the same generator.
+- **LLM baseline**: answer questions or summarize articles without retrieval (non-RAG baseline).
+- **RAG-BM25**: sparse retrieval with BM25 plus the same generator.
+- **RAG-Dense**: dense retrieval with SentenceTransformers plus the same generator.
+- **RAG-Hybrid**: BM25 + dense retrieval combined via Reciprocal Rank Fusion (RRF).
+- Optional **reranker** (e.g. MonoT5) and **larger generators** (GPT-3.5/4 via API, LLaMA 2, Mistral via Hugging Face) for extended experiments.
 
-Datasets (sampled for coursework scale, fully reproducible):
-- **Q&A**: SQuAD v1.1 subset (80 questions by default) with a corpus built from all sampled contexts.
-- **Summarization**: CNN/DailyMail subset (25 articles by default).
+Datasets (reproducible with fixed seed; use larger sizes for statistical robustness):
+- **Q&A**: SQuAD v1.1 subset (default 400 questions; run `python -m scripts.download_data --qa-n 400 --sum-n 100`).
+- **Summarization**: CNN/DailyMail subset (default 100 articles).
+- For quick runs use smaller sizes: `--qa-n 80 --sum-n 25`.
 
 ## Setup (Windows / PowerShell)
 Create and activate a virtual environment, then install dependencies:
